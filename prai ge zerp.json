@@ -2175,6 +2175,84 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 143,
+      "form" : "mak2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "値" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 144,
+      "form" : "xom1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "積" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 145,
+      "form" : "sip1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "国" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 146,
+      "form" : "bap"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "同" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 147,
+      "form" : "in2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "閉" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 148,
+      "form" : "nam2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "開" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeiyuo",
