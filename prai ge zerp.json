@@ -2253,6 +2253,149 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 149,
+      "form" : "iei2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "春" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 150,
+      "form" : "kat2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "秋" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 151,
+      "form" : "kat1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "子" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 152,
+      "form" : "ten1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "混" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 153,
+      "form" : "li1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "倉" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 154,
+      "form" : "y1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "官" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 155,
+      "form" : "bia1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "民" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 156,
+      "form" : "bau2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "迷" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 157,
+      "form" : "xa2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "意" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 158,
+      "form" : "niek1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "連" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 159,
+      "form" : "ue1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "万" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeiyuo",
