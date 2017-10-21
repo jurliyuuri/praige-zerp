@@ -549,9 +549,6 @@
       "title" : "概念",
       "forms" : [ "ある状態からある状態への外から内にかけての動作" ]
     }, {
-      "title" : "名詞",
-      "forms" : [ "" ]
-    }, {
       "title" : "動詞",
       "forms" : [ "来る", "変わる" ]
     }, {
@@ -1624,9 +1621,21 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "星" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "天上の小天体" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "星", "年" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "例文",
+      "text" : "pet2 et2 cue1.（星が一周する。）＝一年が経った。"
+    }, {
+      "title" : "語源",
+      "text" : "pet^ii.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1637,9 +1646,24 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "風" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "空気やその流れ" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "風", "空気", "気体" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "吹く" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "例文",
+      "text" : "pua2 pek1 a.（風が強い。）"
+    }, {
+      "title" : "語源",
+      "text" : "pura.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1650,9 +1674,24 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "位" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "順位付けられたもの" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "位", "順番", "（カードゲームで）シークエンス", "～番目", "第～番" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "順位付ける" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "例文",
+      "text" : "et2 pui1 ka1 hia1.（最も大切なのは思うことだ。）"
+    }, {
+      "title" : "語源",
+      "text" : "pwojei.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1663,9 +1702,24 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "真" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "真実であること。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "真実", "真実" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "真に", "真の", "本当に", "本当の" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "例文",
+      "text" : "zap2 zep1 put a.　（彼の発言は真実だ。）\nmua2 put hem2 a.　（あなたは本当に美しい。）"
+    }, {
+      "title" : "語源",
+      "text" : "puto.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1676,9 +1730,24 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "力" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "他に変化を与える力" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "力" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "～できる" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "例文",
+      "text" : "kua2 ka1 py a.　（筆は力なり。）\npai2 py zep1 pek1 zep1.　（私はパイグ語を話すことができる。）"
+    }, {
+      "title" : "語源",
+      "text" : "piu.ar>piu>"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2636,9 +2705,7 @@
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeiyuo",
-    "alphabetOrderType" : "UNICODE",
     "punctuations" : [ ",", "、" ],
-    "pronunciationTitle" : null,
     "plainInformationTitles" : [ "例文", "用法", "語源" ],
     "informationTitleOrder" : null,
     "defaultWord" : {
