@@ -2412,6 +2412,227 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 161,
+      "form" : "ket"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "常" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 162,
+      "form" : "gat2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "祭" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 163,
+      "form" : "hau2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "笑" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 164,
+      "form" : "kaik2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "戦" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 165,
+      "form" : "mot2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "壊" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 166,
+      "form" : "ge"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "等" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 167,
+      "form" : "cuau2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "形" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 168,
+      "form" : "tut1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "毎" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 169,
+      "form" : "na1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "静" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 170,
+      "form" : "hop1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "重" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 171,
+      "form" : "kit"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "極" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 172,
+      "form" : "pok"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "色" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 173,
+      "form" : "su1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "銭" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 174,
+      "form" : "sin1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "名" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 175,
+      "form" : "naip2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "労" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 176,
+      "form" : "uaip2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "助" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 177,
+      "form" : "ai2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "冠" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeiyuo",
