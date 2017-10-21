@@ -2396,6 +2396,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 160,
+      "form" : "tam2 hue a uai1"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "人のために自分を犠牲にする人のこと。パイグ将棋の用語。" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "皇処之将" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeiyuo",
