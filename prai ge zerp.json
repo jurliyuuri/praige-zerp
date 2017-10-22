@@ -2702,6 +2702,32 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 178,
+      "form" : "bo1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "満" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 179,
+      "form" : "nim2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "族" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeiyuo",
