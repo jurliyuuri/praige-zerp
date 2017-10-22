@@ -1,4 +1,4 @@
-﻿{
+{
   "words" : [ {
     "entry" : {
       "id" : 1,
@@ -1135,7 +1135,7 @@
   }, {
     "entry" : {
       "id" : 63,
-      "form" : "kaik"
+      "form" : "kia1"
     },
     "translations" : [ {
       "title" : "漢字転写",
@@ -2705,7 +2705,9 @@
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeiyuo",
+    "alphabetOrderType" : "UNICODE",
     "punctuations" : [ ",", "、" ],
+    "pronunciationTitle" : null,
     "plainInformationTitles" : [ "例文", "用法", "語源" ],
     "informationTitleOrder" : null,
     "defaultWord" : {
