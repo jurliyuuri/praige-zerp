@@ -2728,6 +2728,32 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 180,
+      "form" : "lin"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "清" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 181,
+      "form" : "huap1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "定" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeiyuo",
