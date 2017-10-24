@@ -2899,6 +2899,32 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 195,
+      "form" : "ho1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "豊" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 196,
+      "form" : "hei2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "貧" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeiyuo",
