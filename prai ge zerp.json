@@ -2854,6 +2854,51 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 192,
+      "form" : "pek1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "硬" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "強い", "固い", "難しい" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 193,
+      "form" : "pek2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "牌" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "パイグ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 194,
+      "form" : "ho"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "軟" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeiyuo",
