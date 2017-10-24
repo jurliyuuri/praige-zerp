@@ -55,9 +55,6 @@
       "form" : "aim2"
     },
     "translations" : [ {
-      "title" : "漢字転写",
-      "forms" : [ "在" ]
-    }, {
       "title" : "概念",
       "forms" : [ "存在" ]
     }, {
@@ -69,6 +66,9 @@
     }, {
       "title" : "叫詞",
       "forms" : [ "はい" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "在" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
