@@ -2841,6 +2841,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 191,
+      "form" : "tua1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "果" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeiyuo",
