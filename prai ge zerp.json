@@ -5,14 +5,14 @@
       "form" : "a"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "噫" ]
+    }, {
       "title" : "概念",
       "forms" : [ "心が動いた時に発する声" ]
     }, {
       "title" : "叫詞",
       "forms" : [ "あ", "ああ！　" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "噫" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -30,14 +30,14 @@
       "form" : "a"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "之" ]
+    }, {
       "title" : "概念",
       "forms" : [ "修飾・形容・所有の分離" ]
     }, {
       "title" : "介詞",
       "forms" : [ "～の", "～な" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "之" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -55,6 +55,9 @@
       "form" : "aim2"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "在" ]
+    }, {
       "title" : "概念",
       "forms" : [ "存在" ]
     }, {
@@ -66,9 +69,6 @@
     }, {
       "title" : "叫詞",
       "forms" : [ "はい" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "在" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -92,6 +92,9 @@
       "form" : "mun1"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "無" ]
+    }, {
       "title" : "概念",
       "forms" : [ "無いこと" ]
     }, {
@@ -106,9 +109,6 @@
     }, {
       "title" : "叫詞",
       "forms" : [ "いいえ" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "無" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -132,14 +132,14 @@
       "form" : "ian1"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "出" ]
+    }, {
       "title" : "概念",
       "forms" : [ "無いものを在らせること" ]
     }, {
       "title" : "動詞",
       "forms" : [ "出す　出る　作る　作らせる　生む　生ませる" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "出" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -160,14 +160,14 @@
       "form" : "lit1"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "入" ]
+    }, {
       "title" : "概念",
       "forms" : [ "在るものを無くすこと" ]
     }, {
       "title" : "動詞",
       "forms" : [ "入る", "入らせる", "消す", "消させる" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "入" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -188,14 +188,14 @@
       "form" : "am"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "御" ]
+    }, {
       "title" : "概念",
       "forms" : [ "丁寧化" ]
     }, {
       "title" : "定詞",
       "forms" : [ "お～", "偉大な～" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "御" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -213,6 +213,9 @@
       "form" : "zep1"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "言" ]
+    }, {
       "title" : "概念",
       "forms" : [ "意味のある音を発すること" ]
     }, {
@@ -224,9 +227,6 @@
     }, {
       "title" : "定詞",
       "forms" : [ "言語の～", "～という～　" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "言" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -244,6 +244,9 @@
       "form" : "at"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "加" ]
+    }, {
       "title" : "概念",
       "forms" : [ "追加すること", "一緒であること" ]
     }, {
@@ -252,9 +255,6 @@
     }, {
       "title" : "動詞",
       "forms" : [ "加える", "足す" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "加" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -269,6 +269,9 @@
       "form" : "pai2"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "我" ]
+    }, {
       "title" : "概念",
       "forms" : [ "一人称代名詞" ]
     }, {
@@ -277,9 +280,6 @@
     }, {
       "title" : "定詞",
       "forms" : [ "私の" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "我" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -325,6 +325,9 @@
       "form" : "mua2"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "汝" ]
+    }, {
       "title" : "概念",
       "forms" : [ "二人称代名詞" ]
     }, {
@@ -333,9 +336,6 @@
     }, {
       "title" : "定詞",
       "forms" : [ "あなたの" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "汝" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -353,6 +353,9 @@
       "form" : "dat2"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "集" ]
+    }, {
       "title" : "概念",
       "forms" : [ "一か所にまとまる" ]
     }, {
@@ -361,14 +364,14 @@
     }, {
       "title" : "動詞",
       "forms" : [ "集まる", "集める" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "集" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "例文",
       "text" : "huet2 hia1 dat2　（土地の心の集まり＝文化省）"
+    }, {
+      "title" : "語源",
+      "text" : "dado.ar"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -378,6 +381,9 @@
       "form" : "be1"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "全" ]
+    }, {
       "title" : "概念",
       "forms" : [ "全体" ]
     }, {
@@ -386,9 +392,6 @@
     }, {
       "title" : "定詞",
       "forms" : [ "全体の", "全ての" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "全" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -403,6 +406,9 @@
       "form" : "pau1"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "別" ]
+    }, {
       "title" : "概念",
       "forms" : [ "他の概念から離れること" ]
     }, {
@@ -414,9 +420,6 @@
     }, {
       "title" : "定詞",
       "forms" : [ "別の" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "別" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -434,14 +437,14 @@
       "form" : "ie"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "於" ]
+    }, {
       "title" : "概念",
       "forms" : [ "ある一点" ]
     }, {
       "title" : "約詞",
       "forms" : [ "～に（場所", "時間ともに）", "～へ", "～より" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "於" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -459,6 +462,9 @@
       "form" : "aik2"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "光" ]
+    }, {
       "title" : "概念",
       "forms" : [ "光" ]
     }, {
@@ -470,9 +476,6 @@
     }, {
       "title" : "定詞",
       "forms" : [ "明るい" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "光" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -487,6 +490,9 @@
       "form" : "huet"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "闇" ]
+    }, {
       "title" : "概念",
       "forms" : [ "闇" ]
     }, {
@@ -498,9 +504,6 @@
     }, {
       "title" : "定詞",
       "forms" : [ "暗い" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "闇" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -515,6 +518,9 @@
       "form" : "mok1"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "行" ]
+    }, {
       "title" : "概念",
       "forms" : [ "ある状態からある状態への内から外にかけての動作" ]
     }, {
@@ -526,9 +532,6 @@
     }, {
       "title" : "約詞",
       "forms" : [ "～へ（移動性を含む）" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "行" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -546,6 +549,9 @@
       "form" : "sak2"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "来" ]
+    }, {
       "title" : "概念",
       "forms" : [ "ある状態からある状態への外から内にかけての動作" ]
     }, {
@@ -557,9 +563,6 @@
     }, {
       "title" : "叫詞",
       "forms" : [ "さあ" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "来" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -580,17 +583,17 @@
       "form" : "kua2"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "筆" ]
+    }, {
       "title" : "概念",
       "forms" : [ "画面に記録する" ]
     }, {
       "title" : "名詞",
-      "forms" : [ "筆" ]
+      "forms" : [ "筆", "ペン" ]
     }, {
       "title" : "動詞",
       "forms" : [ "書く", "描く" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "筆" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2632,9 +2635,27 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "色" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "物体の色彩的特徴" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "色", "様子" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "彩る", "着色する" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "鮮やかな" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "例文",
+      "text" : "ka1 tua1 pok.（この果物は鮮やかだ。）\npai2 pok let1 kok1.（私は絵を赤く塗った。）"
+    }, {
+      "title" : "語源",
+      "text" : "pogo.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2754,12 +2775,23 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 182,
+      "form" : "kok1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "赤" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeiyuo",
-    "alphabetOrderType" : "UNICODE",
     "punctuations" : [ ",", "、" ],
-    "pronunciationTitle" : null,
     "plainInformationTitles" : [ "例文", "用法", "語源" ],
     "informationTitleOrder" : null,
     "defaultWord" : {
@@ -2768,6 +2800,9 @@
         "form" : ""
       },
       "translations" : [ {
+        "title" : "漢字転写",
+        "forms" : [ "" ]
+      }, {
         "title" : "概念",
         "forms" : [ "" ]
       }, {
@@ -2780,10 +2815,10 @@
         "title" : "定詞",
         "forms" : [ "" ]
       }, {
-        "title" : "叫詞",
+        "title" : "約詞",
         "forms" : [ "" ]
       }, {
-        "title" : "漢字転写",
+        "title" : "叫詞",
         "forms" : [ "" ]
       } ],
       "tags" : [ ],
