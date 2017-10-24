@@ -39,7 +39,7 @@ use_preset_vocabulary: true
 言	zepf
 字	manf
 筆	kuav
-書	akv
+書	akf
 墨	huov
 文	taukf
 論	zuiv
@@ -196,3 +196,4 @@ use_preset_vocabulary: true
 族	nimv
 清	lin
 定	huapf
+錘	xov

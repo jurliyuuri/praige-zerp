@@ -2781,6 +2781,32 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 182,
+      "form" : "ak1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "書" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 183,
+      "form" : "xo2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "錘" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeiyuo",
