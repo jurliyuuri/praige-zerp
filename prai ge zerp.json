@@ -17,7 +17,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "例文",
-      "text" : "a......aim2. hia1 can2 ye nim2.　（ああ…はい。民族について知ってほしい。）\nmua2 kait a!　（あなたは良い！）"
+      "text" : "a......aim2. hia1 can2 ie nim2.　（ああ…はい。民族について知ってほしい。）\nmua2 kait a!　（あなたは良い！）"
     }, {
       "title" : "用法",
       "text" : "弱化してeに近くなることもある。"
@@ -399,7 +399,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "例文",
-      "text" : "mua2 be1 ma1 ye be1 cuk2.　（あなたはすべての人の中で最大だ。）"
+      "text" : "mua2 be1 ma1 ie be1 cuk2.　（あなたはすべての人の中で最大だ。）"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2844,7 +2844,9 @@
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeiyuo",
+    "alphabetOrderType" : "UNICODE",
     "punctuations" : [ ",", "、" ],
+    "pronunciationTitle" : null,
     "plainInformationTitles" : [ "例文", "用法", "語源" ],
     "informationTitleOrder" : null,
     "defaultWord" : {
