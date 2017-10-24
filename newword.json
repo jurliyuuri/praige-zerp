@@ -1,0 +1,14 @@
+{
+    "entry" : {
+      "id" : 190,
+      "form" : "kok1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "赤" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }
