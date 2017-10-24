@@ -69,6 +69,9 @@
     }, {
       "title" : "漢字転写",
       "forms" : [ "在" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "～している" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -841,6 +844,9 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "受" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "～される" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -906,6 +912,9 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "心" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "～したい" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -945,6 +954,9 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "互" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "～しあう" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1036,6 +1048,9 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "始" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "～し始める" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1374,6 +1389,9 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "須" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "～すべき" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1862,6 +1880,9 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "終" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "～し終わった" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1992,6 +2013,9 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "与" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "～させる" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -2187,6 +2211,9 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "為" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "～する（能動）；動詞明示。ほぼ使わない。" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
