@@ -2601,11 +2601,11 @@
   }, {
     "entry" : {
       "id" : 170,
-      "form" : "hop1"
+      "form" : "gy1"
     },
     "translations" : [ {
       "title" : "漢字転写",
-      "forms" : [ "重" ]
+      "forms" : [ "層" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
