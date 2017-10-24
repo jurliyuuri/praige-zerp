@@ -203,7 +203,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "例文",
-      "text" : "am zap2 am zep1　（偉大なる彼が仰せになった）"
+      "text" : "am zap2 am zep1.（偉大なる彼が仰せになった）"
     }, {
       "title" : "語源",
       "text" : "ami.ar"
@@ -371,7 +371,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "例文",
-      "text" : "huet2 hia1 dat2　（土地の心の集まり＝文化省）"
+      "text" : "huep hia1 dat2　（土地の心の集まり＝文化省）"
     }, {
       "title" : "語源",
       "text" : "dado.ar"
@@ -399,7 +399,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "例文",
-      "text" : "mua2 be1 ma1 ie be1 cuk2.　（あなたはすべての人の中で最大だ。）"
+      "text" : "mua2 ma1 ie be1　cuk2.（あなたはすべての人の中で最大だ。）"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2745,9 +2745,21 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "冠" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "頭に被るもの" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "冠", "アイル", "帽子" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "固有名詞的に「アイル」のことを指すこともある。"
+    }, {
+      "title" : "語源",
+      "text" : "airy.ln"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2844,9 +2856,7 @@
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeiyuo",
-    "alphabetOrderType" : "UNICODE",
     "punctuations" : [ ",", "、" ],
-    "pronunciationTitle" : null,
     "plainInformationTitles" : [ "例文", "用法", "語源" ],
     "informationTitleOrder" : null,
     "defaultWord" : {
