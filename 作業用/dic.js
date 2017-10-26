@@ -5,19 +5,19 @@ dat={
       "form" : "a"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "噫" ]
+    }, {
       "title" : "概念",
       "forms" : [ "心が動いた時に発する声" ]
     }, {
       "title" : "叫詞",
       "forms" : [ "あ", "ああ！　" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "噫" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "例文",
-      "text" : "a......aim2. hia1 can2 ye nim2.　（ああ…はい。民族について知ってほしい。）\nmua2 kait a!　（あなたは良い！）"
+      "text" : "a......aim2. hia1 can2 ie nim2.　（ああ…はい。民族について知ってほしい。）\nmua2 kait a!　（あなたは良い！）"
     }, {
       "title" : "用法",
       "text" : "弱化してeに近くなることもある。"
@@ -30,14 +30,14 @@ dat={
       "form" : "a"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "之" ]
+    }, {
       "title" : "概念",
       "forms" : [ "修飾・形容・所有の分離" ]
     }, {
       "title" : "介詞",
       "forms" : [ "～の", "～な" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "之" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -69,6 +69,9 @@ dat={
     }, {
       "title" : "漢字転写",
       "forms" : [ "在" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "～している" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -92,6 +95,9 @@ dat={
       "form" : "mun1"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "無" ]
+    }, {
       "title" : "概念",
       "forms" : [ "無いこと" ]
     }, {
@@ -106,14 +112,11 @@ dat={
     }, {
       "title" : "叫詞",
       "forms" : [ "いいえ" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "無" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "例文",
-      "text" : "pai2 mun1.　（私は居ない。）（私じゃない。）\nka1 mun1 a zep1 mak1.　（これは存在しない電話番号です。）\nmun1. pai2 mun1 hui1 tit.　（いいえ、私はぴすてぃるしていません。）"
+      "text" : "pai2 mun1.　（私は居ない。）（私じゃない。）\nka1 mun1 a zep1 mak2.　（これは存在しない電話番号です。）\nmun1. pai2 mun1 hui1 tit.　（いいえ、私はぴすてぃるしていません。）"
     }, {
       "title" : "語源",
       "text" : "amunu.ar"
@@ -132,14 +135,14 @@ dat={
       "form" : "ian1"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "出" ]
+    }, {
       "title" : "概念",
       "forms" : [ "無いものを在らせること" ]
     }, {
       "title" : "動詞",
       "forms" : [ "出す　出る　作る　作らせる　生む　生ませる" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "出" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -160,14 +163,14 @@ dat={
       "form" : "lit1"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "入" ]
+    }, {
       "title" : "概念",
       "forms" : [ "在るものを無くすこと" ]
     }, {
       "title" : "動詞",
       "forms" : [ "入る", "入らせる", "消す", "消させる" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "入" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -188,19 +191,19 @@ dat={
       "form" : "am"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "御" ]
+    }, {
       "title" : "概念",
       "forms" : [ "丁寧化" ]
     }, {
       "title" : "定詞",
       "forms" : [ "お～", "偉大な～" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "御" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "例文",
-      "text" : "am zap2 am zep1　（偉大なる彼が仰せになった）"
+      "text" : "am zap2 am zep1.（偉大なる彼が仰せになった）"
     }, {
       "title" : "語源",
       "text" : "ami.ar"
@@ -213,6 +216,9 @@ dat={
       "form" : "zep1"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "言" ]
+    }, {
       "title" : "概念",
       "forms" : [ "意味のある音を発すること" ]
     }, {
@@ -224,9 +230,6 @@ dat={
     }, {
       "title" : "定詞",
       "forms" : [ "言語の～", "～という～　" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "言" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -244,6 +247,9 @@ dat={
       "form" : "at"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "加" ]
+    }, {
       "title" : "概念",
       "forms" : [ "追加すること", "一緒であること" ]
     }, {
@@ -252,9 +258,6 @@ dat={
     }, {
       "title" : "動詞",
       "forms" : [ "加える", "足す" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "加" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -269,6 +272,9 @@ dat={
       "form" : "pai2"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "我" ]
+    }, {
       "title" : "概念",
       "forms" : [ "一人称代名詞" ]
     }, {
@@ -277,9 +283,6 @@ dat={
     }, {
       "title" : "定詞",
       "forms" : [ "私の" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "我" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -325,6 +328,9 @@ dat={
       "form" : "mua2"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "汝" ]
+    }, {
       "title" : "概念",
       "forms" : [ "二人称代名詞" ]
     }, {
@@ -333,14 +339,11 @@ dat={
     }, {
       "title" : "定詞",
       "forms" : [ "あなたの" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "汝" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "例文",
-      "text" : "mua2 mun1 piu can1 mua2 ak1 nan2 hue. （あなたはあなたの本がどこにあるか分からない。）"
+      "text" : "mua2 mun1 py can2 mua2 ak1 nan2 hue. （あなたはあなたの本がどこにあるか分からない。）"
     }, {
       "title" : "語源",
       "text" : "amua.ar"
@@ -353,6 +356,9 @@ dat={
       "form" : "dat2"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "集" ]
+    }, {
       "title" : "概念",
       "forms" : [ "一か所にまとまる" ]
     }, {
@@ -361,14 +367,14 @@ dat={
     }, {
       "title" : "動詞",
       "forms" : [ "集まる", "集める" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "集" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "例文",
-      "text" : "huet2 hia1 dat2　（土地の心の集まり＝文化省）"
+      "text" : "huep2 hia1 dat2　（土地の心の集まり＝文化省）"
+    }, {
+      "title" : "語源",
+      "text" : "dado.ar"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -378,6 +384,9 @@ dat={
       "form" : "be1"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "全" ]
+    }, {
       "title" : "概念",
       "forms" : [ "全体" ]
     }, {
@@ -386,14 +395,11 @@ dat={
     }, {
       "title" : "定詞",
       "forms" : [ "全体の", "全ての" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "全" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "例文",
-      "text" : "mua2 be1 ma1 ye be1 cuk2.　（あなたはすべての人の中で最大だ。）"
+      "text" : "mua2 ma1 ie be1　cuk2.（あなたはすべての人の中で最大だ。）"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -403,6 +409,9 @@ dat={
       "form" : "pau1"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "別" ]
+    }, {
       "title" : "概念",
       "forms" : [ "他の概念から離れること" ]
     }, {
@@ -414,9 +423,6 @@ dat={
     }, {
       "title" : "定詞",
       "forms" : [ "別の" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "別" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -434,14 +440,14 @@ dat={
       "form" : "ie"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "於" ]
+    }, {
       "title" : "概念",
       "forms" : [ "ある一点" ]
     }, {
       "title" : "約詞",
       "forms" : [ "～に（場所", "時間ともに）", "～へ", "～より" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "於" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -459,6 +465,9 @@ dat={
       "form" : "aik2"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "光" ]
+    }, {
       "title" : "概念",
       "forms" : [ "光" ]
     }, {
@@ -470,9 +479,6 @@ dat={
     }, {
       "title" : "定詞",
       "forms" : [ "明るい" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "光" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -487,6 +493,9 @@ dat={
       "form" : "huet"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "闇" ]
+    }, {
       "title" : "概念",
       "forms" : [ "闇" ]
     }, {
@@ -498,9 +507,6 @@ dat={
     }, {
       "title" : "定詞",
       "forms" : [ "暗い" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "闇" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -515,6 +521,9 @@ dat={
       "form" : "mok1"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "行" ]
+    }, {
       "title" : "概念",
       "forms" : [ "ある状態からある状態への内から外にかけての動作" ]
     }, {
@@ -526,9 +535,6 @@ dat={
     }, {
       "title" : "約詞",
       "forms" : [ "～へ（移動性を含む）" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "行" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -546,11 +552,11 @@ dat={
       "form" : "sak2"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "来" ]
+    }, {
       "title" : "概念",
       "forms" : [ "ある状態からある状態への外から内にかけての動作" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "" ]
     }, {
       "title" : "動詞",
       "forms" : [ "来る", "変わる" ]
@@ -560,9 +566,6 @@ dat={
     }, {
       "title" : "叫詞",
       "forms" : [ "さあ" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "来" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -583,17 +586,17 @@ dat={
       "form" : "kua2"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "筆" ]
+    }, {
       "title" : "概念",
       "forms" : [ "画面に記録する" ]
     }, {
       "title" : "名詞",
-      "forms" : [ "筆" ]
+      "forms" : [ "筆", "ペン" ]
     }, {
       "title" : "動詞",
       "forms" : [ "書く", "描く" ]
-    }, {
-      "title" : "漢字転写",
-      "forms" : [ "筆" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -844,6 +847,9 @@ dat={
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "受" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "～される" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -852,7 +858,7 @@ dat={
   }, {
     "entry" : {
       "id" : 41,
-      "form" : "gut2"
+      "form" : "kut2"
     },
     "translations" : [ {
       "title" : "漢字転写",
@@ -909,6 +915,9 @@ dat={
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "心" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "～したい" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -948,6 +957,9 @@ dat={
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "互" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "～しあう" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -969,7 +981,7 @@ dat={
   }, {
     "entry" : {
       "id" : 50,
-      "form" : "huep"
+      "form" : "huep2"
     },
     "translations" : [ {
       "title" : "漢字転写",
@@ -995,7 +1007,7 @@ dat={
   }, {
     "entry" : {
       "id" : 52,
-      "form" : "hum"
+      "form" : "hem"
     },
     "translations" : [ {
       "title" : "漢字転写",
@@ -1039,6 +1051,9 @@ dat={
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "始" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "～し始める" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1060,7 +1075,7 @@ dat={
   }, {
     "entry" : {
       "id" : 57,
-      "form" : "iam2"
+      "form" : "iam1"
     },
     "translations" : [ {
       "title" : "漢字転写",
@@ -1112,7 +1127,7 @@ dat={
   }, {
     "entry" : {
       "id" : 61,
-      "form" : "iut2"
+      "form" : "xit2"
     },
     "translations" : [ {
       "title" : "漢字転写",
@@ -1138,7 +1153,7 @@ dat={
   }, {
     "entry" : {
       "id" : 63,
-      "form" : "kaik"
+      "form" : "kia1"
     },
     "translations" : [ {
       "title" : "漢字転写",
@@ -1346,7 +1361,7 @@ dat={
   }, {
     "entry" : {
       "id" : 79,
-      "form" : "let2"
+      "form" : "lek1"
     },
     "translations" : [ {
       "title" : "漢字転写",
@@ -1377,6 +1392,9 @@ dat={
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "須" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "～すべき" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1624,9 +1642,21 @@ dat={
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "星" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "天上の小天体" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "星", "年" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "例文",
+      "text" : "pet2 et2 cei2.（星が一周する。）＝一年が経った。"
+    }, {
+      "title" : "語源",
+      "text" : "pet^ii.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1637,9 +1667,24 @@ dat={
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "風" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "空気やその流れ" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "風", "空気", "気体" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "吹く" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "例文",
+      "text" : "pua2 pek1 a.（風が強い。）"
+    }, {
+      "title" : "語源",
+      "text" : "pura.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1650,9 +1695,24 @@ dat={
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "位" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "順位付けられたもの" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "位", "順番", "（カードゲームで）シークエンス", "～番目", "第～番" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "順位付ける" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "例文",
+      "text" : "et2 pui1 ka1 hia1.（最も大切なのは思うことだ。）"
+    }, {
+      "title" : "語源",
+      "text" : "pwojei.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1663,9 +1723,24 @@ dat={
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "真" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "真実であること。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "真実", "真実" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "真に", "真の", "本当に", "本当の" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "例文",
+      "text" : "zap2 zep1 put a.　（彼の発言は真実だ。）\nmua2 put hem1 a.　（あなたは本当に美しい。）"
+    }, {
+      "title" : "語源",
+      "text" : "puto.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1676,9 +1751,24 @@ dat={
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "力" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "他に変化を与える力" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "力" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "～できる" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "例文",
+      "text" : "kua2 ka1 py a.　（筆は力なり。）\npai2 py zep1 pek2 zep1.　（私はパイグ語を話すことができる。）"
+    }, {
+      "title" : "語源",
+      "text" : "piu.ar>piu>"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1736,7 +1826,7 @@ dat={
   }, {
     "entry" : {
       "id" : 109,
-      "form" : "siut2"
+      "form" : "syt2"
     },
     "translations" : [ {
       "title" : "漢字転写",
@@ -1793,6 +1883,9 @@ dat={
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "終" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "～し終わった" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1892,7 +1985,7 @@ dat={
   }, {
     "entry" : {
       "id" : 121,
-      "form" : "tiun1"
+      "form" : "tyn1"
     },
     "translations" : [ {
       "title" : "漢字転写",
@@ -1923,6 +2016,9 @@ dat={
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "与" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "～させる" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -2118,6 +2214,9 @@ dat={
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "為" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "～する（能動）；動詞明示。ほぼ使わない。" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -2165,7 +2264,7 @@ dat={
   }, {
     "entry" : {
       "id" : 142,
-      "form" : "zui2"
+      "form" : "zui1"
     },
     "translations" : [ {
       "title" : "漢字転写",
@@ -2412,6 +2511,445 @@ dat={
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 161,
+      "form" : "ket"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "常" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 162,
+      "form" : "gat2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "祭" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 163,
+      "form" : "hau2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "笑" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 164,
+      "form" : "kaik"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "戦" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 165,
+      "form" : "mot2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "壊" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 166,
+      "form" : "ge"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "等" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 167,
+      "form" : "cuau2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "形" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 168,
+      "form" : "tut1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "毎" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 169,
+      "form" : "na1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "静" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 170,
+      "form" : "gy1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "層" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 171,
+      "form" : "kit"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "極" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 172,
+      "form" : "pok"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "色" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "物体の色彩的特徴" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "色", "様子" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "彩る", "着色する" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "鮮やかな" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "例文",
+      "text" : "ka1 tua1 pok.（この果物は鮮やかだ。）\npai2 pok lek1 kok1.（私は絵を赤く塗った。）"
+    }, {
+      "title" : "語源",
+      "text" : "pogo.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 173,
+      "form" : "su1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "銭" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 174,
+      "form" : "sin1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "名" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 175,
+      "form" : "naip2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "労" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 176,
+      "form" : "uaip2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "助" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 177,
+      "form" : "ai2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "冠" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "頭に被るもの" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "冠", "アイル", "帽子" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "固有名詞的に「アイル」のことを指すこともある。"
+    }, {
+      "title" : "語源",
+      "text" : "airy.ln"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 178,
+      "form" : "bo1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "満" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 179,
+      "form" : "nim2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "族" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 180,
+      "form" : "lin"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "清" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 181,
+      "form" : "huap1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "定" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 182,
+      "form" : "ak1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "書" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 183,
+      "form" : "xo2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "錘" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 190,
+      "form" : "kok1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "赤" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 191,
+      "form" : "tua1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "果" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 192,
+      "form" : "pek1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "硬" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "強い", "固い", "難しい" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 193,
+      "form" : "pek2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "牌" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "パイグ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 194,
+      "form" : "ho"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "軟" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 195,
+      "form" : "ho1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "豊" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 196,
+      "form" : "hei2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "貧" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 197,
+      "form" : "xot1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "季" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeiyuo",
@@ -2426,6 +2964,9 @@ dat={
         "form" : ""
       },
       "translations" : [ {
+        "title" : "漢字転写",
+        "forms" : [ "" ]
+      }, {
         "title" : "概念",
         "forms" : [ "" ]
       }, {
@@ -2442,9 +2983,6 @@ dat={
         "forms" : [ "" ]
       }, {
         "title" : "叫詞",
-        "forms" : [ "" ]
-      }, {
-        "title" : "漢字転写",
         "forms" : [ "" ]
       } ],
       "tags" : [ ],

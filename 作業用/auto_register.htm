@@ -1,14 +1,14 @@
 <meta charset="UTF-8">
 <script src="dic.js"></script>
 <script>
-  var arr = [["常","ket"],["祭","gat2"],["笑","hau2"],["戦","kaik2"],["壊","mot2"],["等","ge"],["形","cuau2"],["毎","tut1"],["静","na1"],["重","hop1"],["極","kit"],["色","pok"],["銭","su1"],["名","sin1"],["労","naip2"],["助","uaip2"],["冠","ai2"]];
+  var arr = [["倒","aip1"],["長","auk2"],["傾","aum2"],["圧","bet2"],["鼓","bum1"],["包","buo1"],["机","cet2"],["散","co1"],["席","cy2"],["深","daut1"],["門","giau1"],["傷","gui2"],["認","hio1"],["棚","hy2"],["寝","hok1"],["綿","hon1"],["挽","hua1"],["常","huai2"],["少","hue1"],["輩","huok1"],["黒","huok2"],["反","i2"],["磨","ia1"],["輪","yt2"],["血","kai1"],["帯","ky2"],["覆","ko1"],["謝","kuai1"],["豆","kuot1"],["父","kuak1"],["琴","lia1"],["白","liok1"],["煙","lo1"],["寒","lok1"],["新","lu2"],["耳","lua1"],["抗","mak1"],["母","mam1"],["軽","mit2"],["米","mo1"],["勿","nau"],["猫","ne2"],["酒","no1"],["学","nui2"],["守","num1"],["十","nun1"],["青","nuok2"],["囲","pia2"],["道","po1"],["奮","puat2"],["急","sam1"],["素","sat2"],["古","sia1"],["蜜","sik2"],["祖","so1"],["前","son1"],["使","sui1"],["体","tat2"],["唯","tet"],["従","tia1"],["茶","tia2"],["正","tit1"],["樽","to2"],["遊","tu2"],["味","tuik1"],["甘","tum1"],["型","xai1"],["歌","xau1"],["謎","xep2"],["裁","xy1"],["怖","zat1"],["質","zit1"],["党","zuit2"],["片","zuo1"]];
   function genElem(id, word, kanzi){
     return {
       "entry":{"id":id,"form":word},"translations":[{"title":"漢字転写","forms":[kanzi]}],"tags":[],"contents":[],"variations":[],"relations":[]}
   }
-  var last = 160;
+  var last = 197;
   for(var i=0; i<arr.length;i++){
-    dat.words[last+i] = genElem(last+i+1, arr[i][1], arr[i][0]);
+    dat.words.push(genElem(last+i+1, arr[i][1], arr[i][0]));
   }
   console.log(JSON.stringify(dat));
 </script>
