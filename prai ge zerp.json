@@ -3950,6 +3950,321 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 274,
+      "form" : "am zie1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "御広" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "広報。政府などが広げる様に情報を伝えたことから" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "広報" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "広報する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 275,
+      "form" : "cei2 cuk2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "周人" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "（カードゲームで）子" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 276,
+      "form" : "hua1 huo2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "挽墨" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "墨を摺る" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "墨を摺る" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "真面目な" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 277,
+      "form" : "huep2 hia1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "地心" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "文化" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "文化" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 278,
+      "form" : "huet aik2 sy2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "闇光石" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "ヘマタイト" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 279,
+      "form" : "kaik hue"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "戦処" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "戦場" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "戦場", "場", "フィールド" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 280,
+      "form" : "la1 cuk2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "軸人" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "（カードゲームで）親" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 281,
+      "form" : "nua2 kin2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "水金" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "水銀" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 282,
+      "form" : "nua2 suo2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "水類" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "液体" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 283,
+      "form" : "py sy2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "力石" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "ラブラドル長石" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 284,
+      "form" : "sik2 sy2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "蜜石" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "琥珀" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 285,
+      "form" : "sy2 suo2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "石類" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "固体" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 286,
+      "form" : "tam2 sy2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "皇石" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "翡翠" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 287,
+      "form" : "tin1 zuo1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "己片" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "手札" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 288,
+      "form" : "tun2 py"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "神力" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "ウェールフープ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 290,
+        "form" : "ue hup"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 289,
+      "form" : "tun2 zui1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "神論" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "宗教" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 290,
+      "form" : "ue hup"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "ウェールフープ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 288,
+        "form" : "tun2 py"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 291,
+      "form" : "xom1 zuo1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "積片" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "山札" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeiyuo",
