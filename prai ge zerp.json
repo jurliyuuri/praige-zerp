@@ -3912,6 +3912,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 272,
+      "form" : "kuai2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "中" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "中間" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeiyuo",
