@@ -2937,10 +2937,25 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 197,
+      "form" : "xot1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "季" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeiyuo",
+    "alphabetOrderType" : "UNICODE",
     "punctuations" : [ ",", "、" ],
+    "pronunciationTitle" : null,
     "plainInformationTitles" : [ "例文", "用法", "語源" ],
     "informationTitleOrder" : null,
     "defaultWord" : {
