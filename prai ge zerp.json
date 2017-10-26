@@ -3928,6 +3928,28 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 273,
+      "form" : "uo1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "件" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "事実" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "事実" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "事実となる；実現する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeiyuo",
