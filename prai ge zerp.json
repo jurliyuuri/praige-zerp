@@ -1075,7 +1075,7 @@
   }, {
     "entry" : {
       "id" : 57,
-      "form" : "iam2"
+      "form" : "iam1"
     },
     "translations" : [ {
       "title" : "漢字転写",
@@ -2553,7 +2553,7 @@
   }, {
     "entry" : {
       "id" : 164,
-      "form" : "kaik2"
+      "form" : "kaik"
     },
     "translations" : [ {
       "title" : "漢字転写",
