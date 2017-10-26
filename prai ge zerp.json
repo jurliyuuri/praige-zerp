@@ -371,7 +371,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "例文",
-      "text" : "huep hia1 dat2　（土地の心の集まり＝文化省）"
+      "text" : "huep2 hia1 dat2　（土地の心の集まり＝文化省）"
     }, {
       "title" : "語源",
       "text" : "dado.ar"
@@ -981,7 +981,7 @@
   }, {
     "entry" : {
       "id" : 50,
-      "form" : "huep"
+      "form" : "huep2"
     },
     "translations" : [ {
       "title" : "漢字転写",
