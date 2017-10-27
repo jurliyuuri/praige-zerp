@@ -4400,6 +4400,44 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 292,
+      "form" : "aik2 suo2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "光類" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "実詞（文章の根幹を作る品詞）" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "実詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 293,
+      "form" : "huet suo2 "
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "闇類" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "虚詞（文章の意義を調整する品詞）" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "虚詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeiyuo",
