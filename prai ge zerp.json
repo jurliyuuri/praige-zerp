@@ -693,11 +693,29 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "周" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "物の周囲" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "周り", "周囲" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "周りの" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "ceyuu.ar"
+    } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 77,
+        "form" : "la1"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 28,
@@ -706,9 +724,21 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "或" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "あるもの" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "ある～" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "あることをする" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "cweio.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -818,9 +848,18 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "如" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "様子" ]
+    }, {
+      "title" : "約詞",
+      "forms" : [ "～のよう" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "aima.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -983,13 +1022,16 @@
       "forms" : [ "心" ]
     }, {
       "title" : "定詞",
-      "forms" : [ "～したい" ]
+      "forms" : [ "～したい", "～するだろう" ]
     }, {
       "title" : "名詞",
       "forms" : [ "心" ]
     }, {
       "title" : "動詞",
       "forms" : [ "思う", "考える" ]
+    }, {
+      "title" : "",
+      "forms" : [ "" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1040,10 +1082,13 @@
       "forms" : [ "互" ]
     }, {
       "title" : "定詞",
-      "forms" : [ "～しあう" ]
+      "forms" : [ "～しあう", "互いに", "相互の" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "falaa.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1102,9 +1147,18 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "即" ]
+    }, {
+      "title" : "約詞",
+      "forms" : [ "～ならば", "～なので" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "仮定や条件にのみ用いる。"
+    }, {
+      "title" : "語源",
+      "text" : "hubwa.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1230,9 +1284,18 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "王" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "人の上に立つ人" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "王", "皇帝" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "iou.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1499,11 +1562,26 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "軸" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "物体の中心を通るもの" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "軸", "茎", "中心", "中央" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "leae.ar<lea1<la1"
+    } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 27,
+        "form" : "cei2"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 78,
@@ -1688,6 +1766,18 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "何" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "不定なもの" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "何" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "何の" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "何をする" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1996,9 +2086,21 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "上" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "上" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "上がる", "上げる" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "上の", "過去の" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "sau2 kakで「昔」の意味になる。"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2041,9 +2143,15 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "天" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "天空", "天", "空", "宇宙" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "siusa.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2322,9 +2430,18 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "再" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "一度起こったことがもう一度起きること" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "再び" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "tiu.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2335,9 +2452,18 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "而" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "文と文の接続に用いる" ]
+    }, {
+      "title" : "約詞",
+      "forms" : [ "～して", "～したら", "～したけども", "そして", "しかし" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "順接にも逆接にも、仮定にも条件にも使える。"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2380,9 +2506,21 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "下" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "下" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "下がる", "下げる", "落ちる", "落とす" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "下の", "未来の" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "ut2 kakで「未来」の意味になる。"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2473,9 +2611,15 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "乎" ]
+    }, {
+      "title" : "叫詞",
+      "forms" : [ "～か。疑問や反語を作る。" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "yuo>y + mun1"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2642,6 +2786,15 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "同" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "二個以上の事物に強い類似性や同時性があるもの" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "同じ" ]
+    }, {
+      "title" : "約詞",
+      "forms" : [ "～として", "～と同時に", "～とともに" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -2831,9 +2984,18 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "連" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "二つ以上のものが連続的に集まっていること" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "連続" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "nyeka<nyek1<niek1"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2873,9 +3035,15 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "常" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "いつも" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "ket'eo.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2953,9 +3121,18 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "等" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "多い", "たくさんの" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "～たち" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "go<ge"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2979,9 +3156,15 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "毎" ]
+    }, {
+      "title" : "約詞",
+      "forms" : [ "～毎", "～ごと" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "tut^oe.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2992,9 +3175,21 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "静" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "静けさ" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "動きが穏やかなさま" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "静かな" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "anaa"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3068,9 +3263,18 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "銭" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "お金", "金銭", "ズー（通貨単位）" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "商う", "商売をする" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "5ズーはおよそ8レジュで40円程度である。"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3192,9 +3396,18 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "清" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "汚れのないこと" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "澄み切った", "澄んだ", "清らかな", "清い" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "lingq.ln"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3205,9 +3418,18 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "定" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "それと決定する" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "定める", "決める" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "fafi.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3253,9 +3475,18 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "赤" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "赤" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "赤い" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "kai1/kan1+pok"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3327,9 +3558,18 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "豊" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "豊か" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "豊かな" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "xufoa.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3567,9 +3807,21 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "認" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "それをして良いということ" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "認可" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "認める", "許す" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "h^ikoo.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3647,6 +3899,9 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "常" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "常に", "いつも" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -3676,9 +3931,18 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "輩" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "兄弟", "姉妹" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "男女、老若を区別しない。"
+    }, {
+      "title" : "語源",
+      "text" : "fokjut.ln"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3689,9 +3953,18 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "黒" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "黒" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "黒い" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "huo2+pok"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3702,9 +3975,18 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "反" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "反対" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "反～" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "使用は稀。"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3859,9 +4141,18 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "白" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "白" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "白い" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "let1+pok"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3872,9 +4163,18 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "煙" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "煙" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "煙る", "喫煙する" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "lohu.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3887,7 +4187,7 @@
       "forms" : [ "寒" ]
     }, {
       "title" : "定詞",
-      "forms" : [ "寒い" ]
+      "forms" : [ "寒い", "冷たい" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -4000,9 +4300,15 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "勿" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "～するな" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "mun1+zau2"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4090,9 +4396,18 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "青" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "青" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "青い" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "nua2+pok"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4234,9 +4549,15 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "前" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "前" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "sono.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4279,6 +4600,15 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "唯" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "ただひとつの" ]
+    }, {
+      "title" : "約詞",
+      "forms" : [ "～だけ" ]
+    }, {
+      "title" : "叫詞",
+      "forms" : [ "～だけだ" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -4455,9 +4785,21 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "裁" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "物事を分別する" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "裁き", "裁き木", "裁き棒", "投げ棒", "パイグ将棋のあれ" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "裁く", "分別する" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "xiyu.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4945,6 +5287,28 @@
     } ],
     "tags" : [ ],
     "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 296,
+      "form" : "xi zi"
+    },
+    "translations" : [ {
+      "title" : "概念",
+      "forms" : [ "敬意の対象" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "～さん", "～様", "～先生", "みなさん" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "xici.lp"
+    }, {
+      "title" : "表記揺れ",
+      "text" : "xi1 zi1"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
