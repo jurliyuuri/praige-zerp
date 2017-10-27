@@ -4438,6 +4438,41 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 294,
+      "form" : "cet2 kaik"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "机戦" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "机戦", "パイグ将棋" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "机戦", "パイグ将棋" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 295,
+      "form" : "mok1 tau2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "行端" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "遠回しな" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeiyuo",
