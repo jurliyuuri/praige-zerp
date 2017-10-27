@@ -142,7 +142,7 @@
       "forms" : [ "無いものを在らせること" ]
     }, {
       "title" : "動詞",
-      "forms" : [ "出す　出る　作る　作らせる　生む　生ませる" ]
+      "forms" : [ "出す", "出る", "作る", "作らせる", "生む", "生ませる", "生じる", "生じさせる" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -531,7 +531,7 @@
       "forms" : [ "行い", "変化" ]
     }, {
       "title" : "動詞",
-      "forms" : [ "行く", "変わる", "変える" ]
+      "forms" : [ "行く", "変わる", "変える", "なる" ]
     }, {
       "title" : "約詞",
       "forms" : [ "～へ（移動性を含む）" ]
@@ -626,6 +626,9 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "糸" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "糸", "約詞" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -639,6 +642,9 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "膠" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "膠", "ゼラチン" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -665,6 +671,12 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "識" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "認識", "理解" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "認識する", "理解する" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -717,6 +729,9 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "声" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "声", "音", "叫詞" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -743,6 +758,12 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "貝" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "貝", "定詞" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "飾る" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -850,6 +871,9 @@
     }, {
       "title" : "定詞",
       "forms" : [ "～される" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "もらう" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -902,6 +926,12 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "友" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "友" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "親しい" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -918,6 +948,12 @@
     }, {
       "title" : "定詞",
       "forms" : [ "～したい" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "心" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "思う", "考える" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -973,6 +1009,9 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "処" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "場所" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -986,6 +1025,9 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "地" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "地面", "地球", "世界" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1054,6 +1096,9 @@
     }, {
       "title" : "定詞",
       "forms" : [ "～し始める" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "始まる" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1080,6 +1125,12 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "口" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "口" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "食べる", "飲む", "吸う" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1301,6 +1352,9 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "物" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "者", "物", "名詞" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1314,6 +1368,9 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "付" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "付ける", "着る", "適用する", "付く", "着る" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1394,7 +1451,10 @@
       "forms" : [ "須" ]
     }, {
       "title" : "定詞",
-      "forms" : [ "～すべき" ]
+      "forms" : [ "～すべき；～しなければならない" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "しなければならない" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1421,6 +1481,9 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "字" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "文字" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1433,6 +1496,9 @@
     },
     "translations" : [ {
       "title" : "漢字転写",
+      "forms" : [ "馬" ]
+    }, {
+      "title" : "名詞",
       "forms" : [ "馬" ]
     } ],
     "tags" : [ ],
@@ -1563,6 +1629,9 @@
     },
     "translations" : [ {
       "title" : "漢字転写",
+      "forms" : [ "紙" ]
+    }, {
+      "title" : "名詞",
       "forms" : [ "紙" ]
     } ],
     "tags" : [ ],
@@ -1779,6 +1848,9 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "女" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "女" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1886,6 +1958,9 @@
     }, {
       "title" : "定詞",
       "forms" : [ "～し終わった" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "完了する", "終わる" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1899,6 +1974,12 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "目" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "目" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "見る" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -2019,6 +2100,9 @@
     }, {
       "title" : "定詞",
       "forms" : [ "～させる" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "あげる", "させる", "与える" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -2217,6 +2301,9 @@
     }, {
       "title" : "定詞",
       "forms" : [ "～する（能動）；動詞明示。ほぼ使わない。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "動詞" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -2282,6 +2369,9 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "値" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "数", "値" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -2571,6 +2661,9 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "壊" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "壊れる" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -2649,6 +2742,9 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "極" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "とても", "非常に", "たくさん", "多い" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -2783,6 +2879,9 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "族" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "民族" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -2958,6 +3057,9 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "倒" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "倒れる" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -2984,6 +3086,12 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "傾" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "坂" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "傾ける" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -3153,6 +3261,12 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "綿" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "綿" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "ふわふわの" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -3192,6 +3306,9 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "少" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "少ない", "若い" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -3426,6 +3543,9 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "抗" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "抵抗する", "返す" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -3439,6 +3559,9 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "母" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "親（主に母）" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -3452,6 +3575,9 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "軽" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "軽い" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -3464,6 +3590,9 @@
     },
     "translations" : [ {
       "title" : "漢字転写",
+      "forms" : [ "米" ]
+    }, {
+      "title" : "名詞",
       "forms" : [ "米" ]
     } ],
     "tags" : [ ],
@@ -3503,6 +3632,9 @@
     },
     "translations" : [ {
       "title" : "漢字転写",
+      "forms" : [ "酒" ]
+    }, {
+      "title" : "名詞",
       "forms" : [ "酒" ]
     } ],
     "tags" : [ ],
@@ -3608,6 +3740,9 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "急" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "急ぐ" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
