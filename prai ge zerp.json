@@ -4566,7 +4566,7 @@
       "forms" : [ "御広" ]
     }, {
       "title" : "概念",
-      "forms" : [ "広報。政府などが広げる様に情報を伝えたことから" ]
+      "forms" : [ "広報" ]
     }, {
       "title" : "名詞",
       "forms" : [ "広報" ]
@@ -4575,7 +4575,10 @@
       "forms" : [ "広報する" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "政府などが広げる様に情報を伝えたことから。"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4947,9 +4950,7 @@
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeiyuo",
-    "alphabetOrderType" : "UNICODE",
     "punctuations" : [ ",", "、" ],
-    "pronunciationTitle" : null,
     "plainInformationTitles" : [ "例文", "用法", "語源" ],
     "informationTitleOrder" : null,
     "defaultWord" : {
