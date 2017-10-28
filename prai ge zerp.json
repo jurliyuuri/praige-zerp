@@ -5311,6 +5311,31 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 297,
+      "form" : "pit1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "震" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "事物が一定の幅を往復すること" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "揺れ", "震え", "振動" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "揺れる", "揺らす", "震える", "震わせる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "phidi.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeiyuo",
