@@ -5355,6 +5355,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 299,
+      "form" : "lin io kuai1 sy2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "清王謝石" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "身分が高くても威張らないこと" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeiyuo",
