@@ -3901,10 +3901,13 @@
     },
     "translations" : [ {
       "title" : "漢字転写",
-      "forms" : [ "常" ]
+      "forms" : [ "普" ]
     }, {
       "title" : "定詞",
       "forms" : [ "常に", "いつも" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "通常" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
