@@ -62,17 +62,17 @@
 軸	la1	形・外面
 衣	tak1	衣服
 糸	bai2	衣服
-日	kia1	天体
-月	xem1	天体
-星	pet2	天体
-天	syt2	天体
-地	huep2	天体
-山	zo1	天体
-谷		天体
-川	nut2	天体
-海		天体
-陸		天体
-島	dop1	天体
+日	kia1	地理
+月	xem1	地理
+星	pet2	地理
+天	syt2	地理
+地	huep2	地理
+山	zo1	地理
+谷		地理
+川	nut2	地理
+海		地理
+陸		地理
+島	dop1	地理
 上	sau2	方向
 下	ut2	方向
 左	tyn1	方向
@@ -89,7 +89,7 @@
 終	ta	移動
 出	ian1	移動
 入	lit1	移動
-一	et2	移動
+一	et2	数
 二	ik2	数
 三	om2	数
 四	ap1	数
@@ -107,12 +107,11 @@
 魚	mui1	動物
 虫		動物
 龍	hui2	動物
-機	kik1	箱
-箱	bu1	箱
-加	at	計量
-別	pau1	計量
-男	ki1	性別
-女	sa1	性別
+機	kik1	構造物
+箱	bu1	構造物
+		
+男	ki1	人間関係
+女	sa1	人間関係
 皇	tam2	宗教
 神	tun2	宗教
 船	muak1	乗り物
@@ -131,7 +130,7 @@
 声	cuop2	表現
 家	mut2	領域
 善	kait	性質
-友	hi1	
+友	hi1	人間関係
 美	hem1	性質
 受	guk2	
 与	tui2	
@@ -169,8 +168,8 @@
 子	kat1	
 混	ten1	
 倉	li1	
-官	y1	
-民	bia1	
+官	y1	人間関係
+民	bia1	人間関係
 迷	bau2	
 意	xa2	
 連	niek1	
@@ -194,7 +193,7 @@
 助	uaip2	
 冠	ai2	
 満	bo1	性質
-族	nim2	
+族	nim2	人間関係
 清	lin	性質
 定	huap1	
 錘	xo2	
@@ -211,61 +210,60 @@
 圧	bet2	
 鼓	bum1	
 包	buo1	
-机	cet2	
+机	cet2	構造物
 散	co1	
-席	cy2	
+席	cy2	構造物
 深	daut1	
-門	giau1	
+門	giau1	構造物
 傷	gui2	
 認	hio1	
-棚	hy2	
+棚	hy2	構造物
 寝	hok1	
-綿	hon1	
+綿	hon1	衣服
 挽	hua1	
 普	huai2	
 少	hue1	
-輩	huok1	
-黒	huok2	
+輩	huok1	人間関係
+黒	huok2	色彩
 反	i2	
 磨	ia1	
 輪	yt2	
-血	kai1	
+血	kai1	自然
 帯	ky2	
 覆	ko1	
 謝	kuai1	
-豆	kuot1	
-父	kuak1	
+豆	kuot1	自然
+父	kuak1	人間関係
 琴	lia1	
-白	liok1	
-煙	lo1	
+白	liok1	色彩
+煙	lo1	自然
 寒	lok1	
 新	lu2	
-耳	lua1	
+耳	lua1	身体
 抗	mak1	
-母	mam1	
+母	mam1	人間関係
 軽	mit2	
-米	mo1	
+米	mo1	自然
 勿	nau	
-猫	ne2	
+猫	ne2	動物
 酒	no1	
 学	nui2	
 守	num1	
-十	nun1	
-青	nuok2	
+十	nun1	数
 囲	pia2	
 道	po1	
 奮	puat2	
 急	sam1	
 素	sat2	
 古	sia1	
-蜜	sik2	
+蜜	sik2	自然
 祖	so1	
 前	son1	
 使	sui1	
-体	tat2	
+体	tat2	身体
 唯	tet	
 従	tia1	
-茶	tia2	
+茶	tia2	自然
 正	tit1	
 樽	to2	
 遊	tu2	
@@ -281,3 +279,6 @@
 片	zuo1	
 件	uo1	
 震	pit1	
+加	at	計量
+別	pau1	計量
+青	nuok2	色彩
