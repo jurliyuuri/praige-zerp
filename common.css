@@ -2,6 +2,10 @@
 	border-collapse:collapse;border-color:rgb(136,136,136);border-width:1px
 }
 
+.qq td {
+	padding: 3px;
+}
+
 .comment{color: green;}
 .box{border: 1px solid blue; padding: 10px; margin: 10px;}
 
