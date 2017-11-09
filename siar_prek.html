@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+<head>
+<title>古パイグなどについて考察する</title>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="common.css">
+</head>
+<body class="cool">
+<h1>古パイグなどについて考察する</h1>
+
+<h2>0. 今までのあらすじ</h2>
+<p>この記事を書いている段階（2017/11/09 23:00あたり）以前の話をまずまとめておく。</p>
+<h3>0-1. パイグ語辞書</h3>
+まず、きっかけとしては、悠里OSプロジェクトにおいての燐字の扱いを考えるにおいて、<a href="http://jurliyuuri.com/OS/opcode.html#i40">「字を選出しなきゃ、並べようがない」</a>との発言により、<a href="https://twitter.com/jclaws_pr/status/837354652198821889">悠里広報が前に出した115字</a>を基本とした暫定燐字一覧を作り始めることとなったということがある。
+<pre>
+2017-10-15 16:12:09: 悠里広報の115字を収集
+2017-10-15 16:36:45: 「神」やパイグ将棋系が欠けていることに気づく。
+この辺りから、「頻用字を選出する」というよりは、「とりあえず現世で作った燐字を全部集めなくては」という方面にモチベが移動する。
+2017-10-15 17:04:47: パイグ語文献をひたすら漁って字を集め始める。「<a href="https://sites.google.com/site/syxobo/paigu-yu/wen-fa-jie-shuo/pin-ci">類為貝刀声</a>」「<a href="https://sites.google.com/site/syxobo/paigu-yu/wen-fa-jie-shuo/yu-shun">家善友美</a>」「<a href="https://sites.google.com/site/syxobo/paigu-yu/wen-fa-jie-shuo/shi-xiang">受与力須</a>」「<a href="https://sites.google.com/site/syxobo/paigu-yu/wen-fa-jie-shuo/yue-ci">而即</a>」
+「<a href="https://www.youtube.com/watch?v=Hk3OP1cQoiE">御再乎於遠悪現(→真)噫</a>」「<a href="https://www.youtube.com/watch?v=Hk3OP1cQoiE">雪夏冬</a>」を発掘して17:25:11。
+2017-10-15 18:05:41: <a href="https://sites.google.com/site/panqateel/yougo">止広激付端律集</a>を発掘し、「せっかくならパイグ音との対応表を作れば便利では？」と思いはじめる
+2017-10-15 18:18:24: <a href="https://docs.google.com/spreadsheets/d/1yCXetRNZQrS4gyoFrdUGpBktiy5TWRHv_bqP_AujVlQ/edit#gid=1185787444">パイグ語漢字転写早見表</a>が作成される
+2017-10-19 01:33:21: 既にあったパイグ語OTM-JSON（21語のみ）をスクリプトによる自動登録で142語に増やす
+2017-10-21 09:21:37: <a href="https://github.com/jurliyuuri/praige-zerp/tree/master/%E7%87%90%E5%AD%97%E5%85%A5%E5%8A%9B">パイグ語から燐字を入力できるように</a>する
+2017-10-21 16:41:40: 後に「<a href="https://togetter.com/li/1163369">パイグ語整理計画</a>」と呼ばれることになる、諸文献の照らし合わせによるパイグ音確定作業が開始される。
+なお、この作業には上記の入力システムが活躍した。この過程で旧綴り（「力」piuなど）も一掃される。
+2017-10-23 18:23:12: パイグ語OTM-JSONが<a href="zpdic.herokuapp.com/dictionary/21">ZpDIC-Online</a>で<a href="https://twitter.com/S_Y15/status/922392955872096256">公開される</a>。
+2017-10-24 19:36:56: パイグ語整理計画が一段落する。
+2017-10-24 20:37:28: と思いきやPDIC辞書があったので、そのcsvをもらう
+2017-10-25 06:09:xx: csvを<a href="https://docs.google.com/spreadsheets/d/1myEUwZ6uccVca4CTs6GZ9LbwJgQ36uaUmHBLs1MWVog/edit#gid=1299387240">Google Spreadsheet</a>に変換する
+2017-10-25 06:18:09: パイグ語漢字転写早見表と照らし合わせたところ、<a href="https://twitter.com/sosoBOTpi/status/922935267010363392">様々な案件が発生する</a>。
+2017-10-26 22:24:21: PDIC版との照らし合わせで74字追加される。
+2017-10-27 10:26:15: PDIC版に基づき、ZpDIC版に語義が大量に追加される。
+</pre>
+という感じで、パイグ語辞書が充実してきた。
+
+<h3>0-2. 古パイグ</h3>
+<p>11月5日の13:30あたりから、どうやら「古パイグをやろう」という話になったらしく、17:00あたりまで作業をする。19:45あたりから作業が再開され、翌日01:00あたりまで作業が続き、古パイグの体系・古パイグでの再構音・韻図の韻名と声母名などを創作し終わる。これについての詳細は1章に記述することとする。</p>
+
+<p>その結果を見たfafs falira sashimiから、11月6日の09:42:05に「ファスマレー語をすっ飛ばさないでもらえるかね」という指摘が来た。「祖語からの経過を描いて、ファスマレー語を飛ば」し、「既にある設定でその上私が作った物を無視したというのは癪に障」る、と指摘された。なお、ファスマレー語をすっ飛ばした真の理由は、j.vがファスマレー語資料の存在を知らず、syがラネーモル語とファスマレー語を取り違えていたことから発生した珍事だった。</p>
+<p>さて、ファスマレー語が無視されている現状を改善すべく、資料を要求したところ、「資料そのものの公開は難しい」と言われ、j.vは不審に思う。また、ファスマレー語の体系・語形があまりにも他のラネーメ言語と合わないことから、「どうしようなぁ」となる。結果、<a href="https://togetter.com/li/1169932">なんやかんや</a>あって、改定前ファスマレー語は「<a href="http://lineparine.blogspot.com/2017/11/fas.html">完全なアポステリオリ言語であ</a>」り、かつアポステリオリ言語のためにパイグ・アイツォ・アイル・アイラニーヤ・タカン・エッツィアを全て改定するのは流石に「<a href="https://jurliyuuri.slack.com/archives/C6XERANHL/p1509977985000305">おどろおどろしい</a>」ので、改定前ファスマレー語は廃止されることが決定し、ラネーメ言語史の創作として改定後ファスマレー語を新規に創作していくこととなった。</p>
+</body>
+</html>
