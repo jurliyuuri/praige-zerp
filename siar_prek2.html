@@ -1,47 +1,15 @@
 <!doctype html>
 <html>
 <head>
-<title>古パイグなどについて考察する</title>
+<title>古パイグの仕様</title>
 <meta charset="UTF-8">
 <link rel="stylesheet" href="common.css">
 <script src="toRhyme.js"></script>
 </head>
 <body class="cool">
-<h1>古パイグなどについて考察する</h1>
-<p>以下は考察ログであり、設定集は<a href="siar_prek2.html">こちら</a>に置いてある。</p>
-<h2>0. 今までのあらすじ</h2>
-<p>この記事を書いている段階（2017/11/09 23:00あたり）以前の話をまずまとめておく。</p>
-<h3>0-1. パイグ語辞書</h3>
-まず、きっかけとしては、悠里OSプロジェクトにおいての燐字の扱いを考えるにおいて、<a href="http://jurliyuuri.com/OS/opcode.html#i40">「字を選出しなきゃ、並べようがない」</a>との発言により、<a href="https://twitter.com/jclaws_pr/status/837354652198821889">悠里広報が前に出した115字</a>を基本とした暫定燐字一覧を作り始めることとなったということがある。
-<pre>
-2017-10-15 16:12:09: 悠里広報の115字を収集
-2017-10-15 16:36:45: 「神」やパイグ将棋系が欠けていることに気づく。
-この辺りから、「頻用字を選出する」というよりは、「とりあえず現世で作った燐字を全部集めなくては」という方面にモチベが移動する。
-2017-10-15 17:04:47: パイグ語文献をひたすら漁って字を集め始める。「<a href="https://sites.google.com/site/syxobo/paigu-yu/wen-fa-jie-shuo/pin-ci">類為貝刀声</a>」「<a href="https://sites.google.com/site/syxobo/paigu-yu/wen-fa-jie-shuo/yu-shun">家善友美</a>」「<a href="https://sites.google.com/site/syxobo/paigu-yu/wen-fa-jie-shuo/shi-xiang">受与力須</a>」「<a href="https://sites.google.com/site/syxobo/paigu-yu/wen-fa-jie-shuo/yue-ci">而即</a>」
-「<a href="https://www.youtube.com/watch?v=Hk3OP1cQoiE">御再乎於遠悪現(→真)噫</a>」「<a href="https://www.youtube.com/watch?v=Hk3OP1cQoiE">雪夏冬</a>」を発掘して17:25:11。
-2017-10-15 18:05:41: <a href="https://sites.google.com/site/panqateel/yougo">止広激付端律集</a>を発掘し、「せっかくならパイグ音との対応表を作れば便利では？」と思いはじめる
-2017-10-15 18:18:24: <a href="https://docs.google.com/spreadsheets/d/1yCXetRNZQrS4gyoFrdUGpBktiy5TWRHv_bqP_AujVlQ/edit#gid=1185787444">パイグ語漢字転写早見表</a>が作成される
-2017-10-19 01:33:21: 既にあったパイグ語OTM-JSON（21語のみ）をスクリプトによる自動登録で142語に増やす
-2017-10-21 09:21:37: <a href="https://github.com/jurliyuuri/praige-zerp/tree/master/%E7%87%90%E5%AD%97%E5%85%A5%E5%8A%9B">パイグ語から燐字を入力できるように</a>する
-2017-10-21 16:41:40: 後に「<a href="https://togetter.com/li/1163369">パイグ語整理計画</a>」と呼ばれることになる、諸文献の照らし合わせによるパイグ音確定作業が開始される。
-なお、この作業には上記の入力システムが活躍した。この過程で旧綴り（「力」piuなど）も一掃される。
-2017-10-23 18:23:12: パイグ語OTM-JSONが<a href="zpdic.herokuapp.com/dictionary/21">ZpDIC-Online</a>で<a href="https://twitter.com/S_Y15/status/922392955872096256">公開される</a>。
-2017-10-24 19:36:56: パイグ語整理計画が一段落する。
-2017-10-24 20:37:28: と思いきやPDIC辞書があったので、そのcsvをもらう
-2017-10-25 06:09:xx: csvを<a href="https://docs.google.com/spreadsheets/d/1myEUwZ6uccVca4CTs6GZ9LbwJgQ36uaUmHBLs1MWVog/edit#gid=1299387240">Google Spreadsheet</a>に変換する
-2017-10-25 06:18:09: パイグ語漢字転写早見表と照らし合わせたところ、<a href="https://twitter.com/sosoBOTpi/status/922935267010363392">様々な案件が発生する</a>。
-2017-10-26 22:24:21: PDIC版との照らし合わせで74字追加される。
-2017-10-27 10:26:15: PDIC版に基づき、ZpDIC版に語義が大量に追加される。
-</pre>
-という感じで、パイグ語辞書が充実してきた。
-
-<h3>0-2. 古パイグ</h3>
-<p>11月5日の13:30あたりから、どうやら「古パイグをやろう」という話になったらしく、17:00あたりまで作業をする。19:45あたりから作業が再開され、翌日01:00あたりまで作業が続き、古パイグの体系・古パイグでの再構音・韻図の韻名と声母名などを創作し終わる。これについての詳細は1章に記述することとする。</p>
-
-<p>その結果を見たfafs falira sashimiから、11月6日の09:42:05に「ファスマレー語をすっ飛ばさないでもらえるかね」という指摘が来た。「祖語からの経過を描いて、ファスマレー語を飛ば」し、「既にある設定でその上私が作った物を無視したというのは癪に障」る、と指摘された。なお、ファスマレー語をすっ飛ばした真の理由は、j.vがファスマレー語資料の存在を知らず、syがラネーモル語とファスマレー語を取り違えていたことから発生した珍事だった。</p>
-<p>さて、ファスマレー語が無視されている現状を改善すべく、資料を要求したところ、「資料そのものの公開は難しい」と言われ、j.vは不審に思う。また、ファスマレー語の体系・語形があまりにも他のラネーメ言語と合わないことから、「どうしようなぁ」となる。結果、<a href="https://togetter.com/li/1169932">なんやかんや</a>あって、改定前ファスマレー語は「<a href="http://lineparine.blogspot.com/2017/11/fas.html">完全なアポステリオリ言語であ</a>」り、かつアポステリオリ言語のためにパイグ・アイツォ・アイル・アイラニーヤ・タカン・エッツィアを全て改定するのは流石に「<a href="https://jurliyuuri.slack.com/archives/C6XERANHL/p1509977985000305">おどろおどろしい</a>」ので、改定前ファスマレー語は廃止されることが決定し、ラネーメ言語史の創作として改定後ファスマレー語を新規に創作していくこととなった。</p>
-
-<h2>1. 現時点の古パイグの音韻体系</h2>
+<h1>古パイグの仕様</h1>
+<p>以下は設定集であり、考察ログは<a href="siar_prek.html">こちら</a>に置いてある。</p>
+<h2>1. 古パイグの音韻体系</h2>
 「<a href="https://docs.google.com/document/d/1lUQh2_6DxMAsUOLA7O30A00wLacrhX5Cn1zZBcuv2f8/edit">韻図と方言音</a>」に基づく。
 <h3>1-1. 頭子音</h3>
 <p>ラネーメの用語では上声という。
@@ -83,7 +51,7 @@
 <tr><td rowspan=6>闇軸</td><td>短</td><td>ə / v</td><td>猫</td><td>地</td><td>机</td><td></td><td>如</td><td></td><td></td></tr>
 <tr><td>長</td><td>əː / vh</td><td>全</td><td>言</td><td>雪</td><td>絵</td><td>月</td><td></td><td></td></tr>
 <tr><td>短</td><td>e / e</td><td>春</td><td></td><td>星</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>長</td><td>eː / eh</td><td>万</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>長</td><td>eː / eh</td><td>万</td><td></td><td></td><td></td><td></td><td>混</td><td></td></tr>
 <tr><td>短</td><td>o / o</td><td>墨</td><td>声</td><td>草</td><td>色</td><td>三</td><td></td><td></td></tr>
 <tr><td>長</td><td>oː / oh</td><td>山</td><td>手</td><td>季</td><td>行</td><td>積</td><td>悪</td><td></td></tr>
 <tr><td rowspan=4>前後軸</td><td>短</td><td>i / i</td><td>反</td><td></td><td>極</td><td>蜜</td><td>族</td><td>金</td><td></td></tr>
@@ -148,7 +116,7 @@
 <p>frvpとfvが同根であることから、「古パイグにおいてもrの有無は交替しうる」または「古パイグ以前に交替があり、それがrの有無として反映されている」のどちらかであることが分かる。</p>
 <p>ng-とされている音は祖語の*rである。表の形式からしてもŋの位置に入りそうなのはʔɹなわけで、何故ng-と転写されているのかは謎である。</p>
 
-<h2>2. 現時点の「古パイグ→現パイグ」の体系</h2>
+<h2>2. 「古パイグ→現パイグ」の体系</h2>
 <h3>2-1. 頭子音</h3>
 <p>それぞれ以下のように変化した（リパーシェ転写）。
 <table class="qq" border=1 style="font-family: Arial">
@@ -163,7 +131,7 @@ a → a
 æ → ai
 ɔ → au
 ə → e
-e → ei
+e → ei(開音節) / e(閉音節)
 o → o
 i → i
 u → u
@@ -200,41 +168,3 @@ u → u
 </pre>
 <p>なお、後にpai2に変化したpraeから、/æ/が残存しpek2となったprae go > praekが生まれていることから、少なくともこの語については-ae- > -ai-の変化以前に起きた変化であることが分かる。</p>
 <p>また、これらの語は韻図に載っていないことから、韻図の時代より後に生じた変化であることが分かり、また保存されるのが声調であることから、これらの語が形成された頃には長音・後子音の声調化は起こっていたものと考えられる。</p>
-
-<h2>3. 裏話</h2>
-<p>1. と 2. は基本的に真理設定を書くように努めたので、せっかくならいくつか裏話をメモっておく。</p>
-<h3>3-0. 母音融合規則</h3>
-<p>これは、アイル語とパイグ語を比較していたら全くの偶然により発掘された規則である。気づいた時はめっちゃ楽しかった。</p>
-<h3>3-1. 鼻音延長</h3>
-<p>これは、パイグ語の1声がやたら多いことから発見された規則である。長母音はアイル語には残存していない（これも今回の調査によって生まれた設定）とはいえ、特に鼻音終わりにおいてやたら多いということ、既に再構している「母」mahmなどと合わないこと、などを一気に解決できる面白い説であったため、採用された。</p>
-<h3>3-2. /æ/の残存</h3>
-<p>これは、もともと「<a href="https://www.youtube.com/watch?v=JxVrwqPENIs">美軸雪</a>」(hem1 lea1 let1)を説明するために考えた設定である。ちなみに、kya1という綴りは「正書法整理前にリパラオネ人などがそう知覚した」というだけであって、綴りの揺れであって音の揺れではないと考える。</p>
-<h3>3-3. -iae- → -ie-</h3>
-<p>まあ当然「春」の説明のためなのだが、割と自然な変化だしセーフでしょ。</p>
-<h2>4. 整理</h2>
-<h3>4-1. 変換器</h3>
-<p>韻図上の位置を表す表記は、「火善素　火此前　風我素　筆噫後　龍墨後　風噫後」のようにすることとなった。せっかくなので、古牌拼から伝統表記に変換するスクリプトを組んだ。</p>
-<label>古牌拼:<input style="font-size: 100%" type="text" id="inp" value="ngae am tsivh prae nih zuh" size="30"/></label>
-<input style="font-size: 100%" type="button" value="→" onclick="document.getElementById('out').value = document.getElementById('inp').value.split(' ').map(toRhyme).join(' ')" />
-<input style="font-size: 100%" type="text" readonly="readonly" id="out" size="40">
-<h3>4-2. 気づいたこと</h3>
-<p>このスクリプトを組む過程で気づいた諸々を以下に記す。</p>
-<p>表のラテン字転写のところで、ASCIIのg(U+0067)ではなくIPAのɡ(U+0261)が使われていた箇所を修正。</p>
-<p>紙母の位置が違ったので修正。</p>
-<p>「混」がtehnとなっているが、体系的な再構ならtvhnになるはず。直してもいいのだが、uehがuvhになって現ue1になったのと同様の現象を-ehnに認めてもいいかも。ちょうどパイグ語にeinがないことだし。</p>
-<p>というか、「星」pretもその類だな。こいつは韻図に載せてしまっているからめんどい。</p>
-<p>で、調べてみたらそもそもパイグのeiって今のところ開音節語しかない。ふーむ。</p>
-
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr"><a href="https://twitter.com/S_Y15?ref_src=twsrc%5Etfw">@s_y15</a> 『周: *sVV &gt; sre  cf. ceyuu.ar、規則に従ってない(eは闇母音)』『「星」、pretなので規則通りだとpeit2だが、pretで韻図に載せちゃったし、恒例のごとく「-eitは-etに合流したのでパイグ語にない」を使うかどうか』『それに乗じて、「混」をtehnのまま残すか否か』</p>&mdash; .sozysozbot.@hsjoihs (@sosoBOTpi) <a href="https://twitter.com/sosoBOTpi/status/929237934967996416?ref_src=twsrc%5Etfw">2017年11月11日</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="ja" dir="ltr">『おや？』<br>『現代のeiって末子音付かないしeでも良さそう』</p>&mdash; S.Y@タカン系パイグ系日本人 (@S_Y15) <a href="https://twitter.com/S_Y15/status/929238399516426240?ref_src=twsrc%5Etfw">2017年11月11日</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<p>ということで、採用となった。「古パイグ→現パイグ」に「古パイグの-e-は閉音節であった時は-ei-ではなく-e-になった」が追加、韻図の-ehnに「混」が掲載。</p>
-
-<p>さて、上に書いた真理設定を再掲載するのはあまりにもアレだし、最新版の真理設定を単離したファイルを作るべきだな。一応Google Docsにあるけど。</p>
-
-<p><a href="siar_prek2.html">作った</a>。</p>
-
-</body>
-</html>
