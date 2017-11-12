@@ -11,12 +11,12 @@ var Vinmeg = [["噫","同","加","北","皇","識"],
 ["万","ehp","eht","ehk","ehm",""],
 ["墨","声","草","色","三","on"],
 ["山","手","季","行","積","悪"],
-["反","ip","極","蜜","族","金"],
+["反","ip","極","蜜","族","金","清"],
 ["男","国","正","機","ihm","紙"],
-["物","up","川","人","um","神"],
+["物","up","川","人","um","神","付"],
 ["銭","鳥","毎","uhk","守","無"]];
 
-var toIndex4 = {"":0,"p":1,"t":2,"k":3,"m":4,"n":5};
+var toIndex4 = {"":0,"p":1,"t":2,"k":3,"m":4,"n":5,"ng":6};
 var toIndex3 = {"a":0, "ah":1, "ae":2, "aeh":3, "au":4, "auh":5, "v":6, "vh":7, "e":8, "eh":9, "o":10, "oh":11, "i":12, "ih":13, "u":14, "uh":15};
 var toIndex2 = {"":"素", "i":"前", "u":"後"};
 var toIndex1 = {
@@ -28,7 +28,7 @@ var toIndex1 = {
 
 function toRhyme(txt)
 {
-	var arr = txt.match(/^((?:p|pr|b|br|m|mr|f|fr|s|sr|z|zr|sh|shr|ts|tsr|t|tr|d|dr|n|nr|l|lr|k|kr|g|gr|h|hr|ng)?)((?:i|u)?)((?:a|ae|au|v|e|o|i|u)h?)((?:p|t|k|m|n)?)$/);
+	var arr = txt.match(/^((?:p|pr|b|br|m|mr|f|fr|s|sr|z|zr|sh|shr|ts|tsr|t|tr|d|dr|n|nr|l|lr|k|kr|g|gr|h|hr|ng)?)((?:i|u)?)((?:a|ae|au|v|e|o|i|u)h?)((?:p|t|k|m|n|ng)?)$/);
 	if(arr == null) {
 		return null;
 	}
