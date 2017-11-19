@@ -12,17 +12,8 @@ onload = function(){
 		}
 	}
 	document.getElementById('res').innerHTML = txt;
-	setTimeout(q,1000);
 }
-var q = function() {
-	for(var i=0; i<20; i++){
-		for(var j=0;j<=13; j++){
-		draw('c_'+i+'_'+j,i,j, 1, 0,0, true);	
-		}
-	}
-	draw('c2',Math.random()*20|0,Math.random()*14|0,1,0,0,false);
 
-};
 
 </script>
 <script src="main.js"></script>
@@ -30,3 +21,4 @@ var q = function() {
 <body>
 	<div id="res">
 	</div>
+</body>
