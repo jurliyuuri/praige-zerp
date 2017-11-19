@@ -3,7 +3,7 @@
 onload = function() {
 	for(var i=0; i<20; i++){
 		for(var j=0;j<=13; j++){
-		draw('c1',i,j, 0.2, i*60, j*60, false);	
+		draw('c1',i,j, 0.2, i*60, j*60, true);	
 		}
 	}
 	draw('c2',Math.random()*20|0,Math.random()*14|0,1,0,0,false);
@@ -61,5 +61,10 @@ onload = function() {
 <input type="button" onclick="drawLinzis(document.getElementById('inputs').value, document.getElementById('prop').value/100, document.getElementById('fasdf').checked)" value="変換"><br>
 <label>拡大率:<input id="prop" type="number" name="number" required="required" value="20">%</label><br>
 <label><input type="checkbox" id="fasdf"/>枠線を付ける</label><br>
-<canvas id="c3" width="200" height="200" ></canvas>
+<canvas id="c3" width="30" height="30" ></canvas>
+
+<h2>3. 分割して保存</h2>
+<p>せっかく線形代数の御加護も得たのだし、それぞれの画像に分割して保存していかねば。</p>
+<p>とはいえ、ローカルへの保存だけはJavaScriptでは書きづらいからなぁ。Pythonはよく扱い方を知らんし、とりあえず手で280枚ぐらいを保存していくしかないか。</p>
+<p>どうにかする方法もあったんだろうが、手で保存した。</p>
 </body>
