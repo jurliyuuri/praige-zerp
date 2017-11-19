@@ -286,5 +286,19 @@ u → u
 </blockquote>
 <p>と載せることにした。</p>
 
+<h2>9. 燐字電子化計画</h2>
+<p>燐字を書いた原稿用紙が公開された（<a href="https://drive.google.com/file/d/13homB6E7G2q1YIQvxnjxuJXIswuUsypp/view?usp=sharing">その1</a>、
+<a href="https://drive.google.com/open?id=1uehNzqhcoEi5gdlNsdo1d4Zd_CQpJZyQ">その2</a>）ので、これをなるべく扱いやすい形にしていきたい。</p>
+<h3>9-1. 紆余曲折</h3>
+<p>原稿用紙と早見表の順序が異なっていたので、<a href="https://github.com/jurliyuuri/praige-zerp/commit/bcca97a8a9d7a69e18b5a4eec929ae5832bb5290">早見表を原稿用紙の順序に合わせた。</a>
+</a>こととか）があったものの、無事<a href="https://docs.google.com/document/d/1j6Y3pBShTtkQu32zsY64Hcm73D27u8clTFKPEjAbqUI/edit?usp=sharing">原稿用紙と漢字転写の対応表</a>ができた。
+<h3>9-2. 「果」</h3>
+<p>「果」が異なる字形で2回書かれているので、<img src="果.png" height="30" />を一般的な字、<img src="菓.png"  height="30" />を異体字とした。
+<h3>9-3. 分割</h3>
+<p>線形代数の御加護もあって、無事画像を分割する処理を実装できた（そちらの開発ログは<a href="./燐字表示/index.html">こちら</a>を参照のこと）。さて、後は実際に分割するだけである。</p>
+
+<h3>9-4. 「果」again</h3>
+<p>異体字とはいえ、漢字が振られていないのはプログラム上不便である。（「果1」「果2」とかやるのは色々めんどい）ということで、<img src="果.png" height="30" />は「果」、<img src="菓.png"  height="30" />は「菓」とすることにした。</p>
+
 </body>
 </html>
