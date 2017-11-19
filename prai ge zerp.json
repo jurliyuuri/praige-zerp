@@ -3511,7 +3511,10 @@
       "forms" : [ "果物" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "表記揺れ",
+      "text" : "異体字として「菓」がある。"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
