@@ -18,6 +18,26 @@ var linziList = ["我","汝","此","其","彼","何","或","全","無","在","�
 "","","米","勿","猫","","学","守","","囲","","","","","新","蜜","","","使","",
 "唯","","","","","","味","","","","","","","","党","","","","加","別"]
 
+
+function drawLinzis(txt,proportion, bordered)
+{
+  var size = (bordered ? 238 : 227)*proportion
+
+  var canvas = document.getElementById('c3');
+  var ctx = canvas.getContext('2d');
+
+  canvas.width = size*txt.length;
+  canvas.height = size;
+
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+  for(var i=0; i<txt.length; i++){
+    var u = linziList.indexOf(txt.charAt(i));
+    if(u == -1) continue;
+    draw('c3', u%20, Math.floor(u/20), proportion, size*i, 0, bordered);
+  }
+}
+
 function draw(id, s1, s2, proportion, offsetx, offsety, bordered) {
   proportion = proportion || 1;
   offsetx = offsetx || 0;

@@ -55,5 +55,11 @@ onload = function() {
 <h2>2. 使い物になるように</h2>
 <p>ということで、1枚目と2枚目が表示できるようになったので、燐字の漢字転写を入れたら表示してくれるような物を作るかね</p>
 <p>あ、その前に、枠線付けるか選べるようにしておこう。</p>
-<p>選べるようにした。</p>
+<p>選べるようにした。後は組むのみ。</p>
+<p>できた。</p>
+<input type="text" value="王冠之光満全族" id="inputs" style="font-size:100%"/>
+<input type="button" onclick="drawLinzis(document.getElementById('inputs').value, document.getElementById('prop').value/100, document.getElementById('fasdf').checked)" value="変換"><br>
+<label>拡大率:<input id="prop" type="number" name="number" required="required" value="20">%</label><br>
+<label><input type="checkbox" id="fasdf"/>枠線を付ける</label><br>
+<canvas id="c3" width="200" height="200" ></canvas>
 </body>
