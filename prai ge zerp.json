@@ -5409,6 +5409,25 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 302,
+      "form" : "o1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "平" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "板" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "平らな" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeiyuo",
