@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-<title>古パイグなどについて考察する</title>
+<title>パイグ語・古パイグ・燐字などについて考察する</title>
 <meta charset="UTF-8">
 <link rel="stylesheet" href="common.css">
 <script src="toRhyme.js"></script>
@@ -297,7 +297,7 @@ u → u
 <h3>9-3. 分割</h3>
 <p>線形代数の御加護もあって、無事画像を分割する処理を実装できた（そちらの開発ログは<a href="./燐字表示/index.html">こちら</a>を参照のこと）。さて、後は実際に分割するだけである。</p>
 
-<h3>9-4. 「果」again</h3>
+<h3 id="i9_4">9-4. 「果」again</h3>
 <p>異体字とはいえ、漢字が振られていないのはプログラム上不便である。（「果1」「果2」とかやるのは色々めんどい）ということで、<img src="燐字画像/果.png" height="30" />は「果」、<img src="燐字画像/菓.png"  height="30" />は「菓」とすることにした。</p>
 
 <h3>9-5. できた</h3>
@@ -310,6 +310,23 @@ u → u
 <p>とか言ってたらfafs氏がリパライン倉庫にあるアイツォ語の記事を手放してこちらに託してきた。とりあえず<a href="http://archive.is/jovnD">魚拓</a>と<a href="ertzo.html">ローカルコピー</a>を作成。さらに辞書ファイルも入手。</p>
 
 <p>ということで、アイツォ語も見ながら古パイグとかをやっていこう。</p>
+
+<h2>11. 異体字</h2>
+<p>「燐字電子化計画」に基づく字と、2017年3月の<a href="https://twitter.com/jclaws_pr/status/837354652198821889">悠里広報</a>に載っている字との間に差異のあるものが5文字（「金」「外」「衣」「機」「箱」）あった。また、<a href="https://sites.google.com/site/linzizihai/akaibu/guang">燐字海の「光」</a>の記事を見ると、<img src="燐字画像/光.png" height="30" />「光」の上に<img src="燐字画像/日.png" height="30" />「日」の載った字形が異体字として収録されている。さらに、kpht氏による燐字16x16フォント作成（近日中に公開予定）の最中に、<img src="燐字画像/積.png" height="30" />「積」の興味深い誤分析や<img src="燐字画像/石.png" height="30" />「石」の変種が発生した。</p>
+
+<p>ということで、これらを異体字とし、（<a href="#i9_4">9-4.</a>で言及したように）漢字転写が欲しいのでそれぞれ</p>
+<pre>
+金: 欽
+外: 夘
+衣: 布
+機: 械
+箱: 函
+光: 輝
+石: 岩
+</pre>
+<p>とした。</p>
+<p>以上をまとめた「<a href="https://docs.google.com/presentation/d/1rwdzJ-E6swadMd8tp-oBS1RLgW-9O7iMYoq5VB7pkyQ/edit?usp=sharing">燐字の異体字(2017年11月下旬)</a>」というGoogleスライドを作成した。</p>
+
 
 </body>
 </html>
