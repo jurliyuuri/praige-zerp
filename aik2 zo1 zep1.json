@@ -146,7 +146,7 @@
       "form" : "bait"
     },
     "translations" : [ {
-      "title" : "[名][動]",
+      "title" : "[名]",
       "forms" : [ "膠", "ゼラチン" ]
     } ],
     "tags" : [ ],
@@ -162,8 +162,11 @@
       "form" : "bap"
     },
     "translations" : [ {
-      "title" : "[修][小]",
-      "forms" : [ "同じ", "～のように", "～として" ]
+      "title" : "[修]",
+      "forms" : [ "同じ" ]
+    }, {
+      "title" : "[小]",
+      "forms" : [ "～のように", "～として" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -191,8 +194,11 @@
       "form" : "can2"
     },
     "translations" : [ {
-      "title" : "[名][動]",
+      "title" : "[名]",
       "forms" : [ "認識", "理解" ]
+    }, {
+      "title" : "[動]",
+      "forms" : [ "認識する", "理解する" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -232,7 +238,7 @@
     "translations" : [ ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
+      "title" : "???",
       "text" : "→人権"
     } ],
     "variations" : [ ],
@@ -2185,7 +2191,7 @@
     "translations" : [ ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
+      "title" : "???",
       "text" : "→宣言"
     } ],
     "variations" : [ ],
