@@ -7,6 +7,9 @@
     "translations" : [ {
       "title" : "[小]",
       "forms" : [ "中国語の的" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "之" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -19,6 +22,9 @@
     },
     "translations" : [ {
       "title" : "[名]",
+      "forms" : [ "光" ]
+    }, {
+      "title" : "漢字転写",
       "forms" : [ "光" ]
     } ],
     "tags" : [ ],
@@ -36,6 +42,9 @@
     "translations" : [ {
       "title" : "[動]",
       "forms" : [ "ある", "存在する", "～している" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "在" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -52,6 +61,9 @@
     "translations" : [ {
       "title" : "[修]",
       "forms" : [ "御～", "お～", "ご～", "丁寧化" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "御" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -87,6 +99,9 @@
     "translations" : [ {
       "title" : "[名][修]",
       "forms" : [ "4" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "四" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -103,6 +118,9 @@
     "translations" : [ {
       "title" : "[小]",
       "forms" : [ "～と" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "加" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -116,6 +134,9 @@
     "translations" : [ {
       "title" : "[修]",
       "forms" : [ "長い" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "長" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -148,6 +169,9 @@
     "translations" : [ {
       "title" : "[名]",
       "forms" : [ "膠", "ゼラチン" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "膠" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -167,6 +191,9 @@
     }, {
       "title" : "[小]",
       "forms" : [ "～のように", "～として" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "同" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -180,6 +207,9 @@
     "translations" : [ {
       "title" : "[動]",
       "forms" : [ "迷う", "間違える", "謝る" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "迷" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -199,6 +229,9 @@
     }, {
       "title" : "[動]",
       "forms" : [ "認識する", "理解する" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "識" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -224,6 +257,9 @@
     },
     "translations" : [ {
       "title" : "[名]",
+      "forms" : [ "人" ]
+    }, {
+      "title" : "漢字転写",
       "forms" : [ "人" ]
     } ],
     "tags" : [ ],
@@ -270,6 +306,9 @@
     }, {
       "title" : "[動]",
       "forms" : [ "集まる" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "集" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -299,6 +338,9 @@
     "translations" : [ {
       "title" : "[名][修]",
       "forms" : [ "1" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "一" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -318,6 +360,9 @@
     }, {
       "title" : "[小]",
       "forms" : [ "複数を示す" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "等" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -330,7 +375,10 @@
     },
     "translations" : [ {
       "title" : "[動]",
-      "forms" : [ "もらう　される" ]
+      "forms" : [ "もらう", "される" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "受" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -344,6 +392,9 @@
     "translations" : [ {
       "title" : "[修]",
       "forms" : [ "美しい" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "美" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -356,9 +407,12 @@
     },
     "translations" : [ {
       "title" : "[動]",
-      "forms" : [ "思う、考える" ]
+      "forms" : [ "思う", "考える" ]
     }, {
       "title" : "[名]",
+      "forms" : [ "心" ]
+    }, {
+      "title" : "漢字転写",
       "forms" : [ "心" ]
     } ],
     "tags" : [ ],
@@ -373,6 +427,9 @@
     "translations" : [ {
       "title" : "[動]",
       "forms" : [ "寝る" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "寝" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -386,6 +443,9 @@
     "translations" : [ {
       "title" : "[動]",
       "forms" : [ "粉にする", "挽く", "（墨を）磨る " ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "挽" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -418,6 +478,9 @@
     "translations" : [ {
       "title" : "[名]",
       "forms" : [ "通常", "普段", "いつも" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "普" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -431,6 +494,9 @@
     "translations" : [ {
       "title" : "[名]",
       "forms" : [ "場所" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "処" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -444,6 +510,9 @@
     "translations" : [ {
       "title" : "[修]",
       "forms" : [ "少ない", "若い" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "少" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -457,6 +526,9 @@
     "translations" : [ {
       "title" : "[名]",
       "forms" : [ "地面", "地球", "世界" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "地" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -470,6 +542,9 @@
     "translations" : [ {
       "title" : "[名]",
       "forms" : [ "闇" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "闇" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -482,6 +557,9 @@
     },
     "translations" : [ {
       "title" : "[名]",
+      "forms" : [ "墨" ]
+    }, {
+      "title" : "漢字転写",
       "forms" : [ "墨" ]
     } ],
     "tags" : [ ],
@@ -499,6 +577,9 @@
     "translations" : [ {
       "title" : "[動]",
       "forms" : [ "始まる" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "始" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -515,6 +596,9 @@
     }, {
       "title" : "[動]",
       "forms" : [ "食べる", "飲む", "吸う " ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "口" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -531,6 +615,9 @@
     "translations" : [ {
       "title" : "[名][修]",
       "forms" : [ "2" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "二" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -546,7 +633,10 @@
     },
     "translations" : [ {
       "title" : "[名]",
-      "forms" : [ "総理大臣", "王 " ]
+      "forms" : [ "総理大臣", "王" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "王" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -563,6 +653,9 @@
     "translations" : [ {
       "title" : "[名]",
       "forms" : [ "これ" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "此" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -579,6 +672,9 @@
     }, {
       "title" : "[動]",
       "forms" : [ "戦う" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "戦" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -592,6 +688,9 @@
     "translations" : [ {
       "title" : "[修]",
       "forms" : [ "良い" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "善" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -605,6 +704,9 @@
     "translations" : [ {
       "title" : "[名]",
       "forms" : [ "時間" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "時" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -620,7 +722,10 @@
     },
     "translations" : [ {
       "title" : "[名]",
-      "forms" : [ " 火" ]
+      "forms" : [ "火" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "火" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -633,6 +738,9 @@
     },
     "translations" : [ {
       "title" : "[名]",
+      "forms" : [ "男" ]
+    }, {
+      "title" : "漢字転写",
       "forms" : [ "男" ]
     } ],
     "tags" : [ ],
@@ -647,6 +755,9 @@
     "translations" : [ {
       "title" : "[名]",
       "forms" : [ "金属 " ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "金" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -663,6 +774,9 @@
     "translations" : [ {
       "title" : "[修]",
       "forms" : [ "とても", "非常に", "たくさん", "多い" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "極" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -675,10 +789,10 @@
     },
     "translations" : [ {
       "title" : "[名]",
-      "forms" : [ "刀\n" ]
+      "forms" : [ "刀" ]
     }, {
       "title" : "[動]",
-      "forms" : [ "斬る　切る" ]
+      "forms" : [ "斬る", "切る" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -704,7 +818,10 @@
     },
     "translations" : [ {
       "title" : "[名]",
-      "forms" : [ "草　" ]
+      "forms" : [ "草" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "草" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -721,6 +838,9 @@
     "translations" : [ {
       "title" : "[動]",
       "forms" : [ "覆う" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "覆" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -733,7 +853,10 @@
     },
     "translations" : [ {
       "title" : "[名]",
-      "forms" : [ "者、物" ]
+      "forms" : [ "者", "物" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "物" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -750,6 +873,9 @@
     }, {
       "title" : "[動]",
       "forms" : [ "書く" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "筆" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -766,6 +892,9 @@
     "translations" : [ {
       "title" : "[動]",
       "forms" : [ "攻撃する " ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "撃" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -782,6 +911,9 @@
     "translations" : [ {
       "title" : "[名]",
       "forms" : [ "右" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "右" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -794,6 +926,9 @@
     },
     "translations" : [ {
       "title" : "[名]",
+      "forms" : [ "日" ]
+    }, {
+      "title" : "漢字転写",
       "forms" : [ "日" ]
     } ],
     "tags" : [ ],
@@ -808,6 +943,9 @@
     "translations" : [ {
       "title" : "[名]",
       "forms" : [ "軸", "中" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "軸" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -821,6 +959,9 @@
     "translations" : [ {
       "title" : "[動]",
       "forms" : [ "しなければならない" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "須" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -834,6 +975,9 @@
     "translations" : [ {
       "title" : "[修]",
       "forms" : [ "大きい" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "大" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -847,6 +991,9 @@
     "translations" : [ {
       "title" : "[動]",
       "forms" : [ "抵抗する" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "抗" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -863,6 +1010,9 @@
     "translations" : [ {
       "title" : "[名]",
       "forms" : [ "数", "値" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "値" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -875,7 +1025,10 @@
     },
     "translations" : [ {
       "title" : "[名]",
-      "forms" : [ "文字　" ]
+      "forms" : [ "文字" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "字" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -908,6 +1061,9 @@
     "translations" : [ {
       "title" : "[修]",
       "forms" : [ "軽い " ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "軽" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -924,6 +1080,9 @@
     "translations" : [ {
       "title" : "[動]",
       "forms" : [ "行く", "なる" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "行" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -953,6 +1112,9 @@
     "translations" : [ {
       "title" : "[名]",
       "forms" : [ "あなた" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "汝" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -965,6 +1127,9 @@
     },
     "translations" : [ {
       "title" : "[名]",
+      "forms" : [ "魚" ]
+    }, {
+      "title" : "漢字転写",
       "forms" : [ "魚" ]
     } ],
     "tags" : [ ],
@@ -982,6 +1147,9 @@
     "translations" : [ {
       "title" : "[小][動][修]",
       "forms" : [ "無い", "存在しない" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "無" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -997,6 +1165,9 @@
     },
     "translations" : [ {
       "title" : "[名]",
+      "forms" : [ "家" ]
+    }, {
+      "title" : "漢字転写",
       "forms" : [ "家" ]
     } ],
     "tags" : [ ],
@@ -1014,6 +1185,9 @@
     "translations" : [ {
       "title" : "[修]",
       "forms" : [ "何の" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "何" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1027,11 +1201,14 @@
     "translations" : [ {
       "title" : "[修]",
       "forms" : [ "いくらの", "どれほどの" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "何極" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "用例",
-      "text" : "nan2 kit su1 aim2? 何多金在？　いくらですか？"
+      "text" : "nan2 kit su1 aim2? 何極銭在？　いくらですか？"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1043,6 +1220,9 @@
     "translations" : [ {
       "title" : "[名][修]",
       "forms" : [ "9 " ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "九" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1114,6 +1294,9 @@
     "translations" : [ {
       "title" : "[名][修]",
       "forms" : [ "6" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "六" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1130,6 +1313,9 @@
     "translations" : [ {
       "title" : "[修]",
       "forms" : [ "小さい" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "小" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1156,6 +1342,9 @@
     "translations" : [ {
       "title" : "[名][修]",
       "forms" : [ "7" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "七" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1171,7 +1360,10 @@
     },
     "translations" : [ {
       "title" : "[名]",
-      "forms" : [ "民族　" ]
+      "forms" : [ "民族" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "族" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1187,6 +1379,9 @@
     },
     "translations" : [ {
       "title" : "[名]",
+      "forms" : [ "紙" ]
+    }, {
+      "title" : "漢字転写",
       "forms" : [ "紙" ]
     } ],
     "tags" : [ ],
@@ -1204,6 +1399,9 @@
     "translations" : [ {
       "title" : "[名][修]",
       "forms" : [ "8" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "八" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1223,6 +1421,9 @@
     }, {
       "title" : "[動]",
       "forms" : [ "流れる" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "水" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1236,6 +1437,9 @@
     "translations" : [ {
       "title" : "[名]",
       "forms" : [ "水銀" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "水金" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1249,6 +1453,9 @@
     "translations" : [ {
       "title" : "[名]",
       "forms" : [ "液体" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "水類" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1261,7 +1468,10 @@
     },
     "translations" : [ {
       "title" : "[名]",
-      "forms" : [ "川　" ]
+      "forms" : [ "川" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "川" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1278,6 +1488,9 @@
     "translations" : [ {
       "title" : "[名][修]",
       "forms" : [ "3 " ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "三" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1294,6 +1507,9 @@
     "translations" : [ {
       "title" : "[名]",
       "forms" : [ "私" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "我" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1310,6 +1526,9 @@
     "translations" : [ {
       "title" : "[修]",
       "forms" : [ "別の", "異なった" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "別" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1326,6 +1545,9 @@
     "translations" : [ {
       "title" : "[名]",
       "forms" : [ "パイグ" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "牌" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1377,6 +1599,9 @@
     }, {
       "title" : "[動]",
       "forms" : [ "出来る", "できる " ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "力" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1393,6 +1618,9 @@
     "translations" : [ {
       "title" : "[名]",
       "forms" : [ "色" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "色" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1405,6 +1633,9 @@
     },
     "translations" : [ {
       "title" : "[名]",
+      "forms" : [ "女" ]
+    }, {
+      "title" : "漢字転写",
       "forms" : [ "女" ]
     } ],
     "tags" : [ ],
@@ -1419,6 +1650,9 @@
     "translations" : [ {
       "title" : "[動]",
       "forms" : [ "来る" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "来" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1438,6 +1672,9 @@
     }, {
       "title" : "[動]",
       "forms" : [ "上がる", "上げる" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "上" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1451,6 +1688,9 @@
     "translations" : [ {
       "title" : "[名]",
       "forms" : [ "先祖" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "祖" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1466,7 +1706,10 @@
     },
     "translations" : [ {
       "title" : "[名]",
-      "forms" : [ "蜜　" ]
+      "forms" : [ "蜜" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "蜜" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1483,6 +1726,9 @@
     "translations" : [ {
       "title" : "[名]",
       "forms" : [ "琥珀" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "蜜石" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1496,6 +1742,9 @@
     "translations" : [ {
       "title" : "[名]",
       "forms" : [ "名前" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "名" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1511,6 +1760,9 @@
     },
     "translations" : [ {
       "title" : "[名]",
+      "forms" : [ "国" ]
+    }, {
+      "title" : "漢字転写",
       "forms" : [ "国" ]
     } ],
     "tags" : [ ],
@@ -1531,6 +1783,9 @@
     }, {
       "title" : "[修]",
       "forms" : [ "固い" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "石" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1544,6 +1799,9 @@
     "translations" : [ {
       "title" : "[名]",
       "forms" : [ "固体" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "石類" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1573,6 +1831,9 @@
     "translations" : [ {
       "title" : "[名]",
       "forms" : [ "通貨単位" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "銭" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1589,6 +1850,9 @@
     "translations" : [ {
       "title" : "[修]",
       "forms" : [ "高い" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "高" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1604,6 +1868,9 @@
     },
     "translations" : [ {
       "title" : "[名]",
+      "forms" : [ "類" ]
+    }, {
+      "title" : "漢字転写",
       "forms" : [ "類" ]
     } ],
     "tags" : [ ],
@@ -1621,6 +1888,9 @@
     }, {
       "title" : "[動]",
       "forms" : [ "終わる" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "終" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1637,6 +1907,9 @@
     }, {
       "title" : "[動]",
       "forms" : [ "見る" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "目" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1650,6 +1923,9 @@
     "translations" : [ {
       "title" : "[名]",
       "forms" : [ "皇神" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "皇" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1666,6 +1942,9 @@
     "translations" : [ {
       "title" : "[名]",
       "forms" : [ "端", "へり" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "端" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1681,7 +1960,10 @@
     },
     "translations" : [ {
       "title" : "[名]",
-      "forms" : [ "体　" ]
+      "forms" : [ "体" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "体" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1698,6 +1980,9 @@
     "translations" : [ {
       "title" : "[名]",
       "forms" : [ "お茶" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "茶" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1714,6 +1999,9 @@
     "translations" : [ {
       "title" : "[名]",
       "forms" : [ "自身" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "己" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1743,6 +2031,9 @@
     "translations" : [ {
       "title" : "[修]",
       "forms" : [ "正しい" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "正" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1778,6 +2069,9 @@
     "translations" : [ {
       "title" : "[名]",
       "forms" : [ "左" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "左" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1791,6 +2085,9 @@
     "translations" : [ {
       "title" : "[動]",
       "forms" : [ "あげる", "させる", "与える" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "与" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1804,6 +2101,9 @@
     "translations" : [ {
       "title" : "[修]",
       "forms" : [ "甘い" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "甘" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1816,6 +2116,9 @@
     },
     "translations" : [ {
       "title" : "[名]",
+      "forms" : [ "神" ]
+    }, {
+      "title" : "漢字転写",
       "forms" : [ "神" ]
     } ],
     "tags" : [ ],
@@ -1830,6 +2133,9 @@
     "translations" : [ {
       "title" : "[名]",
       "forms" : [ "ウェールフープ", "WP" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "神力" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1843,6 +2149,9 @@
     "translations" : [ {
       "title" : "[名]",
       "forms" : [ "宗教" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "神論" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1856,6 +2165,9 @@
     "translations" : [ {
       "title" : "[小]",
       "forms" : [ "而", "しかし", "そして" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "而" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1868,7 +2180,7 @@
     },
     "translations" : [ {
       "title" : "[名]",
-      "forms" : [ "ウェールフープ　WP" ]
+      "forms" : [ "ウェールフープ", "WP" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1882,6 +2194,9 @@
     "translations" : [ {
       "title" : "[名][修]",
       "forms" : [ "5" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "五" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1898,6 +2213,9 @@
     "translations" : [ {
       "title" : "[名]",
       "forms" : [ "事実" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "件" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1916,7 +2234,10 @@
       "forms" : [ "下" ]
     }, {
       "title" : "[動]",
-      "forms" : [ "下がる、下げる" ]
+      "forms" : [ "下がる", "下げる" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "下" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1930,6 +2251,9 @@
     "translations" : [ {
       "title" : "[名]",
       "forms" : [ "型" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "型" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1942,6 +2266,9 @@
     },
     "translations" : [ {
       "title" : "[名]",
+      "forms" : [ "夏" ]
+    }, {
+      "title" : "漢字転写",
       "forms" : [ "夏" ]
     } ],
     "tags" : [ ],
@@ -1972,6 +2299,9 @@
     "translations" : [ {
       "title" : "[修]",
       "forms" : [ "重要である", "重い" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "錘" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1985,6 +2315,9 @@
     "translations" : [ {
       "title" : "[動]",
       "forms" : [ "生じる" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "出" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1997,7 +2330,10 @@
     },
     "translations" : [ {
       "title" : "[小]",
-      "forms" : [ "～に　～で" ]
+      "forms" : [ "～に", "～で" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "於" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -2010,7 +2346,10 @@
     },
     "translations" : [ {
       "title" : "[名]",
-      "forms" : [ "政府　" ]
+      "forms" : [ "政府" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "官" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2027,6 +2366,9 @@
     "translations" : [ {
       "title" : "[動]",
       "forms" : [ "磨く", "艶を出す" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "磨" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -2039,7 +2381,10 @@
     },
     "translations" : [ {
       "title" : "[小]",
-      "forms" : [ " ～か。　" ]
+      "forms" : [ " ～か。" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "乎" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2055,7 +2400,10 @@
     },
     "translations" : [ {
       "title" : "[小]",
-      "forms" : [ "または　" ]
+      "forms" : [ "または" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "亦" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2072,6 +2420,9 @@
     "translations" : [ {
       "title" : "[名]",
       "forms" : [ "あれ", "彼", "彼女" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "彼" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -2085,6 +2436,9 @@
     "translations" : [ {
       "title" : "[動]",
       "forms" : [ "する" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "為" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2101,6 +2455,9 @@
     "translations" : [ {
       "title" : "[名]",
       "forms" : [ "それ" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "其" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -2143,6 +2500,9 @@
     }, {
       "title" : "[名]",
       "forms" : [ "言語" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "言" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -2159,6 +2519,9 @@
     }, {
       "title" : "[修]",
       "forms" : [ "広い" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "広" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -2175,6 +2538,9 @@
     }, {
       "title" : "[動]",
       "forms" : [ "論ずる", "述べる" ]
+    }, {
+      "title" : "漢字転写",
+      "forms" : [ "論" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
