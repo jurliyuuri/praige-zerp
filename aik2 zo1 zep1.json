@@ -35,7 +35,7 @@
     },
     "translations" : [ {
       "title" : "[動]",
-      "forms" : [ "ある　存在する　～している" ]
+      "forms" : [ "ある", "存在する", "～している" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -51,7 +51,7 @@
     },
     "translations" : [ {
       "title" : "[修]",
-      "forms" : [ "御～　お～　ご～　丁寧化　" ]
+      "forms" : [ "御～", "お～", "ご～", "丁寧化" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -131,7 +131,7 @@
     },
     "translations" : [ {
       "title" : "[名]",
-      "forms" : [ "声、鳴き声" ]
+      "forms" : [ "声", "鳴き声" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -147,7 +147,7 @@
     },
     "translations" : [ {
       "title" : "[名][動]",
-      "forms" : [ "膠、ゼラチン" ]
+      "forms" : [ "膠", "ゼラチン" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -163,7 +163,7 @@
     },
     "translations" : [ {
       "title" : "[修][小]",
-      "forms" : [ "同じ、～のように、～として" ]
+      "forms" : [ "同じ", "～のように", "～として" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -176,7 +176,7 @@
     },
     "translations" : [ {
       "title" : "[動]",
-      "forms" : [ "迷う、間違える、謝る" ]
+      "forms" : [ "迷う", "間違える", "謝る" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -192,7 +192,7 @@
     },
     "translations" : [ {
       "title" : "[名][動]",
-      "forms" : [ "認識、理解" ]
+      "forms" : [ "認識", "理解" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -205,7 +205,7 @@
     },
     "translations" : [ {
       "title" : "[名]",
-      "forms" : [ "100000、十万" ]
+      "forms" : [ "100000", "十万" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -307,8 +307,11 @@
       "form" : "ge"
     },
     "translations" : [ {
-      "title" : "[修][小]",
-      "forms" : [ "多い、複数を示す" ]
+      "title" : "[修]",
+      "forms" : [ "多い" ]
+    }, {
+      "title" : "[小]",
+      "forms" : [ "複数を示す" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -376,7 +379,7 @@
     },
     "translations" : [ {
       "title" : "[動]",
-      "forms" : [ "粉にする、挽く、（墨を）磨る " ]
+      "forms" : [ "粉にする", "挽く", "（墨を）磨る " ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -408,7 +411,7 @@
     },
     "translations" : [ {
       "title" : "[名]",
-      "forms" : [ "通常、普段、いつも" ]
+      "forms" : [ "通常", "普段", "いつも" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -434,7 +437,7 @@
     },
     "translations" : [ {
       "title" : "[修]",
-      "forms" : [ "少ない、若い" ]
+      "forms" : [ "少ない", "若い" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -447,7 +450,7 @@
     },
     "translations" : [ {
       "title" : "[名]",
-      "forms" : [ "地面、地球、世界" ]
+      "forms" : [ "地面", "地球", "世界" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -505,7 +508,7 @@
       "forms" : [ "口" ]
     }, {
       "title" : "[動]",
-      "forms" : [ "食べる、飲む、吸う " ]
+      "forms" : [ "食べる", "飲む", "吸う " ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -537,7 +540,7 @@
     },
     "translations" : [ {
       "title" : "[名]",
-      "forms" : [ "総理大臣、王 " ]
+      "forms" : [ "総理大臣", "王 " ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -653,7 +656,7 @@
     },
     "translations" : [ {
       "title" : "[修]",
-      "forms" : [ "とても、非常に、たくさん、多い" ]
+      "forms" : [ "とても", "非常に", "たくさん", "多い" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -798,7 +801,7 @@
     },
     "translations" : [ {
       "title" : "[名]",
-      "forms" : [ "軸、中" ]
+      "forms" : [ "軸", "中" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -853,7 +856,7 @@
     },
     "translations" : [ {
       "title" : "[名]",
-      "forms" : [ " 数、値" ]
+      "forms" : [ "数", "値" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -914,7 +917,7 @@
     },
     "translations" : [ {
       "title" : "[動]",
-      "forms" : [ "行く、なる" ]
+      "forms" : [ "行く", "なる" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -927,7 +930,7 @@
     },
     "translations" : [ {
       "title" : "[名]",
-      "forms" : [ "1000　千" ]
+      "forms" : [ "1000", "千" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -972,7 +975,7 @@
     },
     "translations" : [ {
       "title" : "[小][動][修]",
-      "forms" : [ "無い　存在しない" ]
+      "forms" : [ "無い", "存在しない" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1017,7 +1020,7 @@
     },
     "translations" : [ {
       "title" : "[修]",
-      "forms" : [ "いくらの　どれほどの" ]
+      "forms" : [ "いくらの", "どれほどの" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1062,7 +1065,7 @@
     },
     "translations" : [ {
       "title" : "[名]",
-      "forms" : [ "すべて　ぜんぶ" ]
+      "forms" : [ "すべて", "ぜんぶ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1079,7 +1082,7 @@
     "translations" : [ ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
+      "title" : "???",
       "text" : "→世界"
     } ],
     "variations" : [ ],
@@ -1092,7 +1095,7 @@
     "translations" : [ ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
+      "title" : "???",
       "text" : "→世界人権宣言"
     } ],
     "variations" : [ ],
@@ -1133,7 +1136,7 @@
     },
     "translations" : [ {
       "title" : "[修]",
-      "forms" : [ "小声で　小声の" ]
+      "forms" : [ "小声で", "小声の" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1300,7 +1303,7 @@
     },
     "translations" : [ {
       "title" : "[修]",
-      "forms" : [ "別の、異なった" ]
+      "forms" : [ "別の", "異なった" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1327,12 +1330,12 @@
       "id" : 91,
       "form" : "per3-la3"
     },
-    "translations" : [ ],
+    "translations" : [ {
+      "title" : "[]",
+      "forms" : [ "お願いします", "～してください" ]
+    } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "[]",
-      "text" : "お願いします　～してください"
-    }, {
       "title" : "用例",
       "text" : "ni1 ba4 a zep1 per3-la3　小さい声で話してください。"
     }, {
@@ -1364,10 +1367,10 @@
     },
     "translations" : [ {
       "title" : "[名]",
-      "forms" : [ "力、能力" ]
+      "forms" : [ "力", "能力" ]
     }, {
       "title" : "[動]",
-      "forms" : [ "出来る、できる " ]
+      "forms" : [ "出来る", "できる " ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1428,7 +1431,7 @@
       "forms" : [ "上" ]
     }, {
       "title" : "[動]",
-      "forms" : [ "上がる、上げる" ]
+      "forms" : [ "上がる", "上げる" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1547,7 +1550,7 @@
     },
     "translations" : [ {
       "title" : "[名]",
-      "forms" : [ "天空　空　宇宙" ]
+      "forms" : [ "天空", "空", "宇宙" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1656,7 +1659,7 @@
     },
     "translations" : [ {
       "title" : "[名]",
-      "forms" : [ "端、へり" ]
+      "forms" : [ "端", "へり" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1717,10 +1720,13 @@
     },
     "translations" : [ {
       "title" : "[小]",
-      "forms" : [ "～した　～了　過去　完了" ]
+      "forms" : [ "～した", "～了" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "注",
+      "text" : "過去　完了"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1778,7 +1784,7 @@
     },
     "translations" : [ {
       "title" : "[動]",
-      "forms" : [ "あげる　させる　与える" ]
+      "forms" : [ "あげる", "させる", "与える" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1817,7 +1823,7 @@
     },
     "translations" : [ {
       "title" : "[名]",
-      "forms" : [ "ウェールフープ　WP" ]
+      "forms" : [ "ウェールフープ", "WP" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1843,7 +1849,7 @@
     },
     "translations" : [ {
       "title" : "[小]",
-      "forms" : [ "而。しかし、そして" ]
+      "forms" : [ "而", "しかし", "そして" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1959,7 +1965,7 @@
     },
     "translations" : [ {
       "title" : "[修]",
-      "forms" : [ "重要である、重い" ]
+      "forms" : [ "重要である", "重い" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -2014,7 +2020,7 @@
     },
     "translations" : [ {
       "title" : "[動]",
-      "forms" : [ "磨く、艶を出す" ]
+      "forms" : [ "磨く", "艶を出す" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -2059,7 +2065,7 @@
     },
     "translations" : [ {
       "title" : "[名]",
-      "forms" : [ "あれ、彼、彼女" ]
+      "forms" : [ "あれ", "彼", "彼女" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -2143,7 +2149,7 @@
     },
     "translations" : [ {
       "title" : "[動]",
-      "forms" : [ "広げる、広がる" ]
+      "forms" : [ "広げる", "広がる" ]
     }, {
       "title" : "[修]",
       "forms" : [ "広い" ]
@@ -2159,10 +2165,10 @@
     },
     "translations" : [ {
       "title" : "[名]",
-      "forms" : [ "意見、論" ]
+      "forms" : [ "意見", "論" ]
     }, {
       "title" : "[動]",
-      "forms" : [ "論ずる、述べる" ]
+      "forms" : [ "論ずる", "述べる" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2188,7 +2194,7 @@
   "zpdic" : {
     "alphabetOrder" : "",
     "alphabetOrderType" : "UNICODE",
-    "punctuations" : [ ",", "、" ],
+    "punctuations" : [ ",", "、", "　" ],
     "pronunciationTitle" : null,
     "plainInformationTitles" : [ ],
     "informationTitleOrder" : null,
