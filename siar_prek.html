@@ -470,5 +470,29 @@ tiu2	強い、鍛える
 <p>pau1 / paoの例を除けば、基本的に歯音で始まっていることが分かる。さて、これをどう考えるか。</p>
 <p>一つの案としては、ts / tsrやt / trが混乱した時期があったという説である。</p>
 
+
+<h2>17. 燐字フォント(現状での)完成</h2>
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">燐　字　フ　ォ　ン　ト　完　成</p>&mdash; 🚩かぱはた🚩 (@yuugokku_2) <a href="https://twitter.com/yuugokku_2/status/934006773492588544?ref_src=twsrc%5Etfw">2017年11月24日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p>「燐字電子化計画」および「悠里世界OSプロジェクト」の一部である、16x16燐字フォント作成byかぱはた が完了した。</p>
+<p>正確にいうと、第一回書き取りの分しか(当然ながら)終わっていないので、今後増えるが。</p>
+<img src="Linzi_dot.png" />
+<p>さて、次にすべきは、とりあえずこれをバラバラの画像にすることだろう。</p>
+<p>ファイル保存したいので、Pythonを使うことにしよう</p>
+<p>書けた。さて例文。</p>
+<script>
+var gefak="王冠之光満全族受光而我等心行全物光闇而神在皇力此上下終無噫";
+for(var i=0;i<gefak.length;i++){
+	document.write('<img src="燐字画像2/'+gefak[i]+'.png" height="30" />')
+}
+</script>
+<p>枠線なしのバージョンももらった。</p>
+<script>
+var gefak="王冠之光満全族受光而我等心行全物光闇而神在皇力此上下終無噫";
+for(var i=0;i<gefak.length;i++){
+	document.write('<img src="燐字画像3/'+gefak[i]+'.png" height="30" />')
+}
+</script>
+<p>さて、文字コード決めなきゃなぁ</p>
 </body>
 </html>
