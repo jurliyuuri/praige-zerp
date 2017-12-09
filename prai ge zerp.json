@@ -313,6 +313,9 @@
     "contents" : [ {
       "title" : "用法",
       "text" : "A亦B　のように使う。"
+    }, {
+      "title" : "語源",
+      "text" : "yujo.ar"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -647,7 +650,10 @@
       "forms" : [ "膠", "ゼラチン" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "baiza.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -773,7 +779,10 @@
       "forms" : [ "声", "音", "叫詞" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "cwouphi.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -789,7 +798,10 @@
       "forms" : [ "虎" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "daunou.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -824,7 +836,10 @@
       "forms" : [ "島" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "dop'iai.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -910,7 +925,10 @@
       "forms" : [ "切る" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "ngongau.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -964,7 +982,10 @@
       "forms" : [ "攻撃する", "打つ" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "mukutu.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1015,7 +1036,10 @@
       "forms" : [ "親しい" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "ohi.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1142,7 +1166,10 @@
       "forms" : [ "龍" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "foje.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1180,7 +1207,10 @@
       "forms" : [ "墨" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "huroo.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1196,7 +1226,10 @@
       "forms" : [ "木" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "hupo.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1250,7 +1283,10 @@
       "forms" : [ "食べる", "飲む", "吸う" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "iama.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1266,7 +1302,10 @@
       "forms" : [ "冬" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "jatu.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1317,7 +1356,10 @@
       "forms" : [ "理由" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "xidi.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1384,7 +1426,10 @@
       "forms" : [ "時間" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "kaga.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1480,7 +1525,10 @@
       "forms" : [ "機械" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "kiki.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1496,7 +1544,10 @@
       "forms" : [ "金属" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "kinuka.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1512,7 +1563,10 @@
       "forms" : [ "草" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "kotu.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1544,7 +1598,10 @@
       "forms" : [ "付ける", "着る", "適用する", "付く", "着る" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "kunge.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1604,7 +1661,10 @@
       "forms" : [ "雪" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "reto.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1620,7 +1680,10 @@
       "forms" : [ "絵" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "leka.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1636,7 +1699,10 @@
       "forms" : [ "鳥" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "lubu.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1732,7 +1798,10 @@
       "forms" : [ "魚" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "amui.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1764,7 +1833,10 @@
       "forms" : [ "家" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "muta.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1860,7 +1932,10 @@
       "forms" : [ "紙" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "ninu.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1918,7 +1993,10 @@
       "forms" : [ "川" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "inusi.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2265,7 +2343,10 @@
       "forms" : [ "服", "布" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "taku.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2377,7 +2458,10 @@
       "forms" : [ "遠い" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "twaji.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2545,7 +2629,10 @@
       "forms" : [ "月" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "xemo.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2577,7 +2664,10 @@
       "forms" : [ "夏" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "xeh^eu.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2593,7 +2683,10 @@
       "forms" : [ "花" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "tixuo.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2666,7 +2759,10 @@
       "forms" : [ "する", "作る" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "chauchu.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2701,7 +2797,10 @@
       "forms" : [ "広げる", "広がる" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "zieo.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2717,7 +2816,10 @@
       "forms" : [ "山" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "vezoe.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2736,7 +2838,10 @@
       "forms" : [ "論ずる", "述べる" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "zunaii.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2771,7 +2876,10 @@
       "forms" : [ "積む" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "shomu.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2787,7 +2895,10 @@
       "forms" : [ "国" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "sip'ui.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2889,7 +3000,10 @@
       "forms" : [ "子供" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "katu.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2937,7 +3051,10 @@
       "forms" : [ "政府" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "yunyu.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2969,7 +3086,10 @@
       "forms" : [ "迷う", "間違える" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "bwaulu.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3071,7 +3191,10 @@
       "forms" : [ "祭", "儀式" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "gatu.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3122,7 +3245,10 @@
       "forms" : [ "壊れる" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "modo.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3302,7 +3428,10 @@
       "forms" : [ "名前" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "sinisa.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3340,7 +3469,10 @@
       "forms" : [ "助ける" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "ngeipu.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3397,7 +3529,10 @@
       "forms" : [ "民族" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "nimutu.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3457,7 +3592,10 @@
       "forms" : [ "書" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "akata.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3645,7 +3783,10 @@
       "forms" : [ "長い" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "makasu.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3731,7 +3872,10 @@
       "forms" : [ "机" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "ceta.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3903,7 +4047,10 @@
       "forms" : [ "粉にする", "挽く", "（墨を）磨る" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "fah^ua.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3916,7 +4063,7 @@
       "forms" : [ "普" ]
     }, {
       "title" : "定詞",
-      "forms" : [ "常に", "いつも" ]
+      "forms" : [ "常に", "いつも", "普段" ]
     }, {
       "title" : "名詞",
       "forms" : [ "通常" ]
@@ -4132,7 +4279,10 @@
       "forms" : [ "父" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "kuaka.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4243,7 +4393,10 @@
       "forms" : [ "聞く" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "lorua.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4259,7 +4412,10 @@
       "forms" : [ "抵抗する", "返す" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "maqui.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4291,7 +4447,10 @@
       "forms" : [ "軽い" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "imisa.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4342,7 +4501,10 @@
       "forms" : [ "猫" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "nelua.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4374,7 +4536,10 @@
       "forms" : [ "学問" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "noyaii.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4524,7 +4689,10 @@
       "forms" : [ "古い" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "sira.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4540,7 +4708,10 @@
       "forms" : [ "蜜" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "sitika.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4556,7 +4727,10 @@
       "forms" : [ "先祖" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "e^seu.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4591,7 +4765,10 @@
       "forms" : [ "使う" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "sui.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4607,7 +4784,10 @@
       "forms" : [ "体" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "tatami.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4661,7 +4841,10 @@
       "forms" : [ "お茶" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "tisia.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4677,7 +4860,10 @@
       "forms" : [ "正しい" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "titu.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4792,7 +4978,10 @@
       "forms" : [ "不思議な" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "xefoo.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4849,7 +5038,10 @@
       "forms" : [ "性質" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "chisha.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4913,7 +5105,10 @@
       "forms" : [ "事実となる；実現する" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "wuo.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -5434,7 +5629,9 @@
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeiyuo",
+    "alphabetOrderType" : "UNICODE",
     "punctuations" : [ ",", "、" ],
+    "pronunciationTitle" : null,
     "plainInformationTitles" : [ "例文", "用法", "語源" ],
     "informationTitleOrder" : null,
     "defaultWord" : {
