@@ -5642,6 +5642,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 304,
+      "form" : "mak1 kin2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "抗金" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "バネ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeiyuo",
