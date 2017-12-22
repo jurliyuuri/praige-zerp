@@ -1443,6 +1443,9 @@
     }, {
       "title" : "名詞",
       "forms" : [ "火" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "熱い" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -5632,7 +5635,7 @@
     "alphabetOrderType" : "UNICODE",
     "punctuations" : [ ",", "、" ],
     "pronunciationTitle" : null,
-    "plainInformationTitles" : [ "例文", "用法", "語源" ],
+    "plainInformationTitles" : [ "例文", "用法" ],
     "informationTitleOrder" : null,
     "defaultWord" : {
       "entry" : {
