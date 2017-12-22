@@ -1,0 +1,48 @@
+[{
+    "entry" : {
+      "id" : 303,
+      "form" : "lo"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "立つ" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "低い位置から高い位置に延び上がる" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "立つ", "立てる", "建つ", "建てる" ]
+    }, {
+      "title" : "叫詞",
+      "forms" : [ "立て！", "起て！" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "losu.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 304,
+      "form" : "hup1 saup2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "木獣" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "ウサギ", "うさぎ", "兎" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "foupain.ve"
+    }, {
+      "title" : "用法",
+      "text" : "ヴェフィス語のfoupainを由来として、hu1 pein2が縮約されたhup1を由来とする。後に同音の木を使って表記するようになった。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }]
