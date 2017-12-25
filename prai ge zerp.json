@@ -46,6 +46,9 @@
     }, {
       "title" : "用法",
       "text" : "日本語と同じく、A之Bとする。\n文脈で分かるときは省略し、分かりにくければ挿入する。"
+    }, {
+      "title" : "同根語",
+      "text" : "a.ar"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -148,6 +151,9 @@
     "contents" : [ {
       "title" : "例文",
       "text" : "y1 ian1 iak1.　（政府は法律を作る。）\npai2 ian1 ta zui1.　（私は意見を出した。）"
+    }, {
+      "title" : "同根語",
+      "text" : "jani.ar"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -176,6 +182,9 @@
     "contents" : [ {
       "title" : "例文",
       "text" : "pai2 lit1 be1.　（私はすべてを消す。）"
+    }, {
+      "title" : "同根語",
+      "text" : "rita.ar; 古パイグでは王正素なので規則的にはit1となるはずだが、アイルの影響でl-が挿入された"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -458,7 +467,7 @@
       "text" : "pai2 mok1 ie ze1 hue.　（私はそこに行く。）\npai2 ma1 ie mua2.　（私はあなたより大きい。）"
     }, {
       "title" : "同根語",
-      "text" : "i'q.ln>ye>"
+      "text" : "i'q.ln>ye>\nia.ar"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -542,7 +551,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "morq.ln"
+      "text" : "morq.ln\nmoho.ar"
     }, {
       "title" : "用法",
       "text" : "約詞用法ではieと異なり移動性を持つ。"
@@ -634,7 +643,10 @@
       "forms" : [ "糸", "約詞" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "baeai.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -669,7 +681,10 @@
       "forms" : [ "箱" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "buou.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -688,7 +703,10 @@
       "forms" : [ "認識する", "理解する" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "canai.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -763,7 +781,10 @@
       "forms" : [ "人" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "asuka.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -820,7 +841,10 @@
       "forms" : [ "飾る" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ditoo.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -855,7 +879,10 @@
       "forms" : [ "油" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "odui.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -906,7 +933,10 @@
       "forms" : [ "激しい" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ngakha.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -947,7 +977,10 @@
       "forms" : [ "射る" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "nguwa.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -966,7 +999,10 @@
       "forms" : [ "もらう" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "guko.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1001,7 +1037,10 @@
       "forms" : [ "北" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "hagi.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1017,7 +1056,10 @@
       "forms" : [ "美しい" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "hema.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1064,7 +1106,10 @@
       "forms" : [ "" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "hiya2.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1080,7 +1125,10 @@
       "forms" : [ "骨" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "hovi2.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1099,7 +1147,10 @@
       "forms" : [ "取る" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "phobo.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1150,7 +1201,10 @@
       "forms" : [ "地面", "地球", "世界" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "hep'iai.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1248,7 +1302,10 @@
       "forms" : [ "始まる" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "h^ut^ee.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1394,7 +1451,10 @@
       "forms" : [ "日" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "akia.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1410,7 +1470,10 @@
       "forms" : [ "良い" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "kaisa.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1448,7 +1511,10 @@
       "forms" : [ "熱い" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "kani.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1464,7 +1530,10 @@
       "forms" : [ "兵士" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "kaik+cuk2"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1480,7 +1549,10 @@
       "forms" : [ "車" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "kik1+maun1"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1496,7 +1568,10 @@
       "forms" : [ "男" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "uki.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1512,7 +1587,10 @@
       "forms" : [ "東" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "hiki1.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1585,7 +1663,10 @@
       "forms" : [ "者", "物", "名詞" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "uku.ar, ku.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1724,7 +1805,10 @@
       "forms" : [ "しなければならない" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "liwo.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1737,7 +1821,10 @@
       "forms" : [ "大" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "amama.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1753,7 +1840,10 @@
       "forms" : [ "文字" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "mani.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1769,7 +1859,10 @@
       "forms" : [ "馬" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "mauna.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1785,7 +1878,10 @@
       "forms" : [ "舟" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "nua2+mok1"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1864,7 +1960,10 @@
       "forms" : [ "何をする" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "nanu.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1906,7 +2005,10 @@
       "forms" : [ "小さい" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "inini.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1967,7 +2069,10 @@
       "forms" : [ "悪い" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "nonu1.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2165,7 +2270,10 @@
       "forms" : [ "女" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "sa.ar, usa.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2190,6 +2298,9 @@
     "contents" : [ {
       "title" : "用法",
       "text" : "sau2 kakで「昔」の意味になる。"
+    }, {
+      "title" : "同根語",
+      "text" : "sau.ar"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2206,7 +2317,10 @@
       "forms" : [ "獣" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "saupu.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2222,7 +2336,10 @@
       "forms" : [ "方法", "術" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "situu.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2257,7 +2374,10 @@
       "forms" : [ "高い" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "来形素(zrau; sau) + 処猫素(fv; hue) > 来全後(zruvh; sue1)"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2292,7 +2412,10 @@
       "forms" : [ "固い" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "asiu.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2330,7 +2453,10 @@
       "forms" : [ "見る" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ata.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2365,7 +2491,10 @@
       "forms" : [ "皇神（神を統括する神）" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "atamu.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2381,7 +2510,10 @@
       "forms" : [ "南" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "tana.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2397,7 +2529,10 @@
       "forms" : [ "端", "へり" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "taupwo.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2413,7 +2548,10 @@
       "forms" : [ "文" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "tauhi.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2445,7 +2583,10 @@
       "forms" : [ "左" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "tiuna.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2483,7 +2624,10 @@
       "forms" : [ "あげる", "させる", "与える" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "tui.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2499,7 +2643,10 @@
       "forms" : [ "巫" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "tun2+cuk2"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2515,7 +2662,10 @@
       "forms" : [ "神" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "tunu.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2559,6 +2709,9 @@
     "contents" : [ {
       "title" : "用法",
       "text" : "順接にも逆接にも、仮定にも条件にも使える。"
+    }, {
+      "title" : "同根語",
+      "text" : "iwa2.ar"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2578,7 +2731,10 @@
       "forms" : [ "命令する" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ewai.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2616,6 +2772,9 @@
     "contents" : [ {
       "title" : "用法",
       "text" : "ut2 kakで「未来」の意味になる。"
+    }, {
+      "title" : "同根語",
+      "text" : "utu.ar"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2651,7 +2810,10 @@
       "forms" : [ "足" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "xisa.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2705,7 +2867,10 @@
       "forms" : [ "西" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "yikho.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2740,7 +2905,10 @@
       "forms" : [ "あれ", "彼", "彼女" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "chaba.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2781,7 +2949,10 @@
       "forms" : [ "それ" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "chesi.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2860,7 +3031,10 @@
       "forms" : [ "数", "値" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "maka.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2923,7 +3097,10 @@
       "forms" : [ "～として", "～と同時に", "～とともに" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "baibae.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2939,7 +3116,10 @@
       "forms" : [ "閉じる" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "jinei.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2955,7 +3135,10 @@
       "forms" : [ "開く" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "name.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2971,7 +3154,10 @@
       "forms" : [ "春" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "eyoi.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2987,7 +3173,10 @@
       "forms" : [ "秋" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "kasi.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3022,7 +3211,10 @@
       "forms" : [ "混ぜる", "混ざる", "シャッフルする" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "tenye.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3038,7 +3230,10 @@
       "forms" : [ "倉庫" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "lisua.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3073,7 +3268,10 @@
       "forms" : [ "民" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "baibia.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3108,7 +3306,10 @@
       "forms" : [ "意味" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "sheau.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3143,7 +3344,10 @@
       "forms" : [ "万" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "wesi.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3213,7 +3417,10 @@
       "forms" : [ "咲く", "笑う" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "hahau.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3232,7 +3439,10 @@
       "forms" : [ "戦う" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "kaika.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3286,7 +3496,10 @@
       "forms" : [ "形" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "cwairo.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3346,7 +3559,10 @@
       "forms" : [ "重なる", "重ねる" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "guyao.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3362,7 +3578,10 @@
       "forms" : [ "とても", "非常に", "たくさん", "多い" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "kitu.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3415,6 +3634,9 @@
     "contents" : [ {
       "title" : "用法",
       "text" : "5ズーはおよそ8レジュで40円程度である。"
+    }, {
+      "title" : "同根語",
+      "text" : "su.ar"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3516,7 +3738,10 @@
       "forms" : [ "満ちる" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "bowa.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3556,7 +3781,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "lingq.ln"
+      "text" : "lingq.ln, lingei.ar"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3617,7 +3842,10 @@
       "forms" : [ "重要である", "重い" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "xoudo.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3658,6 +3886,9 @@
     "contents" : [ {
       "title" : "表記揺れ",
       "text" : "異体字として「菓」がある。"
+    }, {
+      "title" : "同根語",
+      "text" : "itua.ar"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3674,7 +3905,10 @@
       "forms" : [ "強い", "固い", "難しい" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "peki.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3754,7 +3988,10 @@
       "forms" : [ "季節" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "xota.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3770,7 +4007,10 @@
       "forms" : [ "倒れる" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "aipa.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3808,7 +4048,10 @@
       "forms" : [ "傾ける" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "aumi.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3824,7 +4067,10 @@
       "forms" : [ "押す" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "bet'aa.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3840,7 +4086,10 @@
       "forms" : [ "太鼓", "小鼓" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "bunae(?).ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3859,7 +4108,10 @@
       "forms" : [ "荷物" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "buwo.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3894,7 +4146,10 @@
       "forms" : [ "散る", "散らす" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ocou.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3910,7 +4165,10 @@
       "forms" : [ "席" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ciwi.ar, cikau.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3926,7 +4184,10 @@
       "forms" : [ "深い" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "daute.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3942,7 +4203,10 @@
       "forms" : [ "門" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "gelao.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3958,7 +4222,10 @@
       "forms" : [ "傷" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ngui2.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3999,7 +4266,10 @@
       "forms" : [ "棚" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "hoyi.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4034,7 +4304,10 @@
       "forms" : [ "ふわふわの" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "hona.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4186,7 +4459,10 @@
       "forms" : [ "輪", "リング" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "juce.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4202,7 +4478,10 @@
       "forms" : [ "血" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "akai.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4218,7 +4497,10 @@
       "forms" : [ "帯" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "iqiu.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4250,7 +4532,10 @@
       "forms" : [ "謝る" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "kouai.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4266,7 +4551,10 @@
       "forms" : [ "豆" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "qoda.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4301,7 +4589,10 @@
       "forms" : [ "弦楽器", "琴" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "leaa.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4343,7 +4634,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "",
+      "title" : "同根語",
       "text" : "lohu.ar"
     } ],
     "variations" : [ ],
@@ -4361,7 +4652,10 @@
       "forms" : [ "寒い", "冷たい" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "loka.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4377,7 +4671,10 @@
       "forms" : [ "新しい" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "lutwu.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4434,7 +4731,10 @@
       "forms" : [ "親（主に母）" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "mamau.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4469,7 +4769,10 @@
       "forms" : [ "米" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "mova2.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4523,7 +4826,10 @@
       "forms" : [ "酒" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "naiwou.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4558,7 +4864,10 @@
       "forms" : [ "守る" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "numa.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4628,7 +4937,10 @@
       "forms" : [ "道" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "perao.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4644,7 +4956,10 @@
       "forms" : [ "興る", "怒る", "奮う" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "puatu2.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4660,7 +4975,10 @@
       "forms" : [ "急ぐ" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "sami.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4676,7 +4994,10 @@
       "forms" : [ "素", "元" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "sati.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4812,7 +5133,10 @@
       "forms" : [ "～だけだ" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "tata.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4828,7 +5152,10 @@
       "forms" : [ "従う" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "tiua.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4882,7 +5209,10 @@
       "forms" : [ "容器", "樽" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "tobwu.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4898,7 +5228,10 @@
       "forms" : [ "遊ぶ" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "utui.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4914,7 +5247,10 @@
       "forms" : [ "味" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "twikei.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4930,7 +5266,10 @@
       "forms" : [ "甘い" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "tumi.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4962,7 +5301,10 @@
       "forms" : [ "歌" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "xauau.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -5028,7 +5370,10 @@
       "forms" : [ "怖い" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "chade.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -5060,7 +5405,10 @@
       "forms" : [ "党" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "zui1+dat2"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -5071,9 +5419,15 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "片" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "かけら", "札", "駒", "牌" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "chuwo.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -5089,7 +5443,10 @@
       "forms" : [ "中間" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "qaijie.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
