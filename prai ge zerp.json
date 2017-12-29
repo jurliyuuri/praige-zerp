@@ -1713,7 +1713,10 @@
       "forms" : [ "右" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "kinia.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1928,7 +1931,10 @@
       "forms" : [ "止める", "止まる" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "muo1.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3736,7 +3742,7 @@
       "text" : "固有名詞的に「アイル」のことを指すこともある。"
     }, {
       "title" : "同根語",
-      "text" : "airy.ln"
+      "text" : "airy.ln,aihei.ar"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -4376,7 +4382,10 @@
       "forms" : [ "少ない", "若い" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "huroe.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4458,7 +4467,10 @@
       "forms" : [ "磨く", "艶を出す" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "yuh^aa.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -5969,7 +5981,10 @@
       "forms" : [ "後" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "yubui.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -5982,7 +5997,10 @@
       "forms" : [ "歪" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "blubla.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -6001,7 +6019,10 @@
       "forms" : [ "平らな" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "owu.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
