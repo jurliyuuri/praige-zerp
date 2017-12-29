@@ -48,7 +48,7 @@
       "text" : "日本語と同じく、A之Bとする。\n文脈で分かるときは省略し、分かりにくければ挿入する。"
     }, {
       "title" : "同根語",
-      "text" : "a.ar"
+      "text" : "a.ar, -án.bt, -áná.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -82,7 +82,7 @@
       "text" : "pai2 aim2 a.　（私は居る。）"
     }, {
       "title" : "同根語",
-      "text" : "aima.ar"
+      "text" : "aima.ar, hemúḷ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -122,7 +122,7 @@
       "text" : "pai2 mun1.　（私は居ない。）（私じゃない。）\nka1 mun1 a zep1 mak2.　（これは存在しない電話番号です。）\nmun1. pai2 mun1 hui1 tit.　（いいえ、私はぴすてぃるしていません。）"
     }, {
       "title" : "同根語",
-      "text" : "amunu.ar"
+      "text" : "amunu.ar, ám.bt"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -153,7 +153,7 @@
       "text" : "y1 ian1 iak1.　（政府は法律を作る。）\npai2 ian1 ta zui1.　（私は意見を出した。）"
     }, {
       "title" : "同根語",
-      "text" : "jani.ar"
+      "text" : "jani.ar, janúḷ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -184,7 +184,7 @@
       "text" : "pai2 lit1 be1.　（私はすべてを消す。）"
     }, {
       "title" : "同根語",
-      "text" : "rita.ar; 古パイグでは王正素なので規則的にはit1となるはずだが、アイルの影響でl-が挿入された"
+      "text" : "rita.ar; 古パイグでは王正素なので規則的にはit1となるはずだが、アイルの影響でl-が挿入された\nídúḷ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -246,7 +246,7 @@
       "text" : "pai2 ge zep1　（私達の言語）\nzap2 zep1　”pai2 zep1 non1”.　（彼は私の言うことは悪いと言った。）"
     }, {
       "title" : "同根語",
-      "text" : "chepo.ar"
+      "text" : "chepo.ar, zepha.bt, cepatepa.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -324,7 +324,7 @@
       "text" : "A亦B　のように使う。"
     }, {
       "title" : "同根語",
-      "text" : "yujo.ar"
+      "text" : "yujo.ar, jo.bt"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -386,7 +386,7 @@
       "text" : "huep2 hia1 dat2　（土地の心の集まり＝文化省）"
     }, {
       "title" : "同根語",
-      "text" : "dado.ar"
+      "text" : "dado.ar, dhárad.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -412,6 +412,9 @@
     "contents" : [ {
       "title" : "例文",
       "text" : "mua2 ma1 ie be1 cuk2.（あなたはすべての人の中で最大だ。）"
+    }, {
+      "title" : "同根語",
+      "text" : "bhá(形容詞).bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -467,7 +470,7 @@
       "text" : "pai2 mok1 ie ze1 hue.　（私はそこに行く。）\npai2 ma1 ie mua2.　（私はあなたより大きい。）"
     }, {
       "title" : "同根語",
-      "text" : "i'q.ln>ye>\nia.ar"
+      "text" : "i'q.ln>ye>\nia.ar\nhína.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -495,7 +498,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "raikqt.ln>aika.ar"
+      "text" : "raikqt.ln>aika.ar\nkád.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -523,7 +526,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "phed.ln"
+      "text" : "phed.ln, bhát.bt, phedu.ar"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -551,7 +554,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "morq.ln\nmoho.ar"
+      "text" : "morq.ln\nmoho.ar\nbohúḷ.bt"
     }, {
       "title" : "用法",
       "text" : "約詞用法ではieと異なり移動性を持つ。"
@@ -582,7 +585,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "srakkq.ln"
+      "text" : "srakkq.ln, cákíkúḷ.bt, sakika.ar, rakkúḷ.bt, sáka.bt, sakká.bt"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -705,7 +708,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "canai.ar"
+      "text" : "canai.ar, cánajúḷ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -730,7 +733,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "ceyuu.ar"
+      "text" : "ceyuu.ar, cajúḷ.bt"
     }, {
       "title" : "表記揺れ",
       "text" : "「周」の異体字である「近」を使うこともある。なお、アイル語ではceyuu「周囲の；周辺の」に「周」を使い、ceixei「近い；近接した」に「近」を使う。\n"
@@ -862,7 +865,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "dop'iai.ar"
+      "text" : "dop'iai.ar, dhoḷop.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -903,7 +906,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "aima.ar"
+      "text" : "aima.ar, ema.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -917,7 +920,10 @@
       "forms" : [ "一" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "lási.bt"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1108,7 +1114,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "hiya2.ar"
+      "text" : "hiya2.ar, heyáúḷ.bt, híja.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1149,7 +1155,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "phobo.ar"
+      "text" : "phobo.ar, bhoma.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1203,7 +1209,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "hep'iai.ar"
+      "text" : "hep'iai.ar, epa.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1263,7 +1269,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "huroo.ar"
+      "text" : "huroo.ar, horúḷ.bt, úro.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1304,7 +1310,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "h^ut^ee.ar"
+      "text" : "h^ut^ee.ar, huṭeúḷ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1375,7 +1381,10 @@
       "forms" : [ "二" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ríka.bt"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1435,7 +1444,10 @@
       "forms" : [ "この" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ko.bt"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1453,7 +1465,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "akia.ar"
+      "text" : "akia.ar, ákíjam.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1491,7 +1503,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "kaga.ar"
+      "text" : "kaga.ar, káṇa.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1513,7 +1525,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "kani.ar"
+      "text" : "kani.ar, gháni.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1766,7 +1778,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "leka.ar"
+      "text" : "leka.ar, legha.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1823,7 +1835,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "amama.ar"
+      "text" : "amama.ar, amáma.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1842,7 +1854,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "mani.ar"
+      "text" : "mani.ar, báni.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1899,7 +1911,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "amui.ar"
+      "text" : "amui.ar, amila.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1962,7 +1974,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "nanu.ar"
+      "text" : "nanu.ar, nána.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2085,7 +2097,10 @@
       "forms" : [ "水" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "nua.ar, nutta.bt"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2169,7 +2184,7 @@
       "text" : "pua2 pek1 a.（風が強い。）"
     }, {
       "title" : "同根語",
-      "text" : "pura.ar"
+      "text" : "pura.ar, bhára.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2272,7 +2287,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "sa.ar, usa.ar"
+      "text" : "sa.ar, usa.ar, sá.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2455,7 +2470,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "ata.ar"
+      "text" : "ata.ar, adha.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2493,7 +2508,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "atamu.ar"
+      "text" : "atamu.ar, aṭam.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2686,7 +2701,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "tiu.ar"
+      "text" : "tiu.ar, zu.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2711,7 +2726,7 @@
       "text" : "順接にも逆接にも、仮定にも条件にも使える。"
     }, {
       "title" : "同根語",
-      "text" : "iwa2.ar"
+      "text" : "iwa2.ar, ja.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2850,7 +2865,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "tixuo.ar"
+      "text" : "tixuo.ar, díṣlo.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2932,7 +2947,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "chauchu.ar"
+      "text" : "chauchu.ar, zúḷ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3055,7 +3070,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "shomu.ar"
+      "text" : "shomu.ar, ṣoma.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3074,7 +3089,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "sip'ui.ar"
+      "text" : "sip'ui.ar, síbha.bt, ṣibhai.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3099,7 +3114,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "baibae.ar"
+      "text" : "baibae.ar, bhápúḷ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3194,7 +3209,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "katu.ar"
+      "text" : "katu.ar, ghátu.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3636,7 +3651,7 @@
       "text" : "5ズーはおよそ8レジュで40円程度である。"
     }, {
       "title" : "同根語",
-      "text" : "su.ar"
+      "text" : "su.ar, su.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3759,7 +3774,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "nimutu.ar"
+      "text" : "nimutu.ar, nímaṣ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3822,7 +3837,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "akata.ar"
+      "text" : "akata.ar, aghauṭa.bt, ákúḷ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -4167,7 +4182,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "ciwi.ar, cikau.ar"
+      "text" : "ciwi.ar, cikau.ar, ṣíkahúḷ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -4382,7 +4397,7 @@
       "text" : "男女、老若を区別しない。"
     }, {
       "title" : "同根語",
-      "text" : "fokjut.ln"
+      "text" : "fokjut.ln, woghit.bt, foku.ar"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -4572,7 +4587,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "kuaka.ar"
+      "text" : "kuaka.ar, khak.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -4733,7 +4748,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "mamau.ar"
+      "text" : "mamau.ar, banáman.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5091,7 +5106,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "sui.ar"
+      "text" : "sui.ar, sujúḷ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
