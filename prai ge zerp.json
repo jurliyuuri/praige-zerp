@@ -6104,6 +6104,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 307,
+      "form" : "kua2 kauk2 mun1 aum2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "筆兵無傾" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "書記官と兵士の力が均衡していること" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "筆（書記官）と兵（兵士）の力が均衡していることを表す。国の維持に重要とされ、筆と槍を図案化したシンボルが存在する。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeiyuo",
