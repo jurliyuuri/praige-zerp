@@ -6363,10 +6363,51 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 320,
+      "form" : "det"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "種" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "硬い殻に覆われた植物性の小粒。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "どんぐり", "団栗", "木の実", "種" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "どんぐりは加工して主食ともなるため、「木の実」といえば基本的にどんぐりを意味する。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 321,
+      "form" : "kuo1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "塩" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "調味料の一つで", "塩辛い。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "塩" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
-    "alphabetOrder" : "pbmcsxztdnlkghaeiyuo",
-    "alphabetOrderType" : "UNICODE",
+    "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
+    "alphabetOrderType" : "CUSTOM",
     "punctuations" : [ ",", "、" ],
     "pronunciationTitle" : null,
     "plainInformationTitles" : [ "例文", "用法" ],
