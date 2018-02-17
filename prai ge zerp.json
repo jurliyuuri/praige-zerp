@@ -3386,7 +3386,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "理tharmperl"
+      "text" : "tharmperl.li"
     }, {
       "title" : "文化",
       "text" : "パイグ将棋で皇処に将が置かれたときにその八方の自分の駒は相手に取られなくなることから。"
@@ -5604,7 +5604,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "理feterkx"
+      "text" : "feterkx.li"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -6147,7 +6147,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "理tumbert"
+      "text" : "tumbert.li"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -6166,7 +6166,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "理kartbert"
+      "text" : "kartbert.li"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -6185,7 +6185,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "理dzekot"
+      "text" : "dzekot.li"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -6204,7 +6204,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "理fephokurt"
+      "text" : "fephokurt.li"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -6226,7 +6226,7 @@
       "text" : "パイグ人の芸能の一つ、観客には詩などの書かれた紙を持たせ、演奏と共に読むもの。演奏は詩などの一音節ごとの声調に合わせて弾かれることが特徴。"
     }, {
       "title" : "同根語",
-      "text" : "理cherplia"
+      "text" : "cherplia.li"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -6245,7 +6245,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "理ciwfho"
+      "text" : "ciwfho.li"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -6267,7 +6267,7 @@
       "text" : "元々、アレス王朝二代目の燐帝の座右の銘であったといわれており、アイル共和国文化省の理念になっている。"
     }, {
       "title" : "同根語",
-      "text" : "理faxamorlu"
+      "text" : "faxamorlu.li"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -6286,7 +6286,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "理hiakegwe"
+      "text" : "hiakegwe.li"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -6305,7 +6305,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "理munnatuihuo"
+      "text" : "munnatuihuo.li"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -6324,7 +6324,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "理nwafho"
+      "text" : "nwafho.li"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -6343,7 +6343,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "理sikxurtia"
+      "text" : "sikxurtia.li"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -6359,7 +6359,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "理tharmkarlt"
+      "text" : "tharmkarlt.li"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -6409,7 +6409,7 @@
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
     "alphabetOrderType" : "CUSTOM",
     "punctuations" : [ ",", "、" ],
-    "pronunciationTitle" : null,
+    "pronunciationTitle" : "標準発音",
     "plainInformationTitles" : [ "例文", "用法" ],
     "informationTitleOrder" : null,
     "defaultWord" : {
@@ -6440,7 +6440,22 @@
         "forms" : [ "" ]
       } ],
       "tags" : [ ],
-      "contents" : [ ],
+      "contents" : [ {
+        "title" : "例文",
+        "text" : "ラテン字綴り　（和訳）＝意訳"
+      }, {
+        "title" : "用法",
+        "text" : "用法を示す。"
+      }, {
+        "title" : "文化",
+        "text" : "文化的な背景を書く。"
+      }, {
+        "title" : "同根語",
+        "text" : "ラネーメ祖語　.ln\nアイル語　.ar\nバート語　.bt\nヴェフィス語　.ve\nリパライン語　.li"
+      }, {
+        "title" : "表記揺れ",
+        "text" : "表記揺れがあれば、書く。"
+      } ],
       "variations" : [ ],
       "relations" : [ ]
     }
