@@ -3384,7 +3384,13 @@
       "forms" : [ "皇処之将" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理tharmperl"
+    }, {
+      "title" : "文化",
+      "text" : "パイグ将棋で皇処に将が置かれたときにその八方の自分の駒は相手に取られなくなることから。"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -5596,7 +5602,10 @@
       "forms" : [ "ヘマタイト" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理feterkx"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -6120,6 +6129,237 @@
     "contents" : [ {
       "title" : "用法",
       "text" : "筆（書記官）と兵（兵士）の力が均衡していることを表す。国の維持に重要とされ、筆と槍を図案化したシンボルが存在する。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 308,
+      "form" : "tum1 bait"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "甘膠" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "羊羹" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理tumbert"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 309,
+      "form" : "kot bait"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "草膠" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "寒天" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理kartbert"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 310,
+      "form" : "sy2 kot"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "石草" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "サンゴ", "珊瑚" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理dzekot"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 311,
+      "form" : "huep2 ho1 kuot1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "地豊豆" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "ピーナッツ", "ピーナツ", "落花生" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理fephokurt"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 312,
+      "form" : "zep1 lia1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "言琴" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "話琴", "チェープリャ", "チェプリャ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "パイグ人の芸能の一つ、観客には詩などの書かれた紙を持たせ、演奏と共に読むもの。演奏は詩などの一音節ごとの声調に合わせて弾かれることが特徴。"
+    }, {
+      "title" : "同根語",
+      "text" : "理cherplia"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 313,
+      "form" : "sy2 huo2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "石墨" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "固形墨" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理ciwfho"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 314,
+      "form" : "hia1 sia1 mok1 lu2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "心古行新" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "心古行新の", "古きを思って", "新しきに行く" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "元々、アレス王朝二代目の燐帝の座右の銘であったといわれており、アイル共和国文化省の理念になっている。"
+    }, {
+      "title" : "同根語",
+      "text" : "理faxamorlu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 315,
+      "form" : "hia1 kait guk2 uaip2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "心善受助" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "望めば助かる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理hiakegwe"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 316,
+      "form" : "mun1 nua2 tui2 huo2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "無水与墨" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "ありがた迷惑", "有難迷惑", "お節介", "おせっかい", "独り善がり", "無用な親切", "余計なお世話" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理munnatuihuo"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 317,
+      "form" : "nua2 huo2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "水墨" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "墨汁", "墨液" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理nwafho"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 318,
+      "form" : "sik2 sy2 tia2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "蜜石茶" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "ダージリンティー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理sikxurtia"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 319,
+      "form" : "tam2 kot"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "皇草" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理tharmkarlt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
