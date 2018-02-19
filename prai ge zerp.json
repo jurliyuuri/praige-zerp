@@ -6407,6 +6407,31 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 322,
+      "form" : "y1 huap1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "官定" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "政府が定めた", "標準の" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "政府が定めたもの", "(一般に)標準のもの" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "政府が定めた", "標準の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "政府の関与の有無に関わらず用いることができる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
