@@ -6262,7 +6262,7 @@
       "forms" : [ "心古行新" ]
     }, {
       "title" : "概念",
-      "forms" : [ "心古行新の", "古きを思って", "新しきに行く" ]
+      "forms" : [ "心古行新の", "古きを思って新しきに行く" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -6432,6 +6432,28 @@
     "contents" : [ {
       "title" : "用法",
       "text" : "政府の関与の有無に関わらず用いることができる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 323,
+      "form" : "tai"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "咍" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "強い心の揺れを受けたときの声" ]
+    }, {
+      "title" : "叫詞",
+      "forms" : [ "なんとまあ！" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "表記揺れ",
+      "text" : "tai1\ntai2"
     } ],
     "variations" : [ ],
     "relations" : [ ]
