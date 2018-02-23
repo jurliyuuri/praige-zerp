@@ -6426,6 +6426,31 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 324,
+      "form" : "lit1 py"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "入力" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "力を込めること" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "頑張り", "努力" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "頑張る" ]
+    }, {
+      "title" : "叫詞",
+      "forms" : [ "頑張れ！" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
