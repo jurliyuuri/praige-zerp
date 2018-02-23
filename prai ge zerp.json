@@ -2138,7 +2138,10 @@
       "forms" : [ "三" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "umi.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
