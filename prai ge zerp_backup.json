@@ -6451,28 +6451,6 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 325,
-      "form" : "pa2"
-    },
-    "translations" : [ {
-      "title" : "漢字転写",
-      "forms" : [ "犬" ]
-    }, {
-      "title" : "概念",
-      "forms" : [ "" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "犬", "イヌ" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "同根語",
-      "text" : "paxo.ar\nphaxo.ar"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
