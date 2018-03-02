@@ -1,4 +1,4 @@
-漢字転写	パイグ音	カテゴリ	古パイグ（逆生成）	
+漢字転写	パイグ音	カテゴリ	古パイグ	
 我	pai2	代名詞	prae	
 汝	mua2	代名詞	mrua	
 此	ka1	代名詞	kah	
@@ -50,7 +50,7 @@
 金	kin2	自然	krin	
 膠	bait	自然	baet	
 花	xuo1	自然	shuoh	
-種		自然		
+種	det	自然	dvt	
 果	tua1	自然	tuah	旧転写：実
 油	dui	自然	dui	
 脂		自然		
@@ -78,7 +78,7 @@
 下	ut2	方向	ngut	
 左	tyn1	方向	tiuhn	
 右	ky1	方向	kiuh <-*kynja	
-東	kiak1	方向	kiahk	
+東	kiak1	方向	hik	
 西	yk2	方向	ngiuk	
 南	tan1	方向	tahn	
 北	hak2	方向	hrak	
@@ -115,7 +115,7 @@
 女	sa1	人間関係	zah	
 皇	tam2	宗教	tram	
 神	tun2	宗教	trun (tramの影響？）	
-船	muak1	乗り物	muahk	
+船	muak1	乗り物		
 兵	kauk2	戦い	krauk < kaek sruk	
 弓	gua2	戦い	grua	
 車	kaun1	乗り物	kauhn < kihk mauhn	
@@ -310,3 +310,8 @@
 麗	hem1	異体字		「美」の異体字
 塩	kuo1			
 耒	sak2	異体字		バートoṣa、タカンocaに用いられる
+貓	ne2	異体字		「猫」の異体字
+能				アイルacau、バートácahúḷ、タカンac-u
+咍	tai			アイルt'aitaiu、バートdeja
+柔	ho	異体字		「軟」の異体字
+恒				アイルcaxou、タカンcac-u

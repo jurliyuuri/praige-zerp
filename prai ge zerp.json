@@ -906,7 +906,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "aima.ar, ema.bt"
+      "text" : "aimu.ar, ema.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -922,7 +922,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "lási.bt"
+      "text" : "asi.ar,lási.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1383,7 +1383,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "ríka.bt"
+      "text" : "iku.ar,ríka.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1599,10 +1599,7 @@
       "forms" : [ "東" ]
     } ],
     "tags" : [ ],
-    "contents" : [ {
-      "title" : "同根語",
-      "text" : "hiki1.ar"
-    } ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2138,7 +2135,10 @@
       "forms" : [ "三" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "umi.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -6382,6 +6382,9 @@
     "contents" : [ {
       "title" : "文化",
       "text" : "どんぐりは加工して主食ともなるため、「木の実」といえば基本的にどんぐりを意味する。"
+    }, {
+      "title" : "同根語",
+      "text" : "dexu.ar"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -6402,6 +6405,31 @@
     } ],
     "tags" : [ ],
     "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 322,
+      "form" : "y1 huap1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "官定" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "政府が定めた", "標準の" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "政府が定めたもの", "(一般に)標準のもの" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "政府が定めた", "標準の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "政府の関与の有無に関わらず用いることができる。"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
