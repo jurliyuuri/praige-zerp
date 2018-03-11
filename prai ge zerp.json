@@ -6501,6 +6501,53 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 326,
+      "form" : "hauk1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "胸" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "首と腹との間の部分。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "胸" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "「心」との関連がある。"
+    }, {
+      "title" : "同根語",
+      "text" : "$$.bt\n"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 327,
+      "form" : "hia1 la1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "心軸" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "心の集まる所。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "心臓" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "感情の動きによって動きを変えるため、心臓と感情は関連していると考えられている。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
