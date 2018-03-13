@@ -6489,7 +6489,7 @@
       "forms" : [ "犬" ]
     }, {
       "title" : "概念",
-      "forms" : [ "" ]
+      "forms" : [ "犬" ]
     }, {
       "title" : "名詞",
       "forms" : [ "犬", "イヌ" ]
@@ -6522,7 +6522,7 @@
       "text" : "「心」との関連がある。"
     }, {
       "title" : "同根語",
-      "text" : "$$.bt\n"
+      "text" : "rauki.bt\n"
     } ],
     "variations" : [ ],
     "relations" : [ ]
