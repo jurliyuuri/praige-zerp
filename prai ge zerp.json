@@ -728,7 +728,7 @@
       "forms" : [ "物の周囲" ]
     }, {
       "title" : "名詞",
-      "forms" : [ "周り", "周囲", "近く" ]
+      "forms" : [ "周り", "周囲", "近く", "客語" ]
     }, {
       "title" : "定詞",
       "forms" : [ "周りの", "近くの" ]
@@ -1732,7 +1732,7 @@
       "forms" : [ "物体の中心を通るもの" ]
     }, {
       "title" : "名詞",
-      "forms" : [ "軸", "茎", "中心", "中央" ]
+      "forms" : [ "軸", "茎", "中心", "中央", "主語" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -6545,6 +6545,85 @@
     "contents" : [ {
       "title" : "文化",
       "text" : "感情の動きによって動きを変えるため、心臓と感情は関連していると考えられている。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 328,
+      "form" : "syt2 nua2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "天水" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "空から降ってくる水。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "雨" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 329,
+      "form" : "kait kia1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "善日" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "標準的な挨拶。主に人に出会った際に用いる。" ]
+    }, {
+      "title" : "叫詞",
+      "forms" : [ "こんにちは！" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 330,
+      "form" : "hia1 kait"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "心善" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "感謝を示す挨拶。" ]
+    }, {
+      "title" : "叫詞",
+      "forms" : [ "ありがとう" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 331,
+      "form" : "nim2 dat2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "族集" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "複数の小国によって形成される国家。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "連邦", "ユエスレオネ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "とりわけユエスレオネを指す。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
