@@ -1814,7 +1814,7 @@
       "forms" : [ "須" ]
     }, {
       "title" : "定詞",
-      "forms" : [ "～すべき；～しなければならない" ]
+      "forms" : [ "～すべき", "～しなければならない", "～に違いない" ]
     }, {
       "title" : "動詞",
       "forms" : [ "しなければならない" ]
@@ -3965,6 +3965,12 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "軟" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "変化しやすい様" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "軟らかい", "易しい", "簡単な" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -6625,6 +6631,57 @@
       "title" : "用法",
       "text" : "とりわけユエスレオネを指す。"
     } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 332,
+      "form" : "y1 bia1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "官民" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "役人と民衆", "政府と民衆" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 333,
+      "form" : "xa2 man1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "意字" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "表意文字", "表語文字" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 334,
+      "form" : "cuop2 man1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "声字" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "表音文字" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
