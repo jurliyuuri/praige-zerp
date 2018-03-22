@@ -4982,6 +4982,9 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "perao.ar"
+    }, {
+      "title" : "用法",
+      "text" : "（mok1 ~ po1で）～に従う、～に基づく。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -6649,7 +6652,10 @@
       "forms" : [ "役人と民衆", "政府と民衆" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "例文",
+      "text" : "man1 ten1 ua y1 bia1 bau2.（字が混ざって役人や民衆が迷う。）"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -6679,6 +6685,22 @@
     }, {
       "title" : "名詞",
       "forms" : [ "表音文字" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 335,
+      "form" : "hy2 lek1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "棚絵" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "表" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
