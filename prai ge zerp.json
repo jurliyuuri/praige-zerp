@@ -6774,6 +6774,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 338,
+      "form" : "pau1 ka1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "別此" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "話題転換" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "そういえば" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
