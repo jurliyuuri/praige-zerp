@@ -1,0 +1,322 @@
+{
+  "words" : [ {
+    "entry" : {
+      "id" : 1,
+      "form" : "ka1"
+    },
+    "translations" : [ {
+      "title" : "",
+      "forms" : [ "dim" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 2,
+      "form" : "pai2"
+    },
+    "translations" : [ {
+      "title" : "",
+      "forms" : [ "am" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 3,
+      "form" : "ua"
+    },
+    "translations" : [ {
+      "title" : "",
+      "forms" : [ "mo" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4,
+      "form" : "a"
+    },
+    "translations" : [ {
+      "title" : "",
+      "forms" : [ "fo -n" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5,
+      "form" : "a"
+    },
+    "translations" : [ {
+      "title" : "",
+      "forms" : [ "raa" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 6,
+      "form" : "zep1"
+    },
+    "translations" : [ {
+      "title" : "",
+      "forms" : [ "eho, wang, rang, banta, ehobanta, ehoyo" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 7,
+      "form" : "aim2"
+    },
+    "translations" : [ {
+      "title" : "",
+      "forms" : [ "ansum, -dis, yee" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 8,
+      "form" : "ie"
+    },
+    "translations" : [ {
+      "title" : "",
+      "forms" : [ "(kojomor)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 9,
+      "form" : "mun1"
+    },
+    "translations" : [ {
+      "title" : "",
+      "forms" : [ "an, ano, wii, wi-" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 10,
+      "form" : "zap2"
+    },
+    "translations" : [ {
+      "title" : "",
+      "forms" : [ "kar, kas, bwim" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 11,
+      "form" : "em"
+    },
+    "translations" : [ {
+      "title" : "",
+      "forms" : [ "(je) sur, razur, uur, yuguur" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 12,
+      "form" : "cuk2"
+    },
+    "translations" : [ {
+      "title" : "",
+      "forms" : [ "narro, man" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 13,
+      "form" : "hia1"
+    },
+    "translations" : [ {
+      "title" : "",
+      "forms" : [ "wana, imie, syumro" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 14,
+      "form" : "ze1"
+    },
+    "translations" : [ {
+      "title" : "",
+      "forms" : [ "zam" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 15,
+      "form" : "yn2"
+    },
+    "translations" : [ {
+      "title" : "",
+      "forms" : [ "-(an je)?" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 16,
+      "form" : "mok1"
+    },
+    "translations" : [ {
+      "title" : "",
+      "forms" : [ "ikaphup, -gan" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 17,
+      "form" : "py"
+    },
+    "translations" : [ {
+      "title" : "",
+      "forms" : [ "ner, kyanpa, je dertur he-" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 18,
+      "form" : "nan2"
+    },
+    "translations" : [ {
+      "title" : "",
+      "forms" : [ "m" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 19,
+      "form" : "mua2"
+    },
+    "translations" : [ {
+      "title" : "",
+      "forms" : [ "aam" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 20,
+      "form" : "ta1"
+    },
+    "translations" : [ {
+      "title" : "",
+      "forms" : [ "ken, kenso, " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 21,
+      "form" : "can2"
+    },
+    "translations" : [ {
+      "title" : "",
+      "forms" : [ "je naa fo, nestenor" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 22,
+      "form" : "kak"
+    },
+    "translations" : [ {
+      "title" : "",
+      "forms" : [ "jimka" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 23,
+      "form" : "kait"
+    },
+    "translations" : [ {
+      "title" : "",
+      "forms" : [ "raz" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  } ],
+  "zpdic" : {
+    "alphabetOrder" : "",
+    "alphabetOrderType" : "UNICODE",
+    "punctuations" : [ ",", "、" ],
+    "pronunciationTitle" : null,
+    "plainInformationTitles" : [ ],
+    "informationTitleOrder" : null,
+    "defaultWord" : {
+      "entry" : {
+        "id" : -1,
+        "form" : ""
+      },
+      "translations" : [ ],
+      "tags" : [ ],
+      "contents" : [ ],
+      "variations" : [ ],
+      "relations" : [ ]
+    }
+  },
+  "snoj" : null
+}
