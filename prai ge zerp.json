@@ -6758,20 +6758,20 @@
   }, {
     "entry" : {
       "id" : 337,
-      "form" : "pau1 ka1"
+      "form" : "lot2"
     },
     "translations" : [ {
       "title" : "漢字転写",
-      "forms" : [ "別此" ]
+      "forms" : [ "短" ]
     }, {
       "title" : "概念",
-      "forms" : [ "話題転換" ]
-    }, {
-      "title" : "定詞",
-      "forms" : [ "そういえば" ]
+      "forms" : [ "短い" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "lodu.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
