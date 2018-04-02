@@ -1,0 +1,19 @@
+  }, {
+    "entry" : {
+      "id" : 336,
+      "form" : "lot2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "短" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "短い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "lodu.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
