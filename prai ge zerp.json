@@ -247,6 +247,9 @@
     }, {
       "title" : "同根語",
       "text" : "chepo.ar, zepha.bt, cepatepa.bt"
+    }, {
+      "title" : "表記揺れ",
+      "text" : "zep2"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5333,7 +5336,10 @@
       "forms" : [ "型" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "表記揺れ",
+      "text" : "xau2"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -5401,7 +5407,7 @@
       "text" : "xiyu.ar"
     }, {
       "title" : "用法",
-      "text" : "xy1 pia2で「部屋を片付ける」"
+      "text" : "xy1 pia2で「部屋を片付ける」\nxy1 B bap Cで「BをCとみなす」"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -6752,20 +6758,20 @@
   }, {
     "entry" : {
       "id" : 337,
-      "form" : "lot2"
+      "form" : "pau1 ka1"
     },
     "translations" : [ {
       "title" : "漢字転写",
-      "forms" : [ "短" ]
+      "forms" : [ "別此" ]
     }, {
       "title" : "概念",
-      "forms" : [ "短い" ]
+      "forms" : [ "話題転換" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "そういえば" ]
     } ],
     "tags" : [ ],
-    "contents" : [ {
-      "title" : "同根語",
-      "text" : "lodu.ar"
-    } ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
