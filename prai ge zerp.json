@@ -1332,7 +1332,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 336,
+        "form" : "io1"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 57,
@@ -6013,6 +6019,12 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "歪" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "歪み", "曲がり" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "歪んだ", "曲がった" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -6706,6 +6718,37 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 336,
+      "form" : "io1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "直" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "曲がりのない様。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "定規", "定木", "ルール" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "まっすぐな", "まっすぐに", "直接的に", "素直な" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "io1はiak1よりも拘束力の弱い規則のイメージがある。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 56,
+        "form" : "iak1"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
