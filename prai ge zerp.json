@@ -3494,7 +3494,7 @@
       "forms" : [ "壊" ]
     }, {
       "title" : "動詞",
-      "forms" : [ "壊れる" ]
+      "forms" : [ "壊れる", "死ぬ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -6772,6 +6772,28 @@
     } ],
     "tags" : [ ],
     "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 338,
+      "form" : "im1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "毛" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "表面を覆う糸状のもの" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "毛" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "imu.ar\n"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
