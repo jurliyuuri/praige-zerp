@@ -5903,7 +5903,10 @@
       "forms" : [ "机戦", "パイグ将棋" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "パイグ文化圏に固有の盤上遊戯である。将棋に似るが勝利条件が役の完成であることやxy1を使った不確定要素など性質を異にする。"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -6812,6 +6815,63 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "imu.ar\n"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 340,
+      "form" : "tam2 hue"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "皇処" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "（パイグ将棋で）皇処" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "パイグ将棋のNI NAI TU TY ZO XU XY CI CAIのマスで、駒の動きが強化される。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 341,
+      "form" : "tam2 nua2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "皇水" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "（パイグ将棋で）皇水", "マナナ島とタカン島の間の海域" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "パイグ将棋のNO TO ZI ZU ZO ZY ZAI XO　COのマスで、皇と船以外が入る時はxy1を使って判定しなければならない。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 342,
+      "form" : "tam2 zo1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "皇山" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "（パイグ将棋で）皇山" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "パイグ将棋で盤の中央のZOのマスのことを言う。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
