@@ -6875,6 +6875,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 343,
+      "form" : "man1 dat2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "字集" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "単語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
