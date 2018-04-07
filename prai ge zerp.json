@@ -378,7 +378,7 @@
       "forms" : [ "一か所にまとまる" ]
     }, {
       "title" : "名詞",
-      "forms" : [ "集まり" ]
+      "forms" : [ "集まり", "（パイグ将棋の）役" ]
     }, {
       "title" : "動詞",
       "forms" : [ "集まる", "集める" ]
@@ -4030,7 +4030,7 @@
       "forms" : [ "季" ]
     }, {
       "title" : "名詞",
-      "forms" : [ "季節" ]
+      "forms" : [ "季節", "（パイグ将棋の）季" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5408,6 +5408,9 @@
     }, {
       "title" : "用法",
       "text" : "xy1 pia2で「部屋を片付ける」\nxy1 B bap Cで「BをCとみなす」"
+    }, {
+      "title" : "文化",
+      "text" : "パイグ将棋で用いるxy1は表裏で色の異なる5本の棒である。色の濃いほうの枚数で判定を行う。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5607,7 +5610,10 @@
       "forms" : [ "文化" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "パイグ将棋の役の名前でもあり、筆・巫・将の3枚を手駒に揃える役を指す。"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -5902,7 +5908,7 @@
       "title" : "名詞",
       "forms" : [ "机戦", "パイグ将棋" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "机戦" ],
     "contents" : [ {
       "title" : "文化",
       "text" : "パイグ文化圏に固有の盤上遊戯である。将棋に似るが勝利条件が役の完成であることやxy1を使った不確定要素など性質を異にする。"
@@ -6159,6 +6165,9 @@
     "contents" : [ {
       "title" : "用法",
       "text" : "筆（書記官）と兵（兵士）の力が均衡していることを表す。国の維持に重要とされ、筆と槍を図案化したシンボルが存在する。"
+    }, {
+      "title" : "文化",
+      "text" : "パイグ将棋の役の名前でもあり、兵・弓・将・筆・巫の5枚の駒を手駒とする役を指す。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -6891,6 +6900,53 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 344,
+      "form" : "ty mok1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "再行" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "パイグ将棋において", "季の継続を宣言すること。" ]
+    } ],
+    "tags" : [ "机戦" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "パイグ将棋（机戦）において, 季の継続を宣言すること。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 345,
+        "form" : "ta xot1"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 345,
+      "form" : "ta xot1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "終季" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "パイグ将棋で季の終了を宣言すること。" ]
+    } ],
+    "tags" : [ "机戦" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 344,
+        "form" : "ty mok1"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
