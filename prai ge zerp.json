@@ -6947,6 +6947,75 @@
         "form" : "ty mok1"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 346,
+      "form" : "hua1 kak"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "挽時" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "一日を1000等分した時間の長さ。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "1挽時", "1/1000日" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "108stususnであり、現世でいうと87.4秒ほどである。10挽時は1片時である。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 347,
+      "form" : "zuo1 kak"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "片時" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "一日を100等分した時間の長さ。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "1片時", "1/100日" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "1080stususnであり、現世でいうと874秒ほど、およそ15分である。1片時は10挽時であり、10片時が1片時集である。"
+    }, {
+      "title" : "表記揺れ",
+      "text" : "1時片とも書く。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 348,
+      "form" : "zuo1 kak dat2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "片時集" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "一日を10等分した時間の長さ。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "1片時集", "1/10日" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "10800stususnであり、現世でいうとおよそ2時間半ほどである。1片時集は10片時であり、10片時集は1日である。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
