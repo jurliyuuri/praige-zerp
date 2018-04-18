@@ -1330,7 +1330,7 @@
       "forms" : [ "律" ]
     }, {
       "title" : "名詞",
-      "forms" : [ "法律" ]
+      "forms" : [ "法律", "（プログラミングの）関数・サブルーチン" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -7033,6 +7033,251 @@
       "title" : "同根語",
       "text" : "bháro.bt"
     } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 350,
+      "form" : "dat2 su1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "集銭" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "共産主義の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "???.tk"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 351,
+      "form" : "dat2 su1 zui1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "集銭論" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "共産主義" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 352,
+      "form" : "kan1 tua1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "火果" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "りんご", "林檎" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 353,
+      "form" : "xem1 tua1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "月果" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "みかん", "蜜柑" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 354,
+      "form" : "em muo1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "如止" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "イエロースクリーン" ]
+    } ],
+    "tags" : [ "悠里OS" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "リパライン語ではpevustol、悠里のOSであるpanqateelにおいて、異常が発生した時に表示される黄色い画面を指す。現世でいうブルースクリーンである。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 355,
+      "form" : "zie1 pau1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "広別" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "アスペクト比", "縦横比" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 356,
+      "form" : "gak1 kun2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "激付" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "レジスタ" ]
+    } ],
+    "tags" : [ "悠里OS" ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "CPUがアクセスするための小容量のメモリ。"
+    }, {
+      "title" : "文化",
+      "text" : "リパライン語ではfirjal"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 357,
+      "form" : "ut2 kun2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "下付" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "xeumon xelal (xx)レジスタ" ]
+    } ],
+    "tags" : [ "悠里OS" ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "次に実行する命令のアドレスを保持するレジスタ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 358,
+      "form" : "la1 kun2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "軸付" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "noon xelal (nx)レジスタ" ]
+    } ],
+    "tags" : [ "悠里OS" ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "実行中の命令のアドレスを保持するレジスタ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 359,
+      "form" : "ta1 tau2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "目端" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "右辺値", "読み取る値" ]
+    } ],
+    "tags" : [ "悠里OS" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 360,
+      "form" : "iak1 dat2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "律集" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "ライブラリ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "頻出する関数などをまとめ、再利用しやすくしたもの。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 361,
+      "form" : "xy1 la1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "裁軸" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "CPU" ]
+    } ],
+    "tags" : [ "悠里OS" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 362,
+      "form" : "kua2 kun2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "筆付" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "メモリ", "主記憶装置" ]
+    } ],
+    "tags" : [ "悠里OS" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 363,
+      "form" : "kua2 tau2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "筆端" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "左辺値" ]
+    } ],
+    "tags" : [ "悠里OS" ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
