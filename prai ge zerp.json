@@ -7280,6 +7280,38 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 364,
+      "form" : "gau2 gua2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "刀弓" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "武器" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 365,
+      "form" : "pua2 tak1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "風衣" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "旗" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
