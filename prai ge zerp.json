@@ -7312,6 +7312,25 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 366,
+      "form" : "be1 huep2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "全地" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "国際的な" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "bháhepa.bt"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
