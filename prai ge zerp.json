@@ -7331,6 +7331,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 367,
+      "form" : "ian1 hem1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "出美" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "創作" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
