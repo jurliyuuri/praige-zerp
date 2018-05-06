@@ -6639,6 +6639,9 @@
     }, {
       "title" : "叫詞",
       "forms" : [ "ありがとう" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "喜び" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -7354,7 +7357,7 @@
     },
     "translations" : [ {
       "title" : "漢字転写",
-      "forms" : [ "銭処" ]
+      "forms" : [ "銭処", "店" ]
     }, {
       "title" : "名詞",
       "forms" : [ "店" ]
