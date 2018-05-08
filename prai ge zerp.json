@@ -6878,25 +6878,6 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 343,
-      "form" : "kan1"
-    },
-    "translations" : [ {
-      "title" : "漢字転写",
-      "forms" : [ "躍" ]
-    }, {
-      "title" : "動詞",
-      "forms" : [ "跳ねる", "走る" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "同根語",
-      "text" : "kánaghúḷ.bt\nkanaka.ar\nkánatúḷ.bt\nkanata.ar"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
