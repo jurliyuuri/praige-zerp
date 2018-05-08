@@ -1533,6 +1533,9 @@
     }, {
       "title" : "定詞",
       "forms" : [ "熱い" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "燃える", "燃やす", "火がつく", "火をつける" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -6872,6 +6875,25 @@
     "contents" : [ {
       "title" : "文化",
       "text" : "パイグ将棋で盤の中央のZOのマスのことを言う。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 343,
+      "form" : "kan1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "躍" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "跳ねる", "走る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "kánaghúḷ.bt\nkanaka.ar\nkánatúḷ.bt\nkanata.ar"
     } ],
     "variations" : [ ],
     "relations" : [ ]
