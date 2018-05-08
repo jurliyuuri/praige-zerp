@@ -378,7 +378,7 @@
       "forms" : [ "一か所にまとまる" ]
     }, {
       "title" : "名詞",
-      "forms" : [ "集まり" ]
+      "forms" : [ "集まり", "（パイグ将棋の）役" ]
     }, {
       "title" : "動詞",
       "forms" : [ "集まる", "集める" ]
@@ -622,7 +622,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "kuran.ln"
+      "text" : "kura.ln"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1330,7 +1330,7 @@
       "forms" : [ "律" ]
     }, {
       "title" : "名詞",
-      "forms" : [ "法律" ]
+      "forms" : [ "法律", "（プログラミングの）関数・サブルーチン" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -4033,7 +4033,7 @@
       "forms" : [ "季" ]
     }, {
       "title" : "名詞",
-      "forms" : [ "季節" ]
+      "forms" : [ "季節", "（パイグ将棋の）季" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5411,6 +5411,9 @@
     }, {
       "title" : "用法",
       "text" : "xy1 pia2で「部屋を片付ける」\nxy1 B bap Cで「BをCとみなす」"
+    }, {
+      "title" : "文化",
+      "text" : "パイグ将棋で用いるxy1は表裏で色の異なる5本の棒である。色の濃いほうの枚数で判定を行う。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5610,7 +5613,10 @@
       "forms" : [ "文化" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "パイグ将棋の役の名前でもあり、筆・巫・将の3枚を手駒に揃える役を指す。"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -5905,7 +5911,7 @@
       "title" : "名詞",
       "forms" : [ "机戦", "パイグ将棋" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "机戦" ],
     "contents" : [ {
       "title" : "文化",
       "text" : "パイグ文化圏に固有の盤上遊戯である。将棋に似るが勝利条件が役の完成であることやxy1を使った不確定要素など性質を異にする。"
@@ -6162,6 +6168,9 @@
     "contents" : [ {
       "title" : "用法",
       "text" : "筆（書記官）と兵（兵士）の力が均衡していることを表す。国の維持に重要とされ、筆と槍を図案化したシンボルが存在する。"
+    }, {
+      "title" : "文化",
+      "text" : "パイグ将棋の役の名前でもあり、兵・弓・将・筆・巫の5枚の駒を手駒とする役を指す。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -6633,6 +6642,9 @@
     }, {
       "title" : "叫詞",
       "forms" : [ "ありがとう" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "喜び" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -6876,6 +6888,485 @@
       "title" : "文化",
       "text" : "パイグ将棋で盤の中央のZOのマスのことを言う。"
     } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 343,
+      "form" : "man1 dat2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "字集" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "単語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 344,
+      "form" : "ty mok1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "再行" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "パイグ将棋において", "季の継続を宣言すること。" ]
+    } ],
+    "tags" : [ "机戦" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "パイグ将棋（机戦）において, 季の継続を宣言すること。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 345,
+        "form" : "ta xot1"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 345,
+      "form" : "ta xot1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "終季" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "パイグ将棋で季の終了を宣言すること。" ]
+    } ],
+    "tags" : [ "机戦" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 344,
+        "form" : "ty mok1"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 346,
+      "form" : "hua1 kak"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "挽時" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "一日を1000等分した時間の長さ。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "1挽時", "1/1000日" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "108stususnであり、現世でいうと87.4秒ほどである。10挽時は1片時である。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 347,
+      "form" : "zuo1 kak"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "片時" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "一日を100等分した時間の長さ。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "1片時", "1/100日" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "1080stususnであり、現世でいうと874秒ほど、およそ15分である。1片時は10挽時であり、10片時が1片時集である。"
+    }, {
+      "title" : "表記揺れ",
+      "text" : "1時片とも書く。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 348,
+      "form" : "zuo1 kak dat2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "片時集" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "一日を10等分した時間の長さ。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "1片時集", "1/10日" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "10800stususnであり、現世でいうとおよそ2時間半ほどである。1片時集は10片時であり、10片時集は1日である。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 349,
+      "form" : "non1 pua2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "悪風" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "病気" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "bháro.bt"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 350,
+      "form" : "dat2 su1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "集銭" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "共産主義の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "???.tk"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 351,
+      "form" : "dat2 su1 zui1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "集銭論" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "共産主義" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 352,
+      "form" : "kan1 tua1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "火果" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "りんご", "林檎" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 353,
+      "form" : "xem1 tua1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "月果" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "みかん", "蜜柑" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 354,
+      "form" : "em muo1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "如止" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "イエロースクリーン" ]
+    } ],
+    "tags" : [ "悠里OS" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "リパライン語ではpevustol、悠里のOSであるpanqateelにおいて、異常が発生した時に表示される黄色い画面を指す。現世でいうブルースクリーンである。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 355,
+      "form" : "zie1 pau1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "広別" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "アスペクト比", "縦横比" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 356,
+      "form" : "gak1 kun2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "激付" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "レジスタ" ]
+    } ],
+    "tags" : [ "悠里OS" ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "CPUがアクセスするための小容量のメモリ。"
+    }, {
+      "title" : "文化",
+      "text" : "リパライン語ではfirjal"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 357,
+      "form" : "ut2 kun2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "下付" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "xeumon xelal (xx)レジスタ" ]
+    } ],
+    "tags" : [ "悠里OS" ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "次に実行する命令のアドレスを保持するレジスタ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 358,
+      "form" : "la1 kun2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "軸付" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "noon xelal (nx)レジスタ" ]
+    } ],
+    "tags" : [ "悠里OS" ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "実行中の命令のアドレスを保持するレジスタ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 359,
+      "form" : "ta1 tau2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "目端" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "右辺値", "読み取る値" ]
+    } ],
+    "tags" : [ "悠里OS" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 360,
+      "form" : "iak1 dat2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "律集" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "ライブラリ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "頻出する関数などをまとめ、再利用しやすくしたもの。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 361,
+      "form" : "xy1 la1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "裁軸" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "CPU" ]
+    } ],
+    "tags" : [ "悠里OS" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 362,
+      "form" : "kua2 kun2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "筆付" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "メモリ", "主記憶装置" ]
+    } ],
+    "tags" : [ "悠里OS" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 363,
+      "form" : "kua2 tau2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "筆端" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "左辺値" ]
+    } ],
+    "tags" : [ "悠里OS" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 364,
+      "form" : "gau2 gua2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "刀弓" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "武器" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 365,
+      "form" : "pua2 tak1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "風衣" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "旗" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 366,
+      "form" : "be1 huep2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "全地" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "国際的な" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "bháhepa.bt"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 367,
+      "form" : "ian1 hem1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "出美" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "創作" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 368,
+      "form" : "su1 hue"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "銭処", "店" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "店" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
