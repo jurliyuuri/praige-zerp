@@ -7388,6 +7388,47 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 370,
+      "form" : "kot huep2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "草地" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "草地", "野原" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "koṭáná epa.bt"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 371,
+      "form" : "co1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "壁" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "二つの領域を隔てるもの。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "壁" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "couyau.ar, ṣoya.bt"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
