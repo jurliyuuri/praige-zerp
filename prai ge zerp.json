@@ -7429,6 +7429,44 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 372,
+      "form" : "gek"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "肉" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "表面下にある柔らかい物質。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "肉" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "geqa.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 373,
+      "form" : "tuik1 can2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "味識" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "舌" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
