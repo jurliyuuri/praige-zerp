@@ -7467,6 +7467,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 374,
+      "form" : "kuak1 kuak1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "㕮㕮", "父父" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "咳をする" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
