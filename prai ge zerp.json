@@ -7483,6 +7483,28 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 375,
+      "form" : "taun1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "多" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "個数が大きいこと。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "多くのもの" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "多い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
