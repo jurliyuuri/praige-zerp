@@ -7505,6 +7505,41 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 376,
+      "form" : "kin2 niek1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "金連", "鎖" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "鎖" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 377,
+      "form" : "sui1 taun1 zep1 et2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "使多言一" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "単一の燐字をパイグ語2単語以上を用いて読むこと" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "「店」su1 hue や「鎖」kin2 niek1 などが挙げられる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
