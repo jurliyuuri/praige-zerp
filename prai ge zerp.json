@@ -7540,6 +7540,105 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 378,
+      "form" : "uet"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "卵" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "卵" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "約詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "叫詞",
+      "forms" : [ "" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 379,
+      "form" : "cuet"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "球" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "約詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "叫詞",
+      "forms" : [ "" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "cwelo.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 380,
+      "form" : "io2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "牛" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "約詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "叫詞",
+      "forms" : [ "" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "juo.ar, juro.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
