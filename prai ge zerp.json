@@ -7708,6 +7708,99 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 384,
+      "form" : "iam1 tau2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "口端" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "唇" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "約詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "叫詞",
+      "forms" : [ "" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 385,
+      "form" : "iam1 gau2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "口刀" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "歯" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "約詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "叫詞",
+      "forms" : [ "" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 386,
+      "form" : "iam1 giau1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "口門" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "喉" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "約詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "叫詞",
+      "forms" : [ "" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
