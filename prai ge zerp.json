@@ -7801,6 +7801,88 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 387,
+      "form" : "dit1 zep1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "貝言" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "誉める", "褒める" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 388,
+        "form" : "zep1 dit1"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 388,
+      "form" : "zep1 dit1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "言貝" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "取り繕う", "虚勢を張る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 387,
+        "form" : "dit1 zep1"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 389,
+      "form" : "im1 saup1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "毛獣" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(雅語)羊" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 390,
+      "form" : "po1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "羊" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "羊" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "羊" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "pola.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
