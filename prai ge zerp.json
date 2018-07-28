@@ -7883,6 +7883,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 391,
+      "form" : "gau2 aum2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "刀傾" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "階段" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "階段" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
