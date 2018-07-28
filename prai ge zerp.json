@@ -7902,6 +7902,70 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 392,
+      "form" : "at sit1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "加術" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "足し算" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 393,
+      "form" : "pau1 sit1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "別術" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "引き算" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 394,
+      "form" : "gy1 sit1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "層術" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "掛け算" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 395,
+      "form" : "ie sit1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "於術" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "割り算" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
