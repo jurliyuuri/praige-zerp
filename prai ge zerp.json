@@ -7966,6 +7966,37 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 396,
+      "form" : "tam2 py"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "皇力" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "皇効" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "約詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "叫詞",
+      "forms" : [ "" ]
+    } ],
+    "tags" : [ "机戦" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
