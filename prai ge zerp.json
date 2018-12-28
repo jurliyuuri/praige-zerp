@@ -7997,10 +7997,32 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 397,
+      "form" : "saup1 la1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "獣軸" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【PMCFにて】（パイグ将棋の）王" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "リパライン語salfli'arに由来する東島通商語cauplaが、パイグ語由来であると勘違いされ逆成された単語。"
+    }, {
+      "title" : "同根語",
+      "text" : "salfli'ar.li"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
-    "alphabetOrderType" : "CUSTOM",
+    "wordOrderType" : "CUSTOM",
     "punctuations" : [ ",", "、" ],
     "pronunciationTitle" : "標準発音",
     "plainInformationTitles" : [ "例文", "用法" ],
