@@ -8073,6 +8073,41 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 401,
+      "form" : "huep2 la1 zep1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "地軸言" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "（[場所] + aを直前に伴って）〜という場所/地域の主要言語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "例文",
+      "text" : "dop1 dat2 zep1 ka1 kia1 sak2 dop1 dat2 a huep2 la1 zep1 a et2.\n東島通商語は、PMCFの主要言語の一つである。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 402,
+      "form" : "dop1 dat2 zep1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "島集言" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "東島通商語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
