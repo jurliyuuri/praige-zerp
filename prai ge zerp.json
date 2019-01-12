@@ -8035,6 +8035,44 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 399,
+      "form" : "huet zep1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "闇言" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "バート語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "bhátán zepha.bt"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 400,
+      "form" : "huet zep1 a la1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "闇言之軸" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "ナウトゥホーマーエー（バート文字のシローレーカー）" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "バート文字の上の方に書かれる横線。バート語nautuhomá eのeはパイグ語la1と同根なので、それを写したもの。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
