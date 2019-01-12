@@ -8019,6 +8019,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 398,
+      "form" : "la1 zep1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "軸言" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "母語", "第一言語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
