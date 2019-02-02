@@ -8108,6 +8108,25 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 403,
+      "form" : "cuk2 ge"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "人等" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "連盟", "団体" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "連盟", "団体" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
