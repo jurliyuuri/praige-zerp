@@ -8155,6 +8155,66 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 405,
+      "form" : "bup2 sit1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "歪術" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "王が他の同色駒の代わりとなること" ]
+    } ],
+    "tags" : [ "机戦" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 406,
+      "form" : "uep"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "穴" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "貫通した穴" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(貫通した)穴" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "穴を開ける" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 407,
+      "form" : "bot1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "凹" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "へこみ", "へこむ" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "凹み", "くぼみ", "(貫通していない)穴" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "凹む", "くぼむ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
