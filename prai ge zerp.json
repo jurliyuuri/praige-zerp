@@ -8130,6 +8130,28 @@
       "forms" : [ "連盟", "団体" ]
     } ],
     "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "latacet < pmcp"
+    }, {
+      "title" : "文化",
+      "text" : "dat2には政府の省のような公的性の高いものを表すニュアンスがあるため、民間性の高い団体を表す表現として東島通商語から翻訳借用されてきた表現。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 404,
+      "form" : "hop1 zuo1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "手片" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "手札", "手駒", "持ち駒" ]
+    } ],
+    "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
