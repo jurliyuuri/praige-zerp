@@ -8256,6 +8256,44 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 410,
+      "form" : "lok1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "笛" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "笛", "管楽器" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "笛" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "roku.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 411,
+      "form" : "cuop2 cet2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "声机" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(雅語)琴" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
