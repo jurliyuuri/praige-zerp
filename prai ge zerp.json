@@ -8215,6 +8215,47 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 408,
+      "form" : "hia1 bet2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "心圧" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "心が圧されること" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "ヒャーベッ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "ラネーメ民族の土着的宗教である皇論において忌まれる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 409,
+      "form" : "mak2 la1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "値軸" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "（パイグ将棋の）点棒" ]
+    } ],
+    "tags" : [ "机戦" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "点数の計算に用いる細い棒。白は1点、赤は5点、黒は25点のように点数を決めて用いる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
