@@ -8294,6 +8294,25 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 412,
+      "form" : "nin1 cet2 kaik"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "紙机戦" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "紙机戦" ]
+    } ],
+    "tags" : [ "机戦" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "ボードゲームである机戦を基盤として発展した、パイグ文化圈を中心として遊ばれるカードゲームである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
