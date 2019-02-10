@@ -8289,6 +8289,28 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 413,
+      "form" : "bon2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "筒" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "筒" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "筒" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "boungau.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
