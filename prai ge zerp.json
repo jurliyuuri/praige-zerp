@@ -4897,6 +4897,9 @@
     }, {
       "title" : "名詞",
       "forms" : [ "学問" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "学ぶ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5356,6 +5359,9 @@
     }, {
       "title" : "名詞",
       "forms" : [ "歌" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "歌う" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -7684,10 +7690,609 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 384,
+      "form" : "iam1 tau2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "口端" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "唇" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "約詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "叫詞",
+      "forms" : [ "" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 385,
+      "form" : "iam1 gau2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "口刀" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "歯" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "約詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "叫詞",
+      "forms" : [ "" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 386,
+      "form" : "iam1 giau1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "口門" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "喉" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "約詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "叫詞",
+      "forms" : [ "" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 387,
+      "form" : "dit1 zep1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "貝言" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "誉める", "褒める" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 388,
+        "form" : "zep1 dit1"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 388,
+      "form" : "zep1 dit1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "言貝" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "取り繕う", "虚勢を張る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 387,
+        "form" : "dit1 zep1"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 389,
+      "form" : "im1 saup1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "毛獣" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(雅語)羊" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 390,
+      "form" : "po1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "羊" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "羊" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "羊" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "pola.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 391,
+      "form" : "gau2 aum2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "刀傾" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "階段" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "階段" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 392,
+      "form" : "at sit1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "加術" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "足し算" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 393,
+      "form" : "pau1 sit1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "別術" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "引き算" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 394,
+      "form" : "gy1 sit1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "層術" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "掛け算" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 395,
+      "form" : "ie sit1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "於術" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "割り算" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 396,
+      "form" : "tam2 py"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "皇力" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "皇効" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "約詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "叫詞",
+      "forms" : [ "" ]
+    } ],
+    "tags" : [ "机戦" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 397,
+      "form" : "saup1 la1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "獣軸" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【PMCFにて】（パイグ将棋の）王" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "リパライン語salfli'arに由来する東島通商語cauplaが、パイグ語由来であると勘違いされ逆成された単語。"
+    }, {
+      "title" : "同根語",
+      "text" : "salfli'ar.li"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 398,
+      "form" : "la1 zep1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "軸言" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "母語", "第一言語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 399,
+      "form" : "huet zep1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "闇言" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "バート語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "bhátán zepha.bt"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 400,
+      "form" : "huet zep1 a la1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "闇言之軸" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "ナウトゥホーマーエー（バート文字のシローレーカー）" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "バート文字の上の方に書かれる横線。バート語nautuhomá eのeはパイグ語la1と同根なので、それを写したもの。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 401,
+      "form" : "huep2 la1 zep1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "地軸言" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "（[場所] + aを直前に伴って）〜という場所/地域の主要言語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "例文",
+      "text" : "dop1 dat2 zep1 ka1 kia1 sak2 dop1 dat2 a huep2 la1 zep1 a et2.\n東島通商語は、PMCFの主要言語の一つである。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 402,
+      "form" : "dop1 dat2 zep1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "島集言" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "東島通商語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 403,
+      "form" : "cuk2 ge"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "人等" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "連盟", "団体" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "連盟", "団体" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "latacet < pmcp"
+    }, {
+      "title" : "文化",
+      "text" : "dat2には政府の省のような公的性の高いものを表すニュアンスがあるため、民間性の高い団体を表す表現として東島通商語から翻訳借用されてきた表現。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 404,
+      "form" : "hop1 zuo1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "手片" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "手札", "手駒", "持ち駒" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 405,
+      "form" : "bup2 sit1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "歪術" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "王が他の同色駒の代わりとなること" ]
+    } ],
+    "tags" : [ "机戦" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 406,
+      "form" : "uep"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "穴" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "貫通した穴" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(貫通した)穴" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "穴を開ける" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 407,
+      "form" : "bot1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "凹" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "へこみ", "へこむ" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "凹み", "くぼみ", "(貫通していない)穴" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "凹む", "くぼむ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 408,
+      "form" : "hia1 bet2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "心圧" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "心が圧されること" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "ヒャーベッ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "ラネーメ民族の土着的宗教である皇論において忌まれる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 409,
+      "form" : "mak2 la1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "値軸" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "（パイグ将棋の）点棒" ]
+    } ],
+    "tags" : [ "机戦" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "点数の計算に用いる細い棒。白は1点、赤は5点、黒は25点のように点数を決めて用いる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 410,
+      "form" : "lok1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "笛" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "笛", "管楽器" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "笛" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "roku.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 411,
+      "form" : "cuop2 cet2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "声机" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(雅語)琴" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 412,
+      "form" : "nin1 cet2 kaik"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "紙机戦" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "紙机戦" ]
+    } ],
+    "tags" : [ "机戦" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "ボードゲームである机戦を基盤として発展した、パイグ文化圈を中心として遊ばれるカードゲームである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
-    "alphabetOrderType" : "CUSTOM",
+    "wordOrderType" : "CUSTOM",
     "punctuations" : [ ",", "、" ],
     "pronunciationTitle" : "標準発音",
     "plainInformationTitles" : [ "例文", "用法" ],
