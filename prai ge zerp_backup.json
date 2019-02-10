@@ -36,7 +36,7 @@
       "title" : "概念",
       "forms" : [ "修飾・形容・所有の分離" ]
     }, {
-      "title" : "介詞",
+      "title" : "約詞",
       "forms" : [ "～の", "～な" ]
     } ],
     "tags" : [ ],
@@ -247,6 +247,9 @@
     }, {
       "title" : "同根語",
       "text" : "chepo.ar, zepha.bt, cepatepa.bt"
+    }, {
+      "title" : "表記揺れ",
+      "text" : "zep2"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -375,7 +378,7 @@
       "forms" : [ "一か所にまとまる" ]
     }, {
       "title" : "名詞",
-      "forms" : [ "集まり" ]
+      "forms" : [ "集まり", "（パイグ将棋の）役" ]
     }, {
       "title" : "動詞",
       "forms" : [ "集まる", "集める" ]
@@ -438,6 +441,9 @@
     }, {
       "title" : "定詞",
       "forms" : [ "別の" ]
+    }, {
+      "title" : "約詞",
+      "forms" : [ "～以外", "～を除いて", "～なしで" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -616,7 +622,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "kuran.ln"
+      "text" : "kura.ln"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -725,7 +731,7 @@
       "forms" : [ "物の周囲" ]
     }, {
       "title" : "名詞",
-      "forms" : [ "周り", "周囲", "近く" ]
+      "forms" : [ "周り", "周囲", "近く", "客語" ]
     }, {
       "title" : "定詞",
       "forms" : [ "周りの", "近くの" ]
@@ -906,7 +912,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "aima.ar, ema.bt"
+      "text" : "aimu.ar, ema.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -922,7 +928,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "lási.bt"
+      "text" : "asi.ar,lási.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1324,12 +1330,18 @@
       "forms" : [ "律" ]
     }, {
       "title" : "名詞",
-      "forms" : [ "法律" ]
+      "forms" : [ "法律", "（プログラミングの）関数・サブルーチン" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 336,
+        "form" : "io1"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 57,
@@ -1383,7 +1395,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "ríka.bt"
+      "text" : "iku.ar,ríka.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1521,6 +1533,9 @@
     }, {
       "title" : "定詞",
       "forms" : [ "熱い" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "燃える", "燃やす", "火がつく", "火をつける" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1599,10 +1614,7 @@
       "forms" : [ "東" ]
     } ],
     "tags" : [ ],
-    "contents" : [ {
-      "title" : "同根語",
-      "text" : "hiki1.ar"
-    } ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1732,7 +1744,7 @@
       "forms" : [ "物体の中心を通るもの" ]
     }, {
       "title" : "名詞",
-      "forms" : [ "軸", "茎", "中心", "中央" ]
+      "forms" : [ "軸", "茎", "中心", "中央", "主語" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1814,7 +1826,7 @@
       "forms" : [ "須" ]
     }, {
       "title" : "定詞",
-      "forms" : [ "～すべき；～しなければならない" ]
+      "forms" : [ "～すべき", "～しなければならない", "～に違いない" ]
     }, {
       "title" : "動詞",
       "forms" : [ "しなければならない" ]
@@ -2138,7 +2150,10 @@
       "forms" : [ "三" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "umi.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3482,7 +3497,7 @@
       "forms" : [ "壊" ]
     }, {
       "title" : "動詞",
-      "forms" : [ "壊れる" ]
+      "forms" : [ "壊れる", "死ぬ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3538,8 +3553,8 @@
       "title" : "漢字転写",
       "forms" : [ "毎" ]
     }, {
-      "title" : "約詞",
-      "forms" : [ "～毎", "～ごと" ]
+      "title" : "定詞",
+      "forms" : [ "～毎", "～ごと", "ことごとく" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3962,6 +3977,12 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "軟" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "変化しやすい様" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "軟らかい", "易しい", "簡単な" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -4012,7 +4033,7 @@
       "forms" : [ "季" ]
     }, {
       "title" : "名詞",
-      "forms" : [ "季節" ]
+      "forms" : [ "季節", "（パイグ将棋の）季" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4973,6 +4994,9 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "perao.ar"
+    }, {
+      "title" : "用法",
+      "text" : "（mok1 ~ po1で）～に従う、～に基づく。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5157,10 +5181,7 @@
       "forms" : [ "唯" ]
     }, {
       "title" : "定詞",
-      "forms" : [ "ただひとつの" ]
-    }, {
-      "title" : "約詞",
-      "forms" : [ "～だけ" ]
+      "forms" : [ "ただひとつの", "～だけ", "～のみ" ]
     }, {
       "title" : "叫詞",
       "forms" : [ "～だけだ" ]
@@ -5318,7 +5339,10 @@
       "forms" : [ "型" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "表記揺れ",
+      "text" : "xau2"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -5386,7 +5410,10 @@
       "text" : "xiyu.ar"
     }, {
       "title" : "用法",
-      "text" : "xy1 pia2で「部屋を片付ける」"
+      "text" : "xy1 pia2で「部屋を片付ける」\nxy1 B bap Cで「BをCとみなす」"
+    }, {
+      "title" : "文化",
+      "text" : "パイグ将棋で用いるxy1は表裏で色の異なる5本の棒である。色の濃いほうの枚数で判定を行う。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5586,7 +5613,10 @@
       "forms" : [ "文化" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "パイグ将棋の役の名前でもあり、筆・巫・将の3枚を手駒に揃える役を指す。"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -5881,8 +5911,11 @@
       "title" : "名詞",
       "forms" : [ "机戦", "パイグ将棋" ]
     } ],
-    "tags" : [ ],
-    "contents" : [ ],
+    "tags" : [ "机戦" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "パイグ文化圏に固有の盤上遊戯である。将棋に似るが勝利条件が役の完成であることやxy1を使った不確定要素など性質を異にする。"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -6004,6 +6037,12 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "歪" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "歪み", "曲がり" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "歪んだ", "曲がった" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -6094,7 +6133,7 @@
   }, {
     "entry" : {
       "id" : 306,
-      "form" : "hup1 saup2"
+      "form" : "hup1 saup1"
     },
     "translations" : [ {
       "title" : "漢字転写",
@@ -6129,6 +6168,9 @@
     "contents" : [ {
       "title" : "用法",
       "text" : "筆（書記官）と兵（兵士）の力が均衡していることを表す。国の維持に重要とされ、筆と槍を図案化したシンボルが存在する。"
+    }, {
+      "title" : "文化",
+      "text" : "パイグ将棋の役の名前でもあり、兵・弓・将・筆・巫の5枚の駒を手駒とする役を指す。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -6382,6 +6424,9 @@
     "contents" : [ {
       "title" : "文化",
       "text" : "どんぐりは加工して主食ともなるため、「木の実」といえば基本的にどんぐりを意味する。"
+    }, {
+      "title" : "同根語",
+      "text" : "dexu.ar"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -6402,6 +6447,31 @@
     } ],
     "tags" : [ ],
     "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 322,
+      "form" : "y1 huap1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "官定" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "政府が定めた", "標準の" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "政府が定めたもの", "(一般に)標準のもの" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "政府が定めた", "標準の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "政府の関与の有無に関わらず用いることができる。"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -6449,6 +6519,1169 @@
     } ],
     "tags" : [ ],
     "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 325,
+      "form" : "pa2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "犬" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "犬" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "犬", "イヌ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "paxo.ar\nphaxo.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 326,
+      "form" : "hauk1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "胸" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "首と腹との間の部分。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "胸" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "「心」との関連がある。"
+    }, {
+      "title" : "同根語",
+      "text" : "rauki.bt\n"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 327,
+      "form" : "hia1 la1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "心軸" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "心の集まる所。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "心臓" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "感情の動きによって動きを変えるため、心臓と感情は関連していると考えられている。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 328,
+      "form" : "syt2 nua2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "天水" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "空から降ってくる水。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "雨" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 329,
+      "form" : "kait kia1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "善日" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "標準的な挨拶。主に人に出会った際に用いる。" ]
+    }, {
+      "title" : "叫詞",
+      "forms" : [ "こんにちは！" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 330,
+      "form" : "hia1 kait"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "心善" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "感謝を示す挨拶。" ]
+    }, {
+      "title" : "叫詞",
+      "forms" : [ "ありがとう" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "喜び" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 331,
+      "form" : "nim2 dat2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "族集" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "複数の小国によって形成される国家。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "連邦", "ユエスレオネ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "とりわけユエスレオネを指す。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 332,
+      "form" : "y1 bia1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "官民" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "役人と民衆", "政府と民衆" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "例文",
+      "text" : "man1 ten1 ua y1 bia1 bau2.（字が混ざって役人や民衆が迷う。）"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 333,
+      "form" : "xa2 man1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "意字" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "表意文字", "表語文字" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 334,
+      "form" : "cuop2 man1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "声字" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "表音文字" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 335,
+      "form" : "hy2 lek1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "棚絵" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "表" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 336,
+      "form" : "io1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "直" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "曲がりのない様。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "定規", "定木", "ルール" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "まっすぐな", "まっすぐに", "直接的に", "素直な" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "io1はiak1よりも拘束力の弱い規則のイメージがある。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 56,
+        "form" : "iak1"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 337,
+      "form" : "lot2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "短" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "短い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "lodu.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 338,
+      "form" : "pau1 ka1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "別此" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "話題転換" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "そういえば" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 339,
+      "form" : "im1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "毛" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "表面を覆う糸状のもの" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "毛" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "imu.ar\n"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 340,
+      "form" : "tam2 hue"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "皇処" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "（パイグ将棋で）皇処" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "パイグ将棋のNI NAI TU TY ZO XU XY CI CAIのマスで、駒の動きが強化される。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 341,
+      "form" : "tam2 nua2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "皇水" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "（パイグ将棋で）皇水", "マナナ島とタカン島の間の海域" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "パイグ将棋のNO TO ZI ZU ZO ZY ZAI XO　COのマスで、皇と船以外が入る時はxy1を使って判定しなければならない。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 342,
+      "form" : "tam2 zo1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "皇山" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "（パイグ将棋で）皇山" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "パイグ将棋で盤の中央のZOのマスのことを言う。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 343,
+      "form" : "man1 dat2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "字集" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "単語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 344,
+      "form" : "ty mok1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "再行" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "パイグ将棋において", "季の継続を宣言すること。" ]
+    } ],
+    "tags" : [ "机戦" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "パイグ将棋（机戦）において, 季の継続を宣言すること。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 345,
+        "form" : "ta xot1"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 345,
+      "form" : "ta xot1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "終季" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "パイグ将棋で季の終了を宣言すること。" ]
+    } ],
+    "tags" : [ "机戦" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 344,
+        "form" : "ty mok1"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 346,
+      "form" : "hua1 kak"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "挽時" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "一日を1000等分した時間の長さ。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "1挽時", "1/1000日" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "108stususnであり、現世でいうと87.4秒ほどである。10挽時は1片時である。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 347,
+      "form" : "zuo1 kak"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "片時" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "一日を100等分した時間の長さ。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "1片時", "1/100日" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "1080stususnであり、現世でいうと874秒ほど、およそ15分である。1片時は10挽時であり、10片時が1片時集である。"
+    }, {
+      "title" : "表記揺れ",
+      "text" : "1時片とも書く。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 348,
+      "form" : "zuo1 kak dat2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "片時集" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "一日を10等分した時間の長さ。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "1片時集", "1/10日" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "10800stususnであり、現世でいうとおよそ2時間半ほどである。1片時集は10片時であり、10片時集は1日である。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 349,
+      "form" : "non1 pua2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "悪風" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "病気" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "bháro.bt"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 350,
+      "form" : "dat2 su1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "集銭" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "共産主義の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "???.tk"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 351,
+      "form" : "dat2 su1 zui1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "集銭論" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "共産主義" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 352,
+      "form" : "kan1 tua1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "火果" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "りんご", "林檎" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 353,
+      "form" : "xem1 tua1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "月果" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "みかん", "蜜柑" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 354,
+      "form" : "em muo1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "如止" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "イエロースクリーン" ]
+    } ],
+    "tags" : [ "悠里OS" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "リパライン語ではpevustol、悠里のOSであるpanqateelにおいて、異常が発生した時に表示される黄色い画面を指す。現世でいうブルースクリーンである。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 355,
+      "form" : "zie1 pau1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "広別" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "アスペクト比", "縦横比" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 356,
+      "form" : "gak1 kun2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "激付" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "レジスタ" ]
+    } ],
+    "tags" : [ "悠里OS" ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "CPUがアクセスするための小容量のメモリ。"
+    }, {
+      "title" : "文化",
+      "text" : "リパライン語ではfirjal"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 357,
+      "form" : "ut2 kun2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "下付" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "xeumon xelal (xx)レジスタ" ]
+    } ],
+    "tags" : [ "悠里OS" ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "次に実行する命令のアドレスを保持するレジスタ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 358,
+      "form" : "la1 kun2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "軸付" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "noon xelal (nx)レジスタ" ]
+    } ],
+    "tags" : [ "悠里OS" ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "実行中の命令のアドレスを保持するレジスタ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 359,
+      "form" : "ta1 tau2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "目端" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "右辺値", "読み取る値" ]
+    } ],
+    "tags" : [ "悠里OS" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 360,
+      "form" : "iak1 dat2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "律集" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "ライブラリ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "頻出する関数などをまとめ、再利用しやすくしたもの。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 361,
+      "form" : "xy1 la1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "裁軸" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "CPU" ]
+    } ],
+    "tags" : [ "悠里OS" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 362,
+      "form" : "kua2 kun2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "筆付" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "メモリ", "主記憶装置" ]
+    } ],
+    "tags" : [ "悠里OS" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 363,
+      "form" : "kua2 tau2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "筆端" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "左辺値" ]
+    } ],
+    "tags" : [ "悠里OS" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 364,
+      "form" : "gau2 gua2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "刀弓" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "武器" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 365,
+      "form" : "pua2 tak1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "風衣" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "旗" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 366,
+      "form" : "be1 huep2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "全地" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "国際的な" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "bháhepa.bt"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 367,
+      "form" : "ian1 hem1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "出美" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "創作" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 368,
+      "form" : "su1 hue"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "銭処", "店" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "店" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 369,
+      "form" : "kan1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "躍" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "跳ねる", "走る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "kánaghúḷ.bt\nkanaka.ar\nkánatúḷ.bt\nkanata.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 370,
+      "form" : "kot huep2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "草地" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "草地", "野原" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "koṭáná epa.bt"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 371,
+      "form" : "co1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "壁" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "二つの領域を隔てるもの。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "壁" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "couyau.ar, ṣoya.bt"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 372,
+      "form" : "gek"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "肉" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "表面下にある柔らかい物質。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "肉" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "geqa.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 373,
+      "form" : "tuik1 can2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "味識" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "舌" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 374,
+      "form" : "kuak1 kuak1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "㕮㕮", "父父" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "咳をする" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 375,
+      "form" : "taun1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "多" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "個数が大きいこと。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "多くのもの" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "多い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 376,
+      "form" : "kin2 niek1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "金連", "鎖" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "鎖" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 377,
+      "form" : "sui1 taun1 zep1 et2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "使多言一" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "単一の燐字をパイグ語2単語以上を用いて読むこと" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "「店」su1 hue や「鎖」kin2 niek1 などが挙げられる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 378,
+      "form" : "uet"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "卵" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "動物が産む殻や膜に包まれた球状のもの。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "卵" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 379,
+      "form" : "cuet"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "球" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "まるい形の物。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "球", "ボール", "玉", "弾" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "cwelo.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 380,
+      "form" : "io2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "牛" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "約詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "叫詞",
+      "forms" : [ "" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "juo.ar, juro.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 381,
+      "form" : "hui2 no1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "龍酒" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "リウスニータなどに用いるスパイスの一種。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "シナモン", "ニッキ", "肉桂" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "finorxonas.li"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 382,
+      "form" : "hui2 na1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "龍静" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "バニラ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "finatz.li"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 383,
+      "form" : "tuk2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "網" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "格子状に編んだ物" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "網", "ざる" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "網で捉える", "漉す" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "tukaie.ar\n"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
