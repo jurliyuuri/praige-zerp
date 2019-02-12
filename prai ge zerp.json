@@ -8317,6 +8317,63 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 414,
+      "form" : "auk2 lot2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "長短" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "長いものと短いもの" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "長いものと短いもの" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "長いAと短いA" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 415,
+      "form" : "pau1 cuau2 man1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "別形字" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "異体字" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 416,
+      "form" : "pau1 ua"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "別而" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "逆接の明示" ]
+    }, {
+      "title" : "約詞",
+      "forms" : [ "しかし", "しかしながら", "でも", "しかるに" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
