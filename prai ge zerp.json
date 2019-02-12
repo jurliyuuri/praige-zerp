@@ -3045,12 +3045,15 @@
       "forms" : [ "意見", "論" ]
     }, {
       "title" : "動詞",
-      "forms" : [ "論ずる", "述べる" ]
+      "forms" : [ "論ずる", "論じる", "述べる" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
       "text" : "zunaii.ar"
+    }, {
+      "title" : "用法",
+      "text" : "動詞ではあまり用いられない。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5488,6 +5491,9 @@
     }, {
       "title" : "名詞",
       "forms" : [ "かけら", "札", "駒", "牌" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "分ける" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
