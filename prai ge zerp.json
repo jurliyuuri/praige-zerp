@@ -8374,6 +8374,44 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 417,
+      "form" : "uep1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "淮" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "ヴェフィス" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "ヴェフィスの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 418,
+      "form" : "lip"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "哩" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "リパライン", "リパラオネ" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "リパラインの", "リパラオネの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
