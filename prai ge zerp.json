@@ -8412,14 +8412,35 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 419,
+      "form" : "kuai1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "翰" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "編集者", "編纂者" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "人名(skarsna姓に対応)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
     "wordOrderType" : "CUSTOM",
     "punctuations" : [ ",", "、" ],
+    "ignoredTranslationRegex" : "",
     "pronunciationTitle" : "標準発音",
     "plainInformationTitles" : [ "例文", "用法" ],
     "informationTitleOrder" : null,
+    "formFontFamily" : null,
     "defaultWord" : {
       "entry" : {
         "id" : -1,
