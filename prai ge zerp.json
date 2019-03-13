@@ -7648,7 +7648,13 @@
       "text" : "finorxonas.li"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 420,
+        "form" : "ly ni1 ta1"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 382,
@@ -8431,6 +8437,37 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 420,
+      "form" : "ly ni1 ta1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "須小目" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "リウスニータ" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "リウスニータ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "冬のユエスレオネで好まれる飲み物のひとつ。全卵と蜂蜜と牛乳を弱火にかけてとろみを出したものにバニラエッセンス、シナモン(hui2 no1)、カルダモン、アニスシードを加えて濾す。"
+    }, {
+      "title" : "同根語",
+      "text" : "li'usnirta.li"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 381,
+        "form" : "hui2 no1"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
