@@ -8468,6 +8468,81 @@
         "form" : "hui2 no1"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 421,
+      "form" : "sau2 sin1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "上名" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "姓", "名字", "上の名前" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "姓", "名字", "上の名前" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "パイグ語においては一文字が原則。かなり稀だが二文字以上もいる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 423,
+        "form" : "mut2 sin1"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 422,
+      "form" : "ut2 sin1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "下名" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "個人名", "下の名前" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "個人名", "下の名前" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "二文字が多いが、一文字も見られる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 423,
+      "form" : "mut2 sin1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "家名" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "姓", "名字", "上の名前" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "姓", "名字", "上の名前" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 421,
+        "form" : "sau2 sin1"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
