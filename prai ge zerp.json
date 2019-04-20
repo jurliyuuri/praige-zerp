@@ -8752,6 +8752,28 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 435,
+      "form" : "sep"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "享" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "自然から資源を得る" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "狩猟や採集をする" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "sephu.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
