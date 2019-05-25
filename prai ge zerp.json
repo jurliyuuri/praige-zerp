@@ -8792,6 +8792,28 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 436,
+      "form" : "zip1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "失" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "失う" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "失う" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ziphei.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
