@@ -8848,6 +8848,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 438,
+      "form" : "xi1 xo2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "足錘" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(刑罰のために)足につける錘", "(比喩的な)足かせ " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "「心圧」に該当すると考えられるため、ラネーメ圏ではあまり好まれない。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
