@@ -8867,6 +8867,41 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 439,
+      "form" : "kaik dat2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "戦集", "軍" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "軍", "(パイグ将棋の)片方の陣営" ]
+    } ],
+    "tags" : [ "机戦" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 440,
+      "form" : "nie"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "隊" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "パイグ将棋の駒を作る際の8つ1まとまり", "1バイト" ]
+    } ],
+    "tags" : [ "机戦", "悠里OS" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "niek1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
