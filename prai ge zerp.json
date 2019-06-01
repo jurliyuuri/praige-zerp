@@ -5187,7 +5187,7 @@
       "title" : "漢字転写",
       "forms" : [ "使" ]
     }, {
-      "title" : "名詞",
+      "title" : "動詞",
       "forms" : [ "使う" ]
     } ],
     "tags" : [ ],
@@ -8899,6 +8899,28 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "niek1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 441,
+      "form" : "pai2 ge zep1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "我等言" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "パイグ語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "第二言語話者であっても、「話者にとっての母語」ではなく「パイグ語」を指す。"
+    }, {
+      "title" : "用法",
+      "text" : "「話者にとっての母語」を言いたい場合は、pai2 a zep1「私の言語」、pai2 zep1 a zep1「私が話す言語」、pai2 (a) la1 zep1「私の母語」などpai2で表現するか、pai2 ge la1 zep1 「我々の母語」などとする。カラムディアなどが出身である場合は pai2 nim2 a zep1「私の民族の言語」などとも言うが、ラネーメ王国時代から多民族国家である背景上、ファイクレオネの出身である人はこの表現を用いないのが普通である。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
