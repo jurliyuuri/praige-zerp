@@ -8794,7 +8794,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 436,
+      "id" : 446,
       "form" : "y1 man1"
     },
     "translations" : [ {
@@ -8816,19 +8816,19 @@
     "relations" : [ {
       "title" : "",
       "entry" : {
-        "id" : 438,
+        "id" : 448,
         "form" : "gau2 man1"
       }
     }, {
       "title" : "",
       "entry" : {
-        "id" : 441,
+        "id" : 451,
         "form" : "y1 pua2"
       }
     } ]
   }, {
     "entry" : {
-      "id" : 437,
+      "id" : 447,
       "form" : "pua2 man1"
     },
     "translations" : [ {
@@ -8850,19 +8850,19 @@
     "relations" : [ {
       "title" : "",
       "entry" : {
-        "id" : 438,
+        "id" : 448,
         "form" : "gau2 man1"
       }
     }, {
       "title" : "",
       "entry" : {
-        "id" : 441,
+        "id" : 451,
         "form" : "y1 pua2"
       }
     } ]
   }, {
     "entry" : {
-      "id" : 438,
+      "id" : 448,
       "form" : "gau2 man1"
     },
     "translations" : [ {
@@ -8896,31 +8896,31 @@
     "relations" : [ {
       "title" : "",
       "entry" : {
-        "id" : 437,
+        "id" : 447,
         "form" : "pua2 man1"
       }
     }, {
       "title" : "",
       "entry" : {
-        "id" : 436,
+        "id" : 446,
         "form" : "y1 man1"
       }
     }, {
       "title" : "対義語",
       "entry" : {
-        "id" : 439,
+        "id" : 449,
         "form" : "kua2 man1"
       }
     }, {
       "title" : "",
       "entry" : {
-        "id" : 441,
+        "id" : 451,
         "form" : "y1 pua2"
       }
     } ]
   }, {
     "entry" : {
-      "id" : 439,
+      "id" : 449,
       "form" : "kua2 man1"
     },
     "translations" : [ {
@@ -8942,19 +8942,19 @@
     "relations" : [ {
       "title" : "対義語",
       "entry" : {
-        "id" : 438,
+        "id" : 448,
         "form" : "gau2 man1"
       }
     }, {
       "title" : "",
       "entry" : {
-        "id" : 441,
+        "id" : 451,
         "form" : "y1 pua2"
       }
     } ]
   }, {
     "entry" : {
-      "id" : 440,
+      "id" : 450,
       "form" : "y1 gau2"
     },
     "translations" : [ {
@@ -8976,7 +8976,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 441,
+      "id" : 451,
       "form" : "y1 pua2"
     },
     "translations" : [ {
@@ -8998,25 +8998,25 @@
     "relations" : [ {
       "title" : "",
       "entry" : {
-        "id" : 436,
+        "id" : 446,
         "form" : "y1 man1"
       }
     }, {
       "title" : "",
       "entry" : {
-        "id" : 437,
+        "id" : 447,
         "form" : "pua2 man1"
       }
     }, {
       "title" : "",
       "entry" : {
-        "id" : 438,
+        "id" : 448,
         "form" : "gau2 man1"
       }
     }, {
       "title" : "",
       "entry" : {
-        "id" : 439,
+        "id" : 449,
         "form" : "kua2 man1"
       }
     } ]
