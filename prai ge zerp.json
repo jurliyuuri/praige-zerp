@@ -9022,18 +9022,6 @@
     }, {
       "title" : "名詞",
       "forms" : [ "刀字", "碑文書体", "篆書" ]
-    }, {
-      "title" : "動詞",
-      "forms" : [ "" ]
-    }, {
-      "title" : "定詞",
-      "forms" : [ "" ]
-    }, {
-      "title" : "約詞",
-      "forms" : [ "" ]
-    }, {
-      "title" : "叫詞",
-      "forms" : [ "" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -9168,7 +9156,45 @@
         "form" : "kua2 man1"
       }
     } ]
-  }  ],
+  }, {
+    "entry" : {
+      "id" : 452,
+      "form" : "mit"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "橋" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "橋" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "mitiku.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 453,
+      "form" : "mit mit"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "橋橋" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "陸橋" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "アイルtukumuku「陸橋」が畳語と意識され「橋橋」と書かれたものを形訳したもの。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
     "wordOrderType" : "CUSTOM",
