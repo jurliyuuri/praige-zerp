@@ -9210,6 +9210,31 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 455,
+      "form" : "ban2 nim2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "閥", "闇族" ]
+    }, {
+      "title" : "人名",
+      "forms" : [ "バートニーマシュ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "バート人は姓を持たないため、「バート民族」という語源を持つbhátnímaṣという単語を姓の代わりに用いる。"
+    }, {
+      "title" : "同根語",
+      "text" : "bhátnímaṣ.bt"
+    }, {
+      "title" : "表記揺れ",
+      "text" : "bat2 nim2"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
