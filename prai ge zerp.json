@@ -3044,6 +3044,9 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "vezoe.ar"
+    }, {
+      "title" : "発音",
+      "text" : "tsou1"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3069,6 +3072,9 @@
     }, {
       "title" : "用法",
       "text" : "動詞ではあまり用いられない。"
+    }, {
+      "title" : "発音",
+      "text" : "tsui1"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5481,6 +5487,9 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "chade.ar"
+    }, {
+      "title" : "発音",
+      "text" : "tsat1, tɕat1"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5500,6 +5509,9 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "chisha.ar"
+    }, {
+      "title" : "発音",
+      "text" : "tɕit1, tsit1"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5516,6 +5528,9 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "zui1+dat2"
+    }, {
+      "title" : "発音",
+      "text" : "tsuit2"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5538,6 +5553,9 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "chuwo.ar"
+    }, {
+      "title" : "発音",
+      "text" : "tsuou1"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5833,7 +5851,10 @@
       "forms" : [ "手札" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "tin1 tsuou1"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -5871,7 +5892,10 @@
       "forms" : [ "宗教" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "tun2 tsui1"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -5906,7 +5930,10 @@
       "forms" : [ "山札" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "ɕoum1 tsuou1"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -6938,6 +6965,9 @@
     "contents" : [ {
       "title" : "文化",
       "text" : "パイグ将棋で盤の中央のZOのマスのことを言う。"
+    }, {
+      "title" : "発音",
+      "text" : "tam2 tsuou1"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -7048,6 +7078,9 @@
     }, {
       "title" : "表記揺れ",
       "text" : "1時片とも書く。"
+    }, {
+      "title" : "発音",
+      "text" : "tsuou1 kak"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -7070,6 +7103,9 @@
     "contents" : [ {
       "title" : "文化",
       "text" : "10800stususnであり、現世でいうとおよそ2時間半ほどである。1片時集は10片時であり、10片時集は1日である。"
+    }, {
+      "title" : "発音",
+      "text" : "tsuou1 kak dat2"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -7124,7 +7160,10 @@
       "forms" : [ "共産主義" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "dat2 zu1 tsui1"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -8170,7 +8209,10 @@
       "forms" : [ "手札", "手駒", "持ち駒" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "xoup1 tsuou1"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -8763,7 +8805,10 @@
       "forms" : [ "1立方片(≒170cm^3)" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "tsuou1 bu1"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -9288,7 +9333,7 @@
     "wordOrderType" : "CUSTOM",
     "punctuations" : [ ",", "、" ],
     "ignoredTranslationRegex" : "",
-    "pronunciationTitle" : "標準発音",
+    "pronunciationTitle" : "発音",
     "plainInformationTitles" : [ "例文", "用法" ],
     "informationTitleOrder" : null,
     "formFontFamily" : null,
