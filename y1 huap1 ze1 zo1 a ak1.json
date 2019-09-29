@@ -5,7 +5,7 @@
       "form" : "zap2"
     },
     "translations" : [ ],
-    "tags" : [ "tx" ],
+    "tags" : [ "ze1" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -15,7 +15,7 @@
       "form" : "zat1"
     },
     "translations" : [ ],
-    "tags" : [ "tc", "tx" ],
+    "tags" : [ "zo1", "ze1" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -25,7 +25,7 @@
       "form" : "zau"
     },
     "translations" : [ ],
-    "tags" : [ "tx" ],
+    "tags" : [ "ze1" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -35,7 +35,7 @@
       "form" : "ze1"
     },
     "translations" : [ ],
-    "tags" : [ "tx" ],
+    "tags" : [ "ze1" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -45,7 +45,7 @@
       "form" : "zep1"
     },
     "translations" : [ ],
-    "tags" : [ "tx" ],
+    "tags" : [ "ze1" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -65,7 +65,7 @@
       "form" : "zip1"
     },
     "translations" : [ ],
-    "tags" : [ "tx" ],
+    "tags" : [ "ze1" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -75,7 +75,7 @@
       "form" : "zit1"
     },
     "translations" : [ ],
-    "tags" : [ "tx", "ts" ],
+    "tags" : [ "ze1", "ts" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -85,7 +85,7 @@
       "form" : "zie1"
     },
     "translations" : [ ],
-    "tags" : [ "tx" ],
+    "tags" : [ "ze1" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -125,7 +125,7 @@
       "form" : "xi zi"
     },
     "translations" : [ ],
-    "tags" : [ "tx" ],
+    "tags" : [ "ze1" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -135,7 +135,7 @@
       "form" : "xi1 zi1"
     },
     "translations" : [ ],
-    "tags" : [ "tx" ],
+    "tags" : [ "ze1" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
