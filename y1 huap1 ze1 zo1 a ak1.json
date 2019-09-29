@@ -1,0 +1,165 @@
+{
+  "words" : [ {
+    "entry" : {
+      "id" : 1,
+      "form" : "zap2"
+    },
+    "translations" : [ ],
+    "tags" : [ "ze1" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 2,
+      "form" : "zat1"
+    },
+    "translations" : [ ],
+    "tags" : [ "zo1", "ze1" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 3,
+      "form" : "zau"
+    },
+    "translations" : [ ],
+    "tags" : [ "ze1" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4,
+      "form" : "ze1"
+    },
+    "translations" : [ ],
+    "tags" : [ "ze1" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5,
+      "form" : "zep1"
+    },
+    "translations" : [ ],
+    "tags" : [ "ze1" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 6,
+      "form" : "zo1"
+    },
+    "translations" : [ ],
+    "tags" : [ "ts" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 7,
+      "form" : "zip1"
+    },
+    "translations" : [ ],
+    "tags" : [ "ze1" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 8,
+      "form" : "zit1"
+    },
+    "translations" : [ ],
+    "tags" : [ "ze1", "ts" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 9,
+      "form" : "zie1"
+    },
+    "translations" : [ ],
+    "tags" : [ "ze1" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 10,
+      "form" : "zuo1"
+    },
+    "translations" : [ ],
+    "tags" : [ "ts" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 11,
+      "form" : "zui1"
+    },
+    "translations" : [ ],
+    "tags" : [ "ts" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 12,
+      "form" : "zuit2"
+    },
+    "translations" : [ ],
+    "tags" : [ "ts" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 13,
+      "form" : "xi zi"
+    },
+    "translations" : [ ],
+    "tags" : [ "ze1" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 14,
+      "form" : "xi1 zi1"
+    },
+    "translations" : [ ],
+    "tags" : [ "ze1" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  } ],
+  "zpdic" : {
+    "alphabetOrder" : "",
+    "wordOrderType" : "UNICODE",
+    "punctuations" : [ ",", "、" ],
+    "ignoredTranslationRegex" : "",
+    "pronunciationTitle" : null,
+    "plainInformationTitles" : [ ],
+    "informationTitleOrder" : null,
+    "formFontFamily" : null,
+    "defaultWord" : {
+      "entry" : {
+        "id" : -1,
+        "form" : ""
+      },
+      "translations" : [ ],
+      "tags" : [ ],
+      "contents" : [ ],
+      "variations" : [ ],
+      "relations" : [ ]
+    }
+  },
+  "snoj" : null
+}
