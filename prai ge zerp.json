@@ -3044,6 +3044,9 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "vezoe.ar"
+    }, {
+      "title" : "発音",
+      "text" : "tsou1"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3069,6 +3072,9 @@
     }, {
       "title" : "用法",
       "text" : "動詞ではあまり用いられない。"
+    }, {
+      "title" : "発音",
+      "text" : "tsui1"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -4042,9 +4048,18 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "貧" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "所有物が少ない" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "少ない・貧しい" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "hue1 to2は「樽の個数が多いこと」、hei2 to2は「樽の中身が少ないこと」を表す。hue1 cuk2は「少数派」（または「若い人」）であり、hei2 cuk2は「持っているものが少ない人」、つまり「貧しい人」である。hue1 cuk2が「若い人」でもあるのは、年老いた人というのは別に年齢1・年齢2・年齢3を持っている人物ではないからである。"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4436,6 +4451,9 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "huroe.ar"
+    }, {
+      "title" : "用法",
+      "text" : "hue1 to2は「樽の個数が多いこと」、hei2 to2は「樽の中身が少ないこと」を表す。hue1 cuk2は「少数派」（または「若い人」）であり、hei2 cuk2は「持っているものが少ない人」、つまり「貧しい人」である。hue1 cuk2が「若い人」でもあるのは、年老いた人というのは別に年齢1・年齢2・年齢3を持っている人物ではないからである。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5175,7 +5193,7 @@
       "title" : "漢字転写",
       "forms" : [ "使" ]
     }, {
-      "title" : "名詞",
+      "title" : "動詞",
       "forms" : [ "使う" ]
     } ],
     "tags" : [ ],
@@ -5469,6 +5487,9 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "chade.ar"
+    }, {
+      "title" : "発音",
+      "text" : "tsat1, tɕat1"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5488,6 +5509,9 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "chisha.ar"
+    }, {
+      "title" : "発音",
+      "text" : "tɕit1, tsit1"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5504,6 +5528,9 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "zui1+dat2"
+    }, {
+      "title" : "発音",
+      "text" : "tsuit2"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5526,6 +5553,9 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "chuwo.ar"
+    }, {
+      "title" : "発音",
+      "text" : "tsuou1"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5821,7 +5851,10 @@
       "forms" : [ "手札" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "tin1 tsuou1"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -5859,7 +5892,10 @@
       "forms" : [ "宗教" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "tun2 tsui1"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -5894,7 +5930,10 @@
       "forms" : [ "山札" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "ɕoum1 tsuou1"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -6926,6 +6965,9 @@
     "contents" : [ {
       "title" : "文化",
       "text" : "パイグ将棋で盤の中央のZOのマスのことを言う。"
+    }, {
+      "title" : "発音",
+      "text" : "tam2 tsuou1"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -7036,6 +7078,9 @@
     }, {
       "title" : "表記揺れ",
       "text" : "1時片とも書く。"
+    }, {
+      "title" : "発音",
+      "text" : "tsuou1 kak"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -7058,6 +7103,9 @@
     "contents" : [ {
       "title" : "文化",
       "text" : "10800stususnであり、現世でいうとおよそ2時間半ほどである。1片時集は10片時であり、10片時集は1日である。"
+    }, {
+      "title" : "発音",
+      "text" : "tsuou1 kak dat2"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -7112,7 +7160,10 @@
       "forms" : [ "共産主義" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "dat2 zu1 tsui1"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -8143,7 +8194,10 @@
       "forms" : [ "手札", "手駒", "持ち駒" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "xoup1 tsuou1"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -8736,7 +8790,10 @@
       "forms" : [ "1立方片(≒170cm^3)" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "tsuou1 bu1"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -8777,13 +8834,491 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 436,
+      "form" : "zip1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "失" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "失う" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "失う" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ziphei.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 437,
+      "form" : "xi1 xo2 hei2 to2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "足錘貧樽" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "何画で書くか揺れがある燐字/燐字字素" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "燐字「足」「錘」「貧」「樽」の画数は人や辞書によって差異がある（ほかには「膠」など）ことから、画数検索などの用途においてこれを明記する必要がある際に用いる概念。"
+    }, {
+      "title" : "例文",
+      "text" : "ka1 zep1 dat2 xi1 xo2 hei2 to2 ka1 em nan2? (この辞書の足錘貧樽はどうなっていますか？)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 438,
+      "form" : "xi1 xo2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "足錘" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(刑罰のために)足につける錘", "(比喩的な)足かせ " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "「心圧」に該当すると考えられるため、ラネーメ圏ではあまり好まれない。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 439,
+      "form" : "kaik dat2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "戦集", "軍" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "軍", "(パイグ将棋の)片方の陣営" ]
+    } ],
+    "tags" : [ "机戦" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 440,
+      "form" : "nie"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "隊" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "パイグ将棋の駒を作る際の8つ1まとまり", "1バイト" ]
+    } ],
+    "tags" : [ "机戦", "悠里OS" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "niek1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 441,
+      "form" : "pai2 ge zep1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "我等言" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "パイグ語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "第二言語話者であっても、「話者にとっての母語」ではなく「パイグ語」を指す。"
+    }, {
+      "title" : "用法",
+      "text" : "「話者にとっての母語」を言いたい場合は、pai2 a zep1「私の言語」、pai2 zep1 a zep1「私が話す言語」、pai2 (a) la1 zep1「私の母語」などpai2で表現するか、pai2 ge la1 zep1 「我々の母語」などとする。カラムディアなどが出身である場合は pai2 nim2 a zep1「私の民族の言語」などとも言うが、ラネーメ王国時代から多民族国家である背景上、ファイクレオネの出身である人はこの表現を用いないのが普通である。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 442,
+      "form" : "huat1 zep1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "互言" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "会話" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 446,
+      "form" : "y1 man1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "官字" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "公式書体" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "官字", "公式書体", "楷書" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "公的な書体で、改まった場面（公文書、教育など）で用いる。時代によって変動する。例えば燐帝の時期は隷書的、現代では楷書的。隷書的なものを特に区別してy1 gau2と呼ぶ。y1 gau2は装飾などに用いられることが多い。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 448,
+        "form" : "gau2 man1"
+      }
+    }, {
+      "title" : "",
+      "entry" : {
+        "id" : 451,
+        "form" : "y1 pua2"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 447,
+      "form" : "pua2 man1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "風字" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "俗用書体" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "風字", "俗用書体", "草書" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "日常の書体。官字に近いものを特にy1 pua2と呼ぶこともあり、y1 pua2は比較的正式な場面でも通用することが多い。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 448,
+        "form" : "gau2 man1"
+      }
+    }, {
+      "title" : "",
+      "entry" : {
+        "id" : 451,
+        "form" : "y1 pua2"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 448,
+      "form" : "gau2 man1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "刀字" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "碑文書体" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "刀字", "碑文書体", "篆書" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "手書き以前の書体で、現代では専ら装飾に用いられる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 447,
+        "form" : "pua2 man1"
+      }
+    }, {
+      "title" : "",
+      "entry" : {
+        "id" : 446,
+        "form" : "y1 man1"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 449,
+        "form" : "kua2 man1"
+      }
+    }, {
+      "title" : "",
+      "entry" : {
+        "id" : 451,
+        "form" : "y1 pua2"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 449,
+      "form" : "kua2 man1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "筆字" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "手書きのための書体" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "筆字", "手記書体" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "手書きの書体。基本的に現代の文字はこれに該当する。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 448,
+        "form" : "gau2 man1"
+      }
+    }, {
+      "title" : "",
+      "entry" : {
+        "id" : 451,
+        "form" : "y1 pua2"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 450,
+      "form" : "y1 gau2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "官刀" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "官字と刀字の中間的書体。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "隷書" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "装飾などに用いる。古めかしい雰囲気がある。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 451,
+      "form" : "y1 pua2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "官風" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "官字と風字の中間的" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "行書" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "日常の書体。官字に近いものを特にこう呼ぶこともあり、比較的正式な場面でも通用することが多い。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 446,
+        "form" : "y1 man1"
+      }
+    }, {
+      "title" : "",
+      "entry" : {
+        "id" : 447,
+        "form" : "pua2 man1"
+      }
+    }, {
+      "title" : "",
+      "entry" : {
+        "id" : 448,
+        "form" : "gau2 man1"
+      }
+    }, {
+      "title" : "",
+      "entry" : {
+        "id" : 449,
+        "form" : "kua2 man1"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 452,
+      "form" : "mit"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "橋" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "橋" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "mitiku.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 453,
+      "form" : "mit mit"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "橋橋" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "陸橋" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "アイルtukumuku「陸橋」が畳語と意識され「橋橋」と書かれたものを形訳したもの。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 454,
+      "form" : "lip zep1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "哩言" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "リパライン語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 455,
+      "form" : "ban2 nim2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "閥", "闇族" ]
+    }, {
+      "title" : "人名",
+      "forms" : [ "バートニーマシュ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "バート人は姓を持たないため、「バート民族」という語源を持つbhátnímaṣという単語を姓の代わりに用いる。"
+    }, {
+      "title" : "同根語",
+      "text" : "bhátnímaṣ.bt"
+    }, {
+      "title" : "表記揺れ",
+      "text" : "bat2 nim2"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 456,
+      "form" : "hen"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "啌" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "軽い納得" ]
+    }, {
+      "title" : "叫詞",
+      "forms" : [ "ああ", "へぇ", "へえ", "はぁ", "ほう", "ほぅ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "軽い納得を表す。"
+    }, {
+      "title" : "表記揺れ",
+      "text" : "he"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 457,
+      "form" : "ua"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "哇" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "軽い驚き" ]
+    }, {
+      "title" : "叫詞",
+      "forms" : [ "わあ", "わぁ", "おー", "おお", "おぉ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "軽い驚きを表す。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
     "wordOrderType" : "CUSTOM",
     "punctuations" : [ ",", "、" ],
     "ignoredTranslationRegex" : "",
-    "pronunciationTitle" : "標準発音",
+    "pronunciationTitle" : "発音",
     "plainInformationTitles" : [ "例文", "用法" ],
     "informationTitleOrder" : null,
     "formFontFamily" : null,
