@@ -8038,23 +8038,8 @@
       "title" : "漢字転写",
       "forms" : [ "皇力" ]
     }, {
-      "title" : "概念",
-      "forms" : [ "" ]
-    }, {
       "title" : "名詞",
       "forms" : [ "皇効" ]
-    }, {
-      "title" : "動詞",
-      "forms" : [ "" ]
-    }, {
-      "title" : "定詞",
-      "forms" : [ "" ]
-    }, {
-      "title" : "約詞",
-      "forms" : [ "" ]
-    }, {
-      "title" : "叫詞",
-      "forms" : [ "" ]
     } ],
     "tags" : [ "机戦" ],
     "contents" : [ ],
@@ -9324,6 +9309,69 @@
     "contents" : [ {
       "title" : "用法",
       "text" : "軽い驚きを表す。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 458,
+      "form" : "kue cue"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "硫俐" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "硫黄" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "硫黄" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "khaicwi, kasui.ar\nkúcuj-, kujacú, kúcú.bt"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 459,
+      "form" : "xem1 pok"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "月色" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "月の色" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "黄色" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 460,
+      "form" : "tam2 pok"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "皇色" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "皇色" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "緑", "濃緑" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "皇論の信仰対象、皇をイメージさせる色である。濃緑色。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
