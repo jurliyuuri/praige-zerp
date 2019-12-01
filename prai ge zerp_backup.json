@@ -618,6 +618,9 @@
     }, {
       "title" : "動詞",
       "forms" : [ "書く", "描く" ]
+    }, {
+      "title" : "人名",
+      "forms" : [ "姓の一つ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1331,6 +1334,9 @@
     }, {
       "title" : "名詞",
       "forms" : [ "法律", "（プログラミングの）関数・サブルーチン" ]
+    }, {
+      "title" : "人名",
+      "forms" : [ "姓の一つ" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -2408,6 +2414,9 @@
     }, {
       "title" : "定詞",
       "forms" : [ "高い" ]
+    }, {
+      "title" : "人名",
+      "forms" : [ "姓の一つ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2825,6 +2834,9 @@
     }, {
       "title" : "名詞",
       "forms" : [ "月" ]
+    }, {
+      "title" : "人名",
+      "forms" : [ "姓の一つ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2863,6 +2875,9 @@
     }, {
       "title" : "名詞",
       "forms" : [ "夏" ]
+    }, {
+      "title" : "人名",
+      "forms" : [ "姓の一つ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3045,12 +3060,15 @@
       "forms" : [ "意見", "論" ]
     }, {
       "title" : "動詞",
-      "forms" : [ "論ずる", "述べる" ]
+      "forms" : [ "論ずる", "論じる", "述べる" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
       "text" : "zunaii.ar"
+    }, {
+      "title" : "用法",
+      "text" : "動詞ではあまり用いられない。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3188,6 +3206,9 @@
     }, {
       "title" : "名詞",
       "forms" : [ "春" ]
+    }, {
+      "title" : "人名",
+      "forms" : [ "姓の一つ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3860,6 +3881,9 @@
     }, {
       "title" : "名詞",
       "forms" : [ "書" ]
+    }, {
+      "title" : "人名",
+      "forms" : [ "姓の一つ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4018,9 +4042,18 @@
     "translations" : [ {
       "title" : "漢字転写",
       "forms" : [ "貧" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "所有物が少ない" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "少ない・貧しい" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "hue1 to2は「樽の個数が多いこと」、hei2 to2は「樽の中身が少ないこと」を表す。hue1 cuk2は「少数派」（または「若い人」）であり、hei2 cuk2は「持っているものが少ない人」、つまり「貧しい人」である。hue1 cuk2が「若い人」でもあるのは、年老いた人というのは別に年齢1・年齢2・年齢3を持っている人物ではないからである。"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4412,6 +4445,9 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "huroe.ar"
+    }, {
+      "title" : "用法",
+      "text" : "hue1 to2は「樽の個数が多いこと」、hei2 to2は「樽の中身が少ないこと」を表す。hue1 cuk2は「少数派」（または「若い人」）であり、hei2 cuk2は「持っているものが少ない人」、つまり「貧しい人」である。hue1 cuk2が「若い人」でもあるのは、年老いた人というのは別に年齢1・年齢2・年齢3を持っている人物ではないからである。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -4859,6 +4895,9 @@
     }, {
       "title" : "名詞",
       "forms" : [ "猫" ]
+    }, {
+      "title" : "人名",
+      "forms" : [ "姓の一つ。" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4897,6 +4936,9 @@
     }, {
       "title" : "名詞",
       "forms" : [ "学問" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "学ぶ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5085,6 +5127,9 @@
       "title" : "漢字転写",
       "forms" : [ "蜜" ]
     }, {
+      "title" : "概念",
+      "forms" : [ "蜜", "食用にする色のついた液体" ]
+    }, {
       "title" : "名詞",
       "forms" : [ "蜜" ]
     } ],
@@ -5142,7 +5187,7 @@
       "title" : "漢字転写",
       "forms" : [ "使" ]
     }, {
-      "title" : "名詞",
+      "title" : "動詞",
       "forms" : [ "使う" ]
     } ],
     "tags" : [ ],
@@ -5356,6 +5401,9 @@
     }, {
       "title" : "名詞",
       "forms" : [ "歌" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "歌う" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5481,7 +5529,10 @@
       "forms" : [ "片" ]
     }, {
       "title" : "名詞",
-      "forms" : [ "かけら", "札", "駒", "牌" ]
+      "forms" : [ "かけら", "札", "駒", "牌", "1片(≒55.4mm)" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "分ける" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -7558,7 +7609,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 420,
+        "form" : "ly ni1 ta1"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 379,
@@ -7590,23 +7647,8 @@
       "title" : "漢字転写",
       "forms" : [ "牛" ]
     }, {
-      "title" : "概念",
-      "forms" : [ "" ]
-    }, {
       "title" : "名詞",
-      "forms" : [ "" ]
-    }, {
-      "title" : "動詞",
-      "forms" : [ "" ]
-    }, {
-      "title" : "定詞",
-      "forms" : [ "" ]
-    }, {
-      "title" : "約詞",
-      "forms" : [ "" ]
-    }, {
-      "title" : "叫詞",
-      "forms" : [ "" ]
+      "forms" : [ "牛" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -7636,7 +7678,13 @@
       "text" : "finorxonas.li"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 420,
+        "form" : "ly ni1 ta1"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 382,
@@ -7684,14 +7732,1566 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 384,
+      "form" : "iam1 tau2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "口端" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "唇" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "約詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "叫詞",
+      "forms" : [ "" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 385,
+      "form" : "iam1 gau2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "口刀" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "歯" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "約詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "叫詞",
+      "forms" : [ "" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 386,
+      "form" : "iam1 giau1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "口門" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "喉" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "約詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "叫詞",
+      "forms" : [ "" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 387,
+      "form" : "dit1 zep1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "貝言" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "誉める", "褒める" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 388,
+        "form" : "zep1 dit1"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 388,
+      "form" : "zep1 dit1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "言貝" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "取り繕う", "虚勢を張る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 387,
+        "form" : "dit1 zep1"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 389,
+      "form" : "im1 saup1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "毛獣" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(雅語)羊" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 390,
+      "form" : "po1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "羊" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "羊" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "羊" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "pola.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 391,
+      "form" : "gau2 aum2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "刀傾" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "階段" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "階段" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 392,
+      "form" : "at sit1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "加術" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "足し算" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 393,
+      "form" : "pau1 sit1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "別術" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "引き算" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 394,
+      "form" : "gy1 sit1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "層術" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "掛け算" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 395,
+      "form" : "ie sit1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "於術" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "割り算" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 396,
+      "form" : "tam2 py"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "皇力" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "皇効" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "約詞",
+      "forms" : [ "" ]
+    }, {
+      "title" : "叫詞",
+      "forms" : [ "" ]
+    } ],
+    "tags" : [ "机戦" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 397,
+      "form" : "saup1 la1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "獣軸" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "【PMCFにて】（パイグ将棋の）王" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "リパライン語salfli'arに由来する東島通商語cauplaが、パイグ語由来であると勘違いされ逆成された単語。"
+    }, {
+      "title" : "同根語",
+      "text" : "salfli'ar.li"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 398,
+      "form" : "la1 zep1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "軸言" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "母語", "第一言語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 399,
+      "form" : "huet zep1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "闇言" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "バート語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "bhátán zepha.bt"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 400,
+      "form" : "huet zep1 a la1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "闇言之軸" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "ナウトゥホーマーエー（バート文字のシローレーカー）" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "バート文字の上の方に書かれる横線。バート語nautuhomá eのeはパイグ語la1と同根なので、それを写したもの。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 401,
+      "form" : "huep2 la1 zep1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "地軸言" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "（[場所] + aを直前に伴って）〜という場所/地域の主要言語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "例文",
+      "text" : "dop1 dat2 zep1 ka1 kia1 sak2 dop1 dat2 a huep2 la1 zep1 a et2.\n東島通商語は、PMCFの主要言語の一つである。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 402,
+      "form" : "dop1 dat2 zep1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "島集言" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "東島通商語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 403,
+      "form" : "cuk2 ge"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "人等" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "連盟", "団体" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "連盟", "団体" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "latacet < pmcp"
+    }, {
+      "title" : "文化",
+      "text" : "dat2には政府の省のような公的性の高いものを表すニュアンスがあるため、民間性の高い団体を表す表現として東島通商語から翻訳借用されてきた表現。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 404,
+      "form" : "hop1 zuo1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "手片" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "手札", "手駒", "持ち駒" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 405,
+      "form" : "bup2 sit1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "歪術" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "王が他の同色駒の代わりとなること" ]
+    } ],
+    "tags" : [ "机戦" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 406,
+      "form" : "uep"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "穴" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "貫通した穴" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(貫通した)穴" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "穴を開ける" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 407,
+      "form" : "bot1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "凹" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "へこみ", "へこむ" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "凹み", "くぼみ", "(貫通していない)穴" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "凹む", "くぼむ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 408,
+      "form" : "hia1 bet2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "心圧" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "心が圧されること" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "ヒャーベッ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "ラネーメ民族の土着的宗教である皇論において忌まれる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 409,
+      "form" : "mak2 la1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "値軸" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "（パイグ将棋の）点棒" ]
+    } ],
+    "tags" : [ "机戦" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "点数の計算に用いる細い棒。白は1点、赤は5点、黒は25点のように点数を決めて用いる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 410,
+      "form" : "lok1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "笛" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "笛", "管楽器" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "笛" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "roku.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 411,
+      "form" : "cuop2 cet2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "声机" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(雅語)琴" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 412,
+      "form" : "nin1 cet2 kaik"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "紙机戦" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "紙机戦" ]
+    } ],
+    "tags" : [ "机戦" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "ボードゲームである机戦を基盤として発展した、パイグ文化圈を中心として遊ばれるカードゲームである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 413,
+      "form" : "bon2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "筒" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "筒" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "筒" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "boungau.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 414,
+      "form" : "auk2 lot2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "長短" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "長いものと短いもの" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "長いものと短いもの" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "長いAと短いA" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 415,
+      "form" : "pau1 cuau2 man1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "別形字" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "異体字" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 416,
+      "form" : "pau1 ua"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "別而" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "逆接の明示" ]
+    }, {
+      "title" : "約詞",
+      "forms" : [ "しかし", "しかしながら", "でも", "しかるに" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 417,
+      "form" : "uep1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "淮" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "ヴェフィス" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "ヴェフィスの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 418,
+      "form" : "lip"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "哩" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "リパライン", "リパラオネ" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "リパラインの", "リパラオネの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 419,
+      "form" : "kuai1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "翰" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "編集者", "編纂者" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "編集者", "編纂者" ]
+    }, {
+      "title" : "人名",
+      "forms" : [ "姓の一つ(skarsna姓に対応)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 420,
+      "form" : "ly ni1 ta1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "須小目" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "リウスニータ" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "リウスニータ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "冬のユエスレオネで好まれる飲み物のひとつ。全卵(uet)と蜂蜜(tum1 sik2)と牛乳(io2 sik2)を弱火にかけてとろみを出したものにバニラエッセンス、シナモン(hui2 no1)、カルダモン、アニスシードを加えて濾す。"
+    }, {
+      "title" : "同根語",
+      "text" : "li'usnirta.li"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 381,
+        "form" : "hui2 no1"
+      }
+    }, {
+      "title" : "",
+      "entry" : {
+        "id" : 378,
+        "form" : "uet"
+      }
+    }, {
+      "title" : "",
+      "entry" : {
+        "id" : 428,
+        "form" : "tum1 sik2"
+      }
+    }, {
+      "title" : "",
+      "entry" : {
+        "id" : 429,
+        "form" : "io2 sik2"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 421,
+      "form" : "sau2 sin1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "上名" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "姓", "名字", "上の名前" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "姓", "名字", "上の名前" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "パイグ語においては一文字が原則。かなり稀だが二文字以上もいる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 423,
+        "form" : "mut2 sin1"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 422,
+      "form" : "ut2 sin1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "下名" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "個人名", "下の名前" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "個人名", "下の名前" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "二文字が多いが、一文字も見られる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 423,
+      "form" : "mut2 sin1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "家名" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "姓", "名字", "上の名前" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "姓", "名字", "上の名前" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 421,
+        "form" : "sau2 sin1"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 424,
+      "form" : "sue1 mui1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "高魚" ]
+    } ],
+    "tags" : [ "人名" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "ピリフィアー歴805年には、ラネーメ共和国に向かおうとした商業船アクルサー号が沈没し、島嶼部に遭難したレアディオ人イェクト・ユピュイーデャのこと。当時深く理解がなされていなかったパイグ人を中心とした伝統的な言語環境を維持するラネーメ人と接触した。パイグ社会では四年間生活し、810年にパイグ人の助力によってレアディオに戻され、そこで経験したサームカールトの儀式や皇論信仰（タムツイ）の神秘性や美術性に目を取られ、リパラオネ社会に向けて「西方の諸島における先住民の神秘的な生活とその文化について」（西方記）をピリフィアー歴811年に発行した。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 425,
+      "form" : "ni1 let1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "小雪" ]
+    } ],
+    "tags" : [ "人名" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "ピリフィアー歴801年に木版印刷を一般化した人物。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 426,
+      "form" : "xo1 tuk2 py"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "夏巫力" ]
+    } ],
+    "tags" : [ "人名" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "PMCFの文化省大臣。タカン人の皇之 上水(タカマ ソラナ)首相による上水政権の下、言語多元主義的政策を推進していくことを検討することになった。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 427,
+      "form" : "lup1 lu2 kut2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "鳥新撃" ]
+    } ],
+    "tags" : [ "人名" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "宇宙戦艦・駆逐艦を設計したファルトクノアのパイグ人設計士。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 428,
+      "form" : "tum1 sik2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "甘蜜" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "蜂蜜" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 420,
+        "form" : "ly ni1 ta1"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 429,
+      "form" : "io2 sik2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "牛蜜" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "牛乳" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 420,
+        "form" : "ly ni1 ta1"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 430,
+      "form" : "uet sik2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "卵蜜" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "卵液" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 431,
+      "form" : "uet nua2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "卵水" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "卵白" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 432,
+      "form" : "kua2 nua2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "筆水" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(雅語)墨汁" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 433,
+      "form" : "zuo1 bu1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "片箱" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "1立方片(≒170cm^3)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 434,
+      "form" : "ten1 ten1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "混混" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "混ぜる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 435,
+      "form" : "sep"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "享" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "自然から資源を得る" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "狩猟や採集をする" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "sephu.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 436,
+      "form" : "zip1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "失" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "失う" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "失う" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ziphei.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 437,
+      "form" : "xi1 xo2 hei2 to2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "足錘貧樽" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "何画で書くか揺れがある燐字/燐字字素" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "燐字「足」「錘」「貧」「樽」の画数は人や辞書によって差異がある（ほかには「膠」など）ことから、画数検索などの用途においてこれを明記する必要がある際に用いる概念。"
+    }, {
+      "title" : "例文",
+      "text" : "ka1 zep1 dat2 xi1 xo2 hei2 to2 ka1 em nan2? (この辞書の足錘貧樽はどうなっていますか？)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 438,
+      "form" : "xi1 xo2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "足錘" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "(刑罰のために)足につける錘", "(比喩的な)足かせ " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "「心圧」に該当すると考えられるため、ラネーメ圏ではあまり好まれない。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 439,
+      "form" : "kaik dat2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "戦集", "軍" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "軍", "(パイグ将棋の)片方の陣営" ]
+    } ],
+    "tags" : [ "机戦" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 440,
+      "form" : "nie"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "隊" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "パイグ将棋の駒を作る際の8つ1まとまり", "1バイト" ]
+    } ],
+    "tags" : [ "机戦", "悠里OS" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "niek1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 441,
+      "form" : "pai2 ge zep1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "我等言" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "パイグ語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "第二言語話者であっても、「話者にとっての母語」ではなく「パイグ語」を指す。"
+    }, {
+      "title" : "用法",
+      "text" : "「話者にとっての母語」を言いたい場合は、pai2 a zep1「私の言語」、pai2 zep1 a zep1「私が話す言語」、pai2 (a) la1 zep1「私の母語」などpai2で表現するか、pai2 ge la1 zep1 「我々の母語」などとする。カラムディアなどが出身である場合は pai2 nim2 a zep1「私の民族の言語」などとも言うが、ラネーメ王国時代から多民族国家である背景上、ファイクレオネの出身である人はこの表現を用いないのが普通である。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 442,
+      "form" : "huat1 zep1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "互言" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "会話" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 446,
+      "form" : "y1 man1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "官字" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "公式書体" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "官字", "公式書体", "楷書" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "公的な書体で、改まった場面（公文書、教育など）で用いる。時代によって変動する。例えば燐帝の時期は隷書的、現代では楷書的。隷書的なものを特に区別してy1 gau2と呼ぶ。y1 gau2は装飾などに用いられることが多い。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 448,
+        "form" : "gau2 man1"
+      }
+    }, {
+      "title" : "",
+      "entry" : {
+        "id" : 451,
+        "form" : "y1 pua2"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 447,
+      "form" : "pua2 man1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "風字" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "俗用書体" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "風字", "俗用書体", "草書" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "日常の書体。官字に近いものを特にy1 pua2と呼ぶこともあり、y1 pua2は比較的正式な場面でも通用することが多い。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 448,
+        "form" : "gau2 man1"
+      }
+    }, {
+      "title" : "",
+      "entry" : {
+        "id" : 451,
+        "form" : "y1 pua2"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 448,
+      "form" : "gau2 man1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "刀字" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "碑文書体" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "刀字", "碑文書体", "篆書" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "手書き以前の書体で、現代では専ら装飾に用いられる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 447,
+        "form" : "pua2 man1"
+      }
+    }, {
+      "title" : "",
+      "entry" : {
+        "id" : 446,
+        "form" : "y1 man1"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 449,
+        "form" : "kua2 man1"
+      }
+    }, {
+      "title" : "",
+      "entry" : {
+        "id" : 451,
+        "form" : "y1 pua2"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 449,
+      "form" : "kua2 man1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "筆字" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "手書きのための書体" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "筆字", "手記書体" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "手書きの書体。基本的に現代の文字はこれに該当する。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 448,
+        "form" : "gau2 man1"
+      }
+    }, {
+      "title" : "",
+      "entry" : {
+        "id" : 451,
+        "form" : "y1 pua2"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 450,
+      "form" : "y1 gau2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "官刀" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "官字と刀字の中間的書体。" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "隷書" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "装飾などに用いる。古めかしい雰囲気がある。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 451,
+      "form" : "y1 pua2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "官風" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "官字と風字の中間的" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "行書" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "日常の書体。官字に近いものを特にこう呼ぶこともあり、比較的正式な場面でも通用することが多い。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "",
+      "entry" : {
+        "id" : 446,
+        "form" : "y1 man1"
+      }
+    }, {
+      "title" : "",
+      "entry" : {
+        "id" : 447,
+        "form" : "pua2 man1"
+      }
+    }, {
+      "title" : "",
+      "entry" : {
+        "id" : 448,
+        "form" : "gau2 man1"
+      }
+    }, {
+      "title" : "",
+      "entry" : {
+        "id" : 449,
+        "form" : "kua2 man1"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 452,
+      "form" : "mit"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "橋" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "橋" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "mitiku.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 453,
+      "form" : "mit mit"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "橋橋" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "陸橋" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "アイルtukumuku「陸橋」が畳語と意識され「橋橋」と書かれたものを形訳したもの。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 454,
+      "form" : "lip zep1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "哩言" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "リパライン語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 455,
+      "form" : "ban2 nim2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "閥", "闇族" ]
+    }, {
+      "title" : "人名",
+      "forms" : [ "バートニーマシュ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "バート人は姓を持たないため、「バート民族」という語源を持つbhátnímaṣという単語を姓の代わりに用いる。"
+    }, {
+      "title" : "同根語",
+      "text" : "bhátnímaṣ.bt"
+    }, {
+      "title" : "表記揺れ",
+      "text" : "bat2 nim2"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 456,
+      "form" : "hen"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "啌" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "軽い納得" ]
+    }, {
+      "title" : "叫詞",
+      "forms" : [ "ああ", "へぇ", "へえ", "はぁ", "ほう", "ほぅ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "軽い納得を表す。"
+    }, {
+      "title" : "表記揺れ",
+      "text" : "he"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 457,
+      "form" : "ua"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "哇" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "軽い驚き" ]
+    }, {
+      "title" : "叫詞",
+      "forms" : [ "わあ", "わぁ", "おー", "おお", "おぉ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "軽い驚きを表す。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
-    "alphabetOrderType" : "CUSTOM",
+    "wordOrderType" : "CUSTOM",
     "punctuations" : [ ",", "、" ],
+    "ignoredTranslationRegex" : "",
     "pronunciationTitle" : "標準発音",
     "plainInformationTitles" : [ "例文", "用法" ],
     "informationTitleOrder" : null,
+    "formFontFamily" : null,
     "defaultWord" : {
       "entry" : {
         "id" : -1,

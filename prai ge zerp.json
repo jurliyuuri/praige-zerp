@@ -9282,6 +9282,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 458,
+      "form" : "nuak1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "船" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "舟", "（特にパイグ将棋の）船" ]
+    } ],
+    "tags" : [ "机戦" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "nua2+mok1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
