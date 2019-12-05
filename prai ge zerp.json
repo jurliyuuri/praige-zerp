@@ -1424,6 +1424,9 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "iou.ar"
+    }, {
+      "title" : "文化",
+      "text" : "パイグ将棋の役の名前でもあり、王1枚を手駒に揃える役を指す。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2362,6 +2365,9 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "saupu.ar"
+    }, {
+      "title" : "文化",
+      "text" : "パイグ将棋の役の名前でもあり、虎・馬の2枚を手駒に揃える役を指す。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -8060,7 +8066,7 @@
     "tags" : [ "机戦" ],
     "contents" : [ {
       "title" : "文化",
-      "text" : "リパライン語salfli'arに由来する東島通商語cauplaが、パイグ語由来であると勘違いされ逆成された単語。"
+      "text" : "リパライン語salfli'arに由来する東島通商語cauplaが、パイグ語由来であると勘違いされ逆成された単語。パイグ将棋の役の名前でもあり、王1枚を手駒に揃える役を指す。"
     }, {
       "title" : "同根語",
       "text" : "salfli'ar.li"
@@ -8910,7 +8916,10 @@
       "forms" : [ "軍", "(パイグ将棋の)片方の陣営" ]
     } ],
     "tags" : [ "机戦" ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "パイグ将棋の役の名前でもあり、兵・兵・将の3枚を手駒に揃える役を指す。"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -9391,6 +9400,60 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "nua2+mok1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 462,
+      "form" : "mun1 mak1 mok1 hue"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "無抗行処" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "行く所に敵なし" ]
+    } ],
+    "tags" : [ "机戦" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "パイグ将棋の役の名前でもあり、皇を除く全部の駒を手駒に揃える役を指す。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 463,
+      "form" : "maun1 gua2 kauk2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "馬弓兵" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "馬と弓を操るヴェフィス兵" ]
+    } ],
+    "tags" : [ "机戦" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "パイグ将棋の役の名前でもあり、兵・弓・馬の3枚を手駒に揃える役を指す。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 464,
+      "form" : "mok1 mok1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "行行" ]
+    } ],
+    "tags" : [ "机戦" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "パイグ将棋の役の名前でもあり、船・車・馬の3枚を手駒に揃える役を指す。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
