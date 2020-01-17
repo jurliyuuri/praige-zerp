@@ -11,15 +11,15 @@
 在	aim2	代名詞	ngaem	
 互	huat1	代名詞	huaht	
 己	tin1	代名詞	tihn	
-物	ku	カテゴリ2	ku	
-人	cuk2	カテゴリ2	sruk	
-如	em	カテゴリ2	vm	
-之	a	カテゴリ2	ang	
-処	hue	カテゴリ2	fv	
-時	kak	カテゴリ2	kak	
-故	xit2	カテゴリ2	srit	旧転写：由
-位	pui1	カテゴリ2	puih	
-術	sit1	カテゴリ2	ziht	
+物	ku	抽象指示	ku	
+人	cuk2	抽象指示	sruk	
+如	em	抽象指示	vm	
+之	a	抽象指示	ang	
+処	hue	抽象指示	fv	
+時	kak	抽象指示	kak	
+故	xit2	抽象指示	srit	旧転写：由
+位	pui1	抽象指示	puih	
+術	sit1	抽象指示	ziht	
 言	zep1	表現	tsvhp	
 字	man1	表現	mahn	
 筆	kua2	表現	krua	
@@ -122,10 +122,10 @@
 虎	dau2	動物	drau cf.daunou.ar	
 馬	maun1	動物	mauhn	
 巫	tuk2	宗教	truk < tram sruk	
-将	uai1	机戦（廃止予定）	uaeh <*weai	
-王	io	机戦（廃止予定）	io	
+将	uai1	国家の軸	uaeh <*weai	
+王	io	国家の軸	io	
 類	suo2		zruo	
-為	zau		tsau	
+為	zau	アタケゾ	tsau	
 貝	dit1	自然	diht	
 刀	gau2	戦い	grau	
 声	cuop2	表現	sruop	
@@ -133,14 +133,14 @@
 善	kait	性質	kaet	
 友	hi1	人間関係	hih	
 美	hem1	性質	hvhm	
-受	guk2		gruk	
-与	tui2		trui	
+受	guk2	アタケゾ	gruk	
+与	tui2	アタケゾ	trui	
 力	py		piu	
-須	ly		liu	
+須	ly	アタケゾ	liu	
 而	ua	闇類	ua	
 即	hem	闇類	hvm	
-御	am		am	
-再	ty		tiu	
+御	am	国家の軸	am	
+再	ty	アタケゾ	tiu	
 乎	yn2	闇類	iuhn < iu muhn	
 於	ie	闇類	iv	
 遠	tuai2	性質	truae	
@@ -154,7 +154,7 @@
 激	gak1		grahk < cf. ngakha.ar	
 付	kun2		krung < cf. kunge.ar	
 端	tau2		trau < cf. taupwo.ar	
-律	iak1		iahk < iuh ahk	
+律	iak1	国家の軸	iahk < iuh ahk	
 集	dat2		drat	
 亦	y	闇類	iu	
 値	mak2	数	mrak	旧転写：数
@@ -387,3 +387,4 @@
 宦		異体字		アイルcica
 僚				アイルjoveo
 健				東latapanka
+兄				ヴェフィス語で用いる。
