@@ -9415,6 +9415,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 465,
+      "form" : "ka1 xit2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "此故" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "この理由は" ]
+    }, {
+      "title" : "約詞",
+      "forms" : [ "なぜなら" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
