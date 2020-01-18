@@ -2861,7 +2861,7 @@
       "forms" : [ "足" ]
     }, {
       "title" : "名詞",
-      "forms" : [ "足" ]
+      "forms" : [ "足", "(植物について)根" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -9429,6 +9429,44 @@
     }, {
       "title" : "約詞",
       "forms" : [ "なぜなら" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 466,
+      "form" : "kot xi1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "草足" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "根", "草が地面と触れるところ" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "草の根", "根っこ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 467,
+      "form" : "hup1 xi1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "木足" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "木の根" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "木の根" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
