@@ -9472,6 +9472,31 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 468,
+      "form" : "kit1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "百" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "百" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "百" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "kit「とても」と似ている音と意味を持つため、同じ単語だと思っている話者もいる。"
+    }, {
+      "title" : "同根語",
+      "text" : "kita.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
