@@ -9497,6 +9497,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 469,
+      "form" : "tam2 zui1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "皇論" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "タムツイ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "パイグ人の信仰。全ての物体には神がいると捉え、人や物がダメになる事はその物体から神が失われることと捉える。全ての神を統べる最高の神を皇神と捉え、その下の最初の分類の神の光神(光・火・風)と闇神(闇・水・石)が存在しその下の神を統率している。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
