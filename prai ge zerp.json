@@ -1338,7 +1338,7 @@
       "title" : "人名",
       "forms" : [ "姓の一つ" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "律法", "悠里OS" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
@@ -7330,7 +7330,7 @@
       "title" : "名詞",
       "forms" : [ "ライブラリ" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "悠里OS" ],
     "contents" : [ {
       "title" : "用法",
       "text" : "頻出する関数などをまとめ、再利用しやすくしたもの。"
@@ -9513,6 +9513,152 @@
     "contents" : [ {
       "title" : "文化",
       "text" : "パイグ人の信仰。全ての物体には神がいると捉え、人や物がダメになる事はその物体から神が失われることと捉える。全ての神を統べる最高の神を皇神と捉え、その下の最初の分類の神の光神(光・火・風)と闇神(闇・水・石)が存在しその下の神を統率している。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 470,
+      "form" : "la1 iak1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "軸律" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "憲法" ]
+    } ],
+    "tags" : [ "律法" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 471,
+      "form" : "ai2 sip1 la1 iak1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "冠国軸律" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "アイル共和国憲法" ]
+    } ],
+    "tags" : [ "律法" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "国家体制を規定する「定官之律」と市民の権利を規定する「定民之律」と分化している。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 472,
+      "form" : "dop1 dat2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "島集" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "東諸島共和国連合", "PMCF" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 473,
+      "form" : "dop1 dat2 la1 iak1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "島集軸律" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "PMCF憲法", "共和国連合憲法" ]
+    } ],
+    "tags" : [ "律法" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "第一章第五条には「連合以外の多国間の紛争に関し、特別急用のない限り、連合は中立の立場を取る」という中立条規があり、中立憲法とも呼ばれる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 474,
+      "form" : "huap1 y1 a iak1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "定官之律" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "政府機構基本法" ]
+    } ],
+    "tags" : [ "律法" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "アイル共和国憲法を構成する2つのうちの1つである。国家体制を規定する。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 475,
+      "form" : "huap1 bia1 a iak1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "定民之律" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "国民権利基本法" ]
+    } ],
+    "tags" : [ "律法" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "アイル共和国憲法を構成する2つのうちの1つである。市民の権利を規定する。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 476,
+      "form" : "ma1 iak1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "大律" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "マーヤック", "官民分離憲法" ]
+    } ],
+    "tags" : [ "律法" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "国家の役割の規定と市民の権利の規定が同一文書に入らない憲法を指す、憲法学の用語。かつては単純に「憲法」の意味でも用いた単語だが、その意味では現在は la1 iak1 を主に用いる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 477,
+      "form" : "tuk2 iak1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "網律" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "イニゾピト", "官民非分離憲法" ]
+    } ],
+    "tags" : [ "律法" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "国家の役割の規定と市民の権利の規定が同一文書に入る憲法を指す、憲法学の用語。二種の規定が縦横を織りなして一つの文書を成していることからこのように呼ぶ。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
