@@ -9662,6 +9662,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 478,
+      "form" : "ka1 kak"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "此時" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "今" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "例文",
+      "text" : "ka1 kak a cuk2 mun1 ak1 CORLOR xai1 a.（今の人は候文を書かないのだ。）"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
