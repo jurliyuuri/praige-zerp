@@ -4,7 +4,7 @@
 schema:
   schema_id: paige
   name: 牌語
-  version: “2017.10.25”
+  version: “2020.02.07”
   author:
     - sosobotpi <@sosobotpi.twitter.com>
 
@@ -62,14 +62,6 @@ speller:
   initials: zyxwvutsqponmlkjihgfedcba
   delimiter: " '"
   algebra:
-
-
-translator:
-  dictionary: paige
-  spelling_hints: 14
-  preedit_format:
-  comment_format:
-
 
 punctuator:
   import_preset: default
