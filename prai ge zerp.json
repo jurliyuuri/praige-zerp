@@ -139,7 +139,7 @@
     },
     "translations" : [ {
       "title" : "漢字転写",
-      "forms" : [ "出" ]
+      "forms" : [ "生" ]
     }, {
       "title" : "概念",
       "forms" : [ "無いものを在らせること" ]
@@ -154,6 +154,9 @@
     }, {
       "title" : "同根語",
       "text" : "jani.ar, janúḷ.bt"
+    }, {
+      "title" : "表記揺れ",
+      "text" : "漢字転写「出」とも"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -7443,7 +7446,7 @@
     },
     "translations" : [ {
       "title" : "漢字転写",
-      "forms" : [ "出美" ]
+      "forms" : [ "生美" ]
     }, {
       "title" : "名詞",
       "forms" : [ "創作" ]
