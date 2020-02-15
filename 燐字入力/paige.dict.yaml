@@ -89,6 +89,7 @@ use_preset_vocabulary: true
 始	hutv
 終	ta
 出	ianf
+生	ianf
 入	litf
 一	etv
 二	ikv
@@ -333,3 +334,4 @@ use_preset_vocabulary: true
 哇	ua
 百	kitf
 佰	kitf
+産	ianf
