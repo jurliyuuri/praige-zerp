@@ -9703,6 +9703,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 480,
+      "form" : "ni1 na1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "小静" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "ちまちましている" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "例文",
+      "text" : "zuo1 mok1 ni1 na1　（駒の動きがちまちましている）"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
