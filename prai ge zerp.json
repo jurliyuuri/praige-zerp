@@ -9722,6 +9722,38 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 481,
+      "form" : "lai1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "羅" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "ラネーメ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 482,
+      "form" : "kot2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "呉" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "クレオス・ド・メアパトロネスト" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
