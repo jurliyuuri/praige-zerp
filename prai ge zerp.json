@@ -9754,6 +9754,25 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 483,
+      "form" : "li2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "虫" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "人・鳥・魚・獣でなくてやわらかくて非常に細長いというわけではないもの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "libwa.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
