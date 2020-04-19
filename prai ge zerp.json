@@ -9773,6 +9773,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 484,
+      "form" : "niek2 uai1 kut2 xy2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "連将撃裁" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "しっかりと準備をして思い切った行動をすること" ]
+    } ],
+    "tags" : [ "机戦" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
