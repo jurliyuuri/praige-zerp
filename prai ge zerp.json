@@ -6080,7 +6080,7 @@
       "title" : "名詞",
       "forms" : [ "東諸島共和国連合", "PMCF" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "地名" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -9566,7 +9566,7 @@
       "title" : "名詞",
       "forms" : [ "東諸島共和国連合", "PMCF" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "地名" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -9787,6 +9787,272 @@
     } ],
     "tags" : [ "机戦" ],
     "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 485,
+      "form" : "mam1 dop1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "母島" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "マナナ島", "リナエスト島", "母島" ]
+    } ],
+    "tags" : [ "地名" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "アイル共和国を構成する島の中で最大面積の島。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 486,
+      "form" : "aik2 dop1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "光島" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "光島" ]
+    } ],
+    "tags" : [ "地名" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "アイル共和国を構成する島の一つ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 487,
+      "form" : "tam2 dop1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "皇島" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "タカン島", "アレフィス島", "アタラム島", "アイル共和国タカン自治区" ]
+    } ],
+    "tags" : [ "地名" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "アイル共和国を構成する島の一つ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 488,
+      "form" : "huet dop1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "闇島" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "ペド島", "リャーディ島", "リャーデェン島", "アイル共和国バート人自治区" ]
+    } ],
+    "tags" : [ "地名" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "アイル共和国を構成する島の一つ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 489,
+      "form" : "kuak1 dop1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "父島" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "ヴェフィス本島", "新島" ]
+    } ],
+    "tags" : [ "地名" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "ヴェフィス共和国を構成する島のうち最大。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 490,
+      "form" : "huok1 dop1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "輩島" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "蒼島" ]
+    } ],
+    "tags" : [ "地名" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "ヴェフィス共和国を構成する島の一つ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 491,
+      "form" : "tam2 xem1 dop1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "皇月島" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "タムシエルミワ島" ]
+    } ],
+    "tags" : [ "地名" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "ヴェフィス共和国を構成する島の一つ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 492,
+      "form" : "ni1 dop1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "小島" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "ヴェフィス共和国小島" ]
+    } ],
+    "tags" : [ "地名" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "ヴェフィス共和国を構成する島の一つ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 493,
+      "form" : "ma1 xem1 dop1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "大月島" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "リナエスト本島" ]
+    } ],
+    "tags" : [ "地名" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "リナエスト・オルス共和国を構成する島のうち面積が最大の島。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 494,
+      "form" : "zie1 dop1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "広島" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "シュカメニョーイシュケ島" ]
+    } ],
+    "tags" : [ "地名" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "リナエスト・オルス共和国を構成する島の一つ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 495,
+      "form" : "sy2 dop1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "石島" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "ユーニャズナ島" ]
+    } ],
+    "tags" : [ "地名" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "リナエスト・オルス共和国を構成する島の一つ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 496,
+      "form" : "ho1 bia1 dop1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "豊民島" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "フロン・ビェーイシュ島" ]
+    } ],
+    "tags" : [ "地名" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "リナエスト・オルス共和国を構成する島の一つ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 497,
+      "form" : "sep dop1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "享島" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "ブイロ島" ]
+    } ],
+    "tags" : [ "地名" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "リナエスト・オルス共和国を構成する島の一つ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 498,
+      "form" : "sik2 sy2 dop1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "蜜石島" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "シュケープラローシュ島" ]
+    } ],
+    "tags" : [ "地名" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "リナエスト・オルス共和国を構成する島の一つ。"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
