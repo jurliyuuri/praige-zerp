@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>パイグ語音声サンプル</title>
+    </head>
+    <body>
+        <h1>パイグ語音声サンプル</h1>
+        <h2>1. 録音part1</h2>
+        <p>Google検索が提供しているメトロノームでBPM100を鳴らしながら、4拍ごとにパイグ語の単語を言っていった。</p>
+        <p>綴りから読みが確定しないzでテンパってミスったので、そこまでで一旦収録を止め、<a href="./praige.mp3">praige.mp3</a>として保存。</p>
+        <p>そうしたらffmpegで<code>ffmpeg -i praige.mp3 -f segment -segment_time 2.4 -c copy out%03d.mp3</code>とすると2.4秒（BPM100で4回に1回言っているのだから1分間に25回、4分間に100回、よって2.4秒に1回）ごとに切り出せる。言ったサンプルがちょうど2つのファイルに分かれたらどうしようかとも思ったが、そんなことはなかった。</p>
+    </body>
+</html>
