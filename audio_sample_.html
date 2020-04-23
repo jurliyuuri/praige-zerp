@@ -1,0 +1,59 @@
+<body>
+<script>
+alert("ロードに時間がかかります、しばらくお待ちください。")
+const filenames = [
+    "a", "ai2", "aik2", "aim2", "aip1", "ak1", "am", "ap1", "at", "auk2", 
+    "aum2", "bai2", "bait", "ban2", "bap", "bau2", "be1", "bet2", "bia1", 
+    "bo1", "bon2", "bot1", "bu1", "bum1", "buo1", "bup2", "cai1", "can2", 
+    "cei2", "cet2", "co1", "cuau2", "cue", "cue1", "cuet", "cuk2", "cuop2", 
+    "cy2", "dat2", "dau2", "daut1", "det", "dit1", "dop1", "dui", "em", 
+    "et2", "gak1", "gat2", "gau2", "ge", "gek", "giau1", "gua2", "gui2", 
+    "guk2", "gy1", "hak2", "hau2", "hauk1", "he", "hei2", "hem", "hem1", 
+    "hen", "hi1", "hia1", "hio1", "ho", "ho1", "ho2", "hok1", "hon1", "hop1", 
+    "hua1", "huai2", "huap1", "huat1", "hue", "hue1", "huep2", "huet", 
+    "hui2", "huo2", "huok1", "huok2", "hup", "hup1", "hut2", "hy2", "i2", 
+    "ia1", "iak1", "iam1", "ian1", "iat1", "ie", "iei2", "ik2", "im1", 
+    "in2", "io", "io1", "io2", "ka1", "kai1", "kaik", "kait", "kak", "kan1", 
+    "kat1", "kat2", "kauk2", "kaun1", "ket", "ki1", "kia1", "kiak1", "kik1", 
+    "kin2", "kit", "kit1", "ko1", "kok1", "kot", "kot2", "ku", "kua2", "kuai1", 
+    "kuai2", "kuak1", "kue", "kun2", "kuo1", "kuot1", "kut2", "ky1", "ky2", 
+    "la1", "lai1", "lek1", "let1", "li1", "li2", "lia1", "lin", "liok1", 
+    "lip", "lit1", "lo", "lo1", "lok1", "lot2", "lu2", "lua1", "lup1", "ly", 
+    "ma1", "mak1", "mak2", "mam1", "man1", "maun1", "mit", "mit2", "mo1", 
+    "mok1", "mot2", "mua2", "muak1", "mui1", "mun1", "muo1", "mut2", "na1", 
+    "naip2", "nam2", "nan2", "nap1", "nau", "ne2", "net2", "ni1", "nie", 
+    "niek1", "nik2", "nim2", "nin1", "no1", "nom2", "non1", "nua2", "nuak1", 
+    "nui2", "num1", "nun1", "nuok2", "nut2", "o1", "om2", "pa2", "pai2", 
+    "pau1", "pek1", "pek2", "pet2", "pia2", "pit1", "po1", "pok", "pua2", 
+    "puat2", "pui1", "put", "py", "sa1", "sak2", "sam1", "sat2", "sau2", 
+    "saup1", "sep", "sia1", "sik2", "sin1", "sip1", "sit1", "so1", "son1", 
+    "su1", "sue1", "sui1", "suo2", "sy2", "syt2", "ta", "ta1", "tai", "tak1", 
+    "tam2", "tan1", "tat2", "tau2", "tauk1", "taun1", "ten1", "tet", "tia1", 
+    "tia2", "tin1", "tit1", "to2", "tu2", "tua1", "tuai2", "tui2", "tuik1", 
+    "tuk2", "tum1", "tun2", "tut1", "ty", "tyn1", "ua", "uai1", "uaip2", "ue", 
+    "ue1", "uep", "uep1", "uet", "un1", "uo1", "ut2", "xa2", "xai1", "xau1", 
+    "xem1", "xep2", "xi", "xi1", "xit2", "xo1", "xo2", "xom1", "xot1", "xuo1", 
+    "xy1", "y", "y1", "yk2", "yn2", "yp", "yt2", "zap2_tx", "zat1_tc", 
+    "zat1_tx", "zau_tx", "ze1_tx", "zep1_tx", "zi1_tx", "zie1_tx", "zip1_tx", 
+    "zit1_tc", "zit1_tx", "zi_tx", "zo1_tc", "zui1_tc", "zuit2_tc", "zuo1_tc"
+];
+function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+}
+
+shuffleArray(filenames);
+
+let src="<table>"
+for (filename of filenames) {
+    src += `<tr><td>${filename}</td><td><audio controls>
+  <source src="audio/${filename}.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio></td></tr>`;
+}
+src += "</table>"
+document.write(src);
+</script>
+</body>
