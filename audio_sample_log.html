@@ -401,5 +401,7 @@ a
         
         <p>ffmpegで切り出す前に、前回収録した不合格だったやつをaudio_suboptimalフォルダに隔離。</p>
 
+        <p>そうしたらffmpegで<code>ffmpeg -i praige3.mp3 -f segment -segment_time 2.4 -c copy out%03d.mp3</code>とすると2.4秒（BPM100で4回に1回言っているのだから1分間に25回、4分間に100回、よって2.4秒に1回）ごとに切り出せる。</p>
+        <p>これぐらいなら手動で改名してもいいので手動で改名。</p>
     </body>
 </html>
