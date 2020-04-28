@@ -375,5 +375,33 @@ Fso.MoveFile ("out" & Mid(CStr(1000 + i), 2, 3) & ".mp3"), (arr(i-1) & ".mp3")
 Next
 </pre>
         <p>改名。</p>
+
+        <h2>3. 録音part3</h2>
+
+        <h3>3-1. 再収録</h3>
+        <p>詳しくは<a href="siar_prek.html">本編</a>に書いたが、発音をSYに聞いてもらったところ一部再収録となった。</p>
+<pre>
+buo1 
+muo1 
+so1
+io1
+no1
+ko1
+o1
+bo1
+zo1_tc
+lo
+let1
+cei2
+io
+zep1_tx
+a           
+</pre>
+        <p>を再収録。<a href="./praige3.mp3">praige3.mp3</a>として保存。</p>
+        
+        <p>ffmpegで切り出す前に、前回収録した不合格だったやつをaudio_suboptimalフォルダに隔離。</p>
+
+        <p>そうしたらffmpegで<code>ffmpeg -i praige3.mp3 -f segment -segment_time 2.4 -c copy out%03d.mp3</code>とすると2.4秒（BPM100で4回に1回言っているのだから1分間に25回、4分間に100回、よって2.4秒に1回）ごとに切り出せる。</p>
+        <p>これぐらいなら手動で改名してもいいので手動で改名。</p>
     </body>
 </html>
