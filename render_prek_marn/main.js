@@ -42,6 +42,15 @@ function render_prek_marn(paths, template_id) {
             { width: 42, height: 45, left: 0, top: 11 },
             { width: 35, height: 32, left: 29, top: 8 },
             { width: 35, height: 30, left: 29, top: 30 }
+        ], "1+3+1": [
+            { width: 23, height: 44, left: 3, top: 11 },
+            { width: 30, height: 44, left: 17, top: 10 },
+            { width: 23, height: 54, left: 37, top: 3 }
+        ], "1+(2+1)+1": [
+            { width: 23, height: 44, left: 3, top: 9 },
+            { width: 30, height: 30, left: 17, top: 8 },
+            { width: 30, height: 30, left: 17, top: 28 },
+            { width: 23, height: 52, left: 37, top: 2 }
         ] };
     return "<div class=\"prek_marn_\">" + paths.map(function (path, i) { return render_single_image(path, template[template_id][i]); }).join("\n") + "</div>";
 }
