@@ -8,6 +8,13 @@
         margin: 10px;
         position: relative;
     }
+    .prek_marn_{
+        border: 1px solid rgb(1, 123, 153);
+        width: 64px;
+        height: 64px;
+        margin: 10px;
+        position: relative;
+    }
 </style>
 <h1>パイグ文字を機械的に積む無謀な試み</h1>
 
@@ -15,24 +22,14 @@
     <h2>α. 0+?+0</h2>
 
     <h3>0+1+0</h3>
-    <div class="prek_marn">
-        <img src="img/a.png" width="64" height="64" style="position:absolute; left: 0px; top: 0px">
-    </div>
-
-    <div class="prek_marn">
-        <img src="img/y.png" width="64" height="64" style="position:absolute; left: 0px; top: 0px">
-    </div>
+    <script>document.write(render_prek_marn(["a"],  "0+1+0"))</script>
+    <script>document.write(render_prek_marn(["y"],  "0+1+0"))</script>
 
     <hr>
 
     <h3>0+2+0</h3>
-    <div class="prek_marn">
-        <img src="img/ua.png" width="64" height="64" style="position:absolute; left: 0px; top: 0px">
-    </div>
-
-    <div class="prek_marn">
-        <img src="img/ue.png" width="64" height="64" style="position:absolute; left: 0px; top: 0px">
-    </div>
+    <script>document.write(render_prek_marn(["ua"],  "0+2+0"))</script>
+    <script>document.write(render_prek_marn(["ue"],  "0+2+0"))</script>
 
     <h3>0+(1+1)+0</h3>
     non-uniform
@@ -97,18 +94,8 @@
     </div>
 
     <h3>0+(1+1+1)+0</h3>
-
-    <div class="prek_marn">
-        <img src="img/a.png" width="64" height="28" style="position:absolute; left: 0px; top: 2px">
-        <img src="img/p.png" width="64" height="30" style="position:absolute; left: 0px; top: 16px">
-        <img src="img/1.png" width="64" height="28" style="position:absolute; left: 0px; top: 34px">
-    </div>
-
-    <div class="prek_marn">
-        <img src="img/i.png" width="64" height="28" style="position:absolute; left: 0px; top: 2px">
-        <img src="img/n.png" width="64" height="30" style="position:absolute; left: 0px; top: 16px">
-        <img src="img/2.png" width="64" height="28" style="position:absolute; left: 0px; top: 34px">
-    </div>
+    <script>document.write(render_prek_marn(["a", "p", "1"],  "0+(1+1+1)+0"))</script>
+    <script>document.write(render_prek_marn(["i", "n", "2"],  "0+(1+1+1)+0"))</script>
 </div>
 
 <hr>
@@ -118,42 +105,16 @@
     <h2>β. 1+?+0</h2>
 
     <h3>1+1+0</h3>
-
-    <div class="prek_marn">
-        <img src="img/p.png" width="35" height="44" style="position:absolute; left: 3px; top: 10px">
-        <img src="img/y.png" width="40" height="64" style="position:absolute; left: 23px; top: 0px">
-    </div>
-
-    <div class="prek_marn">
-        <img src="img/t.png" width="35" height="44" style="position:absolute; left: 3px; top: 10px">
-        <img src="img/a.png" width="40" height="64" style="position:absolute; left: 23px; top: 0px">
-    </div>
-
-    <div class="prek_marn">
-        <img src="img/l.png" width="35" height="44" style="position:absolute; left: 3px; top: 10px">
-        <img src="img/o.png" width="40" height="64" style="position:absolute; left: 23px; top: 0px">
-    </div>
-
-    <div class="prek_marn">
-        <img src="img/k.png" width="35" height="44" style="position:absolute; left: 3px; top: 10px">
-        <img src="img/u.png" width="40" height="64" style="position:absolute; left: 23px; top: 0px">
-    </div>
-
-
+    <script>document.write(render_prek_marn(["p", "y"],  "1+1+0"))</script>
+    <script>document.write(render_prek_marn(["t", "a"],  "1+1+0"))</script>
+    <script>document.write(render_prek_marn(["l", "o"],  "1+1+0"))</script>
+    <script>document.write(render_prek_marn(["k", "u"],  "1+1+0"))</script>
     <hr>
 
 
     <h3>1+2+0</h3>
-
-    <div class="prek_marn">
-        <img src="img/z.png" width="35" height="44" style="position:absolute; left: 2px; top: 10px">
-        <img src="img/au.png" width="40" height="64" style="position:absolute; left: 22px; top: 0px">
-    </div>
-
-    <div class="prek_marn">
-        <img src="img/d.png" width="35" height="44" style="position:absolute; left: 2px; top: 10px">
-        <img src="img/ui.png" width="40" height="64" style="position:absolute; left: 22px; top: 0px">
-    </div>
+    <script>document.write(render_prek_marn(["z", "au"],  "1+2+0"))</script>
+    <script>document.write(render_prek_marn(["d", "ui"],  "1+2+0"))</script>
 
     <h3>1+(1+1)+0</h3>
 
