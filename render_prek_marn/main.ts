@@ -94,7 +94,7 @@ function render_prek_marn(
         { width: 42, height: 44, left: 23,  top: 0 },
         { width: 42, height: 37, left: 23,  top: 28 }
     ] };
-    return `<div class="prek_marn_">`+ paths.map(
+    return `<div class="prek_marn_" style="width: 64px; height: 64px; position: relative;">`+ paths.map(
         (path, i) => render_single_image(path, template[template_id][i])
     ).join("\n")+`</div>`
 }

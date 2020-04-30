@@ -85,5 +85,5 @@ function render_prek_marn(paths, template_id) {
             { width: 42, height: 44, left: 23, top: 0 },
             { width: 42, height: 37, left: 23, top: 28 }
         ] };
-    return "<div class=\"prek_marn_\">" + paths.map(function (path, i) { return render_single_image(path, template[template_id][i]); }).join("\n") + "</div>";
+    return "<div class=\"prek_marn_\" style=\"width: 64px; height: 64px; position: relative;\">" + paths.map(function (path, i) { return render_single_image(path, template[template_id][i]); }).join("\n") + "</div>";
 }
