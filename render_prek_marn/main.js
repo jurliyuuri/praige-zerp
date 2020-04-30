@@ -51,7 +51,7 @@ function render_prek_marn(paths, template_id) {
             { width: 30, height: 30, left: 17, top: 8 },
             { width: 30, height: 30, left: 17, top: 28 },
             { width: 23, height: 52, left: 37, top: 2 }
-        ], "0+(1+1)+0 A": [
+        ], "0+(1+1)+0 first tone": [
             { width: 64, height: 53, left: 0, top: 0 },
             { width: 70, height: 40, left: -2, top: 30 }
         ], "0+(1+1)+0 B": [
@@ -69,18 +69,14 @@ function render_prek_marn(paths, template_id) {
         ], "0+(2+1)+0 B": [
             { width: 64, height: 40, left: 0, top: 2 },
             { width: 64, height: 37, left: 0, top: 30 }
-        ], "0+(2+1)+0 C": [
+        ], "0+(2+1)+0 first tone": [
             { width: 64, height: 48, left: 0, top: 5 },
             { width: 70, height: 37, left: -2, top: 33 }
-        ], "1+(2+1)+0 A": [
-            { width: 35, height: 46, left: 2, top: 9 },
-            { width: 42, height: 48, left: 23, top: 0 },
-            { width: 42, height: 37, left: 23, top: 28 }
-        ], "1+(2+1)+0 B": [
+        ], "1+(2+1)+0 first tone": [
             { width: 35, height: 46, left: 2, top: 9 },
             { width: 42, height: 48, left: 23, top: 5 },
             { width: 42, height: 37, left: 23, top: 33 }
-        ], "1+(2+1)+0 C": [
+        ], "1+(2+1)+0 not first tone": [
             { width: 35, height: 46, left: 2, top: 9 },
             { width: 42, height: 44, left: 23, top: 0 },
             { width: 42, height: 37, left: 23, top: 28 }
