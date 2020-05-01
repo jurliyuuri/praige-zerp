@@ -63,6 +63,82 @@ const get_word = (id: number) => {
     return `<div class="word">${word_form + audio_and_translations + contents}</div>`;
 }
 
+const encode_syllable = (str: string) => {
+    const match = str.match(/^([pbmcsxztdnlkgh]?)([aeiouy]+)([ptkmn]?)([12]?)$/);
+    if (match === null) {
+        alert("Warning: unexpected syllable `" + str +"` was encountered while sorting.");
+        return "";
+    }
+    const [whole, init, vowel, coda, tone] = match;
+
+    const encoded_vowel = 
+        vowel === "a" ? "00" :
+        vowel === "ia" ? "01" :
+        vowel === "ua" ? "02" :
+        vowel === "ai" ? "03" :
+        vowel === "uai" ? "04" :
+        vowel === "au" ? "05" :
+        vowel === "iau" ? "06" :
+        vowel === "uau" ? "07" :
+        vowel === "e" ? "10" :
+        vowel === "ie" ? "11" :
+        vowel === "ue" ? "12" :
+        vowel === "ei" ? "13" :
+        vowel === "iei" ? "14" :
+        vowel === "o" ? "15" :
+        vowel === "io" ? "16" :
+        vowel === "uo" ? "17" :
+        vowel === "i" ? "20" :
+        vowel === "ui" ? "21" :
+        vowel === "u" ? "30" :
+        vowel === "y" ? "31" : (() => {
+            alert("Warning: unexpected vowel `" + vowel + "` was encountered in the word `" + str + "` while sorting.");
+            return "99"
+        })();
+
+    return {
+        p: "00", b: "01", m: "02",
+        c: "10", s: "11", x: "12", z: "13",
+        t: "20", d: "21", n: "22", l: "23",
+        k: "30", g: "31", h: "32", "": "33"
+    }[init as "p" | "b" | "m" 
+    | "c" | "s" | "x" | "z" 
+    | "t" | "d" | "n" | "l"
+    | "k" | "g" | "h" | ""] + encoded_vowel + {
+        "": "0", p: "1", t: "2",
+        k: "3", m: "4", n: "5"
+    }[coda as "p" | "t" | "k" | "m" | "n" ] + {
+        "": "0", "1": "1", "2": "2"
+    }[tone as "" | "1" | "2"]
+}
+
+const encode_word = (str: string) => str.split(" ").map(syl => encode_syllable(syl)).join(" ");
+
 const render = () => {
-    document.getElementById("outer")!.innerHTML = dictionary.words.map(a => get_word(a.entry.id)).join("");
+    const urlParams = new URLSearchParams(window.location.search);
+    const sortBy = urlParams.get('sortBy')?.toLowerCase();
+
+    let ids = dictionary.words.map(a => a.entry.id);
+
+    if (sortBy === "random") {
+        for (let i = ids.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [ids[i], ids[j]] = [ids[j], ids[i]];
+        }
+    } else if (sortBy === "id") {
+        ids = ids.sort((a, b) => a - b);
+    } else if (sortBy === "ascii") {
+        ids = ids.sort((a, b) => {
+            const [w_a] = dictionary.words.filter(k => k.entry.id === a);
+            const [w_b] = dictionary.words.filter(k => k.entry.id === b);
+            return w_a.entry.form === w_b.entry.form ? 0 : w_a.entry.form > w_b.entry.form ? 1 : -1;
+        })
+    } else {
+        ids = ids.sort((a, b) => {
+            const [w_a] = dictionary.words.filter(k => k.entry.id === a);
+            const [w_b] = dictionary.words.filter(k => k.entry.id === b);
+            return encode_word(w_a.entry.form) === encode_word(w_b.entry.form) ? 0 : encode_word(w_a.entry.form) > encode_word(w_b.entry.form) ? 1 : -1;
+        });
+    }
+    document.getElementById("outer")!.innerHTML = ids.map(id => get_word(id)).join("");
 }
