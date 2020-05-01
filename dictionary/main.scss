@@ -1,0 +1,78 @@
+$color1: adjust-hue(#b3804d, 170);
+$color2: adjust-hue(#f2e9e1, 170);
+$color3: adjust-hue(rgba(179,128,77,0.3), 170);
+
+.word:first-child {
+    border-top: 1px $color1 solid;
+}
+
+.word {
+    padding: 15px 0px;
+    border-bottom: 1px $color3 solid;
+}
+
+.outer {
+    width: 100%;
+    max-width: 800px;
+    margin: 0px auto;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: "EB Garamond","Times New Roman","Yu Mincho","YuMincho","ヒラギノ明朝 ProN W3","Hiragino Mincho ProN","ＭＳ Ｐ明朝",serif;
+    font-size: 17px;
+    font-feature-settings: "palt" 1, "pkna" 1;
+    line-height: 1;
+    background-color: $color2;
+    overflow-x: auto;
+    overflow-y: scroll;
+    text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+.word_form {
+    margin: -4px 0.5em 0px 0px;
+    font-size: 120%;
+    font-weight: bold;
+    color: $color1;
+    line-height: 1.6;
+    display: inline-block;
+}
+
+.tags {
+    display: inline-block;
+}
+
+.word_infos {
+    margin: 5px 0px 0px 0px;
+}
+
+.word_info {
+    margin: 0px;
+    line-height: 1.6;
+    text-align: justify;
+    white-space: pre-line;
+}
+
+.bordered_info {
+    bottom: 0.1em;
+    margin: 0em 0.5em 0em 0em;
+    padding: 0em 0.2em;
+    font-size: 70%;
+    border: 1px $color1 solid;
+    border-radius: 3px;
+    position: relative;
+}
+
+.nonbordered_info {
+    font-size: 70%;
+    color: $color1;
+    display: block;
+}
+
+.outermost{
+    width: calc(100% - 30px * 2);
+    margin: 60px 30px 60px 30px;
+    padding: 0px;
+}
