@@ -1,22 +1,4 @@
 "use strict";
-var get_audio_name = function (word) {
-    if (word.entry.form.charAt(0) !== "z") {
-        return word.entry.form;
-    }
-    var pronunciation_info = word.contents.filter(function (_a) {
-        var title = _a.title;
-        return title === "発音";
-    });
-    if (pronunciation_info.length === 0) {
-        return word.entry.form + "_tx"; // defaults to tx
-    }
-    else if (pronunciation_info[0].text.slice(0, 2) === "ts") {
-        return word.entry.form + "_tc";
-    }
-    else {
-        alert("Warning: unexpected pronunciation remark found in the word " + JSON.stringify(word.entry));
-    }
-};
 var get_audio_names = function (word) {
     if (word.entry.form.indexOf(" ") !== -1) {
         return []; // no pronunciation info will be given
@@ -43,7 +25,7 @@ var get_audio_names = function (word) {
         }
     });
 };
-var get_word = function (id) {
+var get_word = function (dictionary, id) {
     var _a;
     var word = dictionary.words.filter(function (a) { return a.entry.id === id; })[0];
     var word_form = "<div><div class=\"word_form\">" + word.entry.form + "</div><div class=\"tags\">" + word.tags.map(function (a) { return '<span class="bordered_info">' + a + '</span>'; }).join("") + "</div></div>";
@@ -99,7 +81,7 @@ var encode_syllable = function (str) {
     }[tone];
 };
 var encode_word = function (str) { return str.split(" ").map(function (syl) { return encode_syllable(syl); }).join(" "); };
-var render = function () {
+var render = function (dictionary) {
     var _a;
     var _b;
     var urlParams = new URLSearchParams(window.location.search);
@@ -128,5 +110,5 @@ var render = function () {
             return encode_word(w_a.entry.form) === encode_word(w_b.entry.form) ? 0 : encode_word(w_a.entry.form) > encode_word(w_b.entry.form) ? 1 : -1;
         });
     }
-    document.getElementById("outer").innerHTML = ids.map(function (id) { return get_word(id); }).join("");
+    document.getElementById("outer").innerHTML = ids.map(function (id) { return get_word(dictionary, id); }).join("");
 };

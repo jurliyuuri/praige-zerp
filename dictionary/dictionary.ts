@@ -26,7 +26,7 @@ type Dictionary = {
     readonly snoj: string
 }
 
-const dictionary: Dictionary = {
+const dictionnaire: Dictionary = {
     "words" : [ {
       "entry" : {
         "id" : 1,

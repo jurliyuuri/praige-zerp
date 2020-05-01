@@ -1,5 +1,5 @@
 "use strict";
-var dictionary = {
+var dictionnaire = {
     "words": [{
             "entry": {
                 "id": 1,

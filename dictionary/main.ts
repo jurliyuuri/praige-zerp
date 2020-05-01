@@ -1,20 +1,3 @@
-const get_audio_name = (word: {
-    entry: {id: number, form: string},
-    contents: {title: string, text: string}[]
-}) => {
-    if (word.entry.form.charAt(0) !== "z") {
-        return word.entry.form;
-    } 
-    const pronunciation_info = word.contents.filter(({title}) => title === "発音");
-    if (pronunciation_info.length === 0) {
-        return word.entry.form + "_tx"; // defaults to tx
-    } else if (pronunciation_info[0].text.slice(0, 2) === "ts") {
-        return word.entry.form + "_tc"; 
-    } else {
-        alert("Warning: unexpected pronunciation remark found in the word " + JSON.stringify(word.entry))
-    }
-}
-
 const get_audio_names =  (word: {
     entry: {id: number, form: string},
     contents: {title: string, text: string}[]
@@ -41,7 +24,7 @@ const get_audio_names =  (word: {
     });
 }
 
-const get_word = (id: number) => {
+const get_word = (dictionary: Dictionary, id: number) => {
     const [word] = dictionary.words.filter(a => a.entry.id === id);
 
     const word_form = `<div><div class="word_form">${word.entry.form}</div><div class="tags">${
@@ -114,7 +97,7 @@ const encode_syllable = (str: string) => {
 
 const encode_word = (str: string) => str.split(" ").map(syl => encode_syllable(syl)).join(" ");
 
-const render = () => {
+const render = (dictionary: Dictionary) => {
     const urlParams = new URLSearchParams(window.location.search);
     const sortBy = urlParams.get('sortBy')?.toLowerCase();
 
@@ -140,5 +123,5 @@ const render = () => {
             return encode_word(w_a.entry.form) === encode_word(w_b.entry.form) ? 0 : encode_word(w_a.entry.form) > encode_word(w_b.entry.form) ? 1 : -1;
         });
     }
-    document.getElementById("outer")!.innerHTML = ids.map(id => get_word(id)).join("");
+    document.getElementById("outer")!.innerHTML = ids.map(id => get_word(dictionary, id)).join("");
 }
