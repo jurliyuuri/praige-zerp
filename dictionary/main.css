@@ -8,6 +8,12 @@
   border-bottom: 1px rgba(77, 145, 179, 0.3) solid;
 }
 
+.outer {
+  width: 100%;
+  max-width: 800px;
+  margin: 0px auto;
+}
+
 body {
   margin: 0px;
   padding: 0px;
@@ -62,7 +68,7 @@ body {
   display: block;
 }
 
-.outer {
+.outermost {
   width: calc(100% - 30px * 2);
   margin: 60px 30px 60px 30px;
   padding: 0px;
