@@ -1,3 +1,31 @@
+type Dictionary = {
+    readonly words: {
+        readonly entry: {
+            readonly id: number,
+            readonly form: string
+        },
+        readonly translations: {
+            readonly title: string,
+            readonly forms: string[]
+        }[],
+        readonly tags: string[],
+        readonly contents: {
+            readonly title: string,
+            readonly text: string
+        }[],
+        readonly variations: unknown[],
+        readonly relations: {
+            readonly title: string,
+            readonly entry: {
+                readonly id: number,
+                readonly form: string
+            }
+        }[]
+    }[],
+    readonly zpdic: unknown,
+    readonly snoj: string
+}
+
 const get_audio_names =  (word: {
     entry: {id: number, form: string},
     contents: {title: string, text: string}[]
