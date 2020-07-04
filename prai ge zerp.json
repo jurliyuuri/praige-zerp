@@ -10055,6 +10055,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 499,
+      "form" : "aik2 hui2 uet"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "光龍卵" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "光る龍の卵", "読心の光龍卵" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "羅古論の「大遠小周」に登場する、食べることによって人の心が読めるようになるとされる龍の卵。実在しない。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
