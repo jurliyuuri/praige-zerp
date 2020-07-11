@@ -10074,6 +10074,354 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 500,
+      "form" : "lua1 can2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "耳識" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "耳を傾ける" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 501,
+      "form" : "cei2 ka1 kia1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "周此日" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "最近", "近頃" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 502,
+      "form" : "ai2 sip1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "冠国" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "アイル共和国" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 503,
+      "form" : "syt2 tun2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "天神" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "マカティ（アイル共和国の首都）" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "アイル共和国の首都。マナナ島に存在する。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 504,
+      "form" : "nui2 cuk2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "学人" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "学生", "生徒", "学徒" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 505,
+      "form" : "tui2 nui2 cuk2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "与学人" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "教員", "教職員", "先生" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "ゼロコピュラ文の場合、 pai2 tui2 nui2 cuk2. よりは pai2 tui2 nui2 a cuk2. のほうが好まれる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 506,
+      "form" : "pua2 aim2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "風在" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "おもしろい", "面白い", "興味深い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "kit などで修飾するときは kit pua2 aim2 の語順。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 507,
+      "form" : "syt2 pua2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "天風" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "天気", "天候" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 508,
+      "form" : "ly taun1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "須多" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "忙しい", "多忙である" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 509,
+      "form" : "nau zep1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "勿言" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "もちろん", "勿論" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 510,
+      "form" : "nau zui1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "勿論" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "勿論", "もちろん" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 511,
+      "form" : "lin man1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "清字" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "燐帝字母", "燐字" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 512,
+      "form" : "uep1 sip1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "淮国" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "ヴェフィス共和国" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 513,
+      "form" : "nui2 hi1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "学友" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "学友", "クラスメート" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 514,
+      "form" : "hop1 zep1 kik1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "手言機" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "携帯電話", "ケータイ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 515,
+      "form" : "nui2 hue"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "学処" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "学校" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 516,
+      "form" : "nui2 mut2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "学家" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "学校" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 517,
+      "form" : "ian1 su1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "生銭" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "買う", "購入する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "買う対象は ian1 su1 ie ... または ian1 ... a su1 の形で表現する。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 518,
+      "form" : "ty sak2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "再来" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "戻る。帰る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 519,
+      "form" : "sau2 nui2 hue"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "上学処" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "大学" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 520,
+      "form" : "pek2 zep1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "牌語" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "パイグ語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
