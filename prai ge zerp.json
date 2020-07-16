@@ -10441,6 +10441,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 522,
+      "form" : "pua2 ho1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "風豊" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "非常に面白い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
