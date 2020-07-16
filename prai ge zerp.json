@@ -10457,6 +10457,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 523,
+      "form" : "nam2 su1 hue"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "開銭処" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "いちば", "市場", "屋台" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
