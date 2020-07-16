@@ -10422,6 +10422,25 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 521,
+      "form" : "tim1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "待" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "待つ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "titimu.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
