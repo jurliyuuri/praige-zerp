@@ -10482,6 +10482,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 524,
+      "form" : "kop1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "試" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "試す" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
