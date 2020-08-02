@@ -52,7 +52,7 @@ const get_audio_names =  (word: {
     });
 }
 
-const get_word = (dictionary: Dictionary, id: number) => {
+const get_word = (dictionary: Dictionary, id: number, image_getter: (l: string, precedence: string[], size: number, flag: boolean, path: string) => unknown) => {
     const [word] = dictionary.words.filter(a => a.entry.id === id);
 
     const word_form = `<div><div class="word_form">${word.entry.form}</div><div class="tags">${
@@ -67,11 +67,38 @@ const get_word = (dictionary: Dictionary, id: number) => {
     </audio></p>`
     ).join("");
 
-    const audio_and_translations = `<div class="word_infos">${audio + translations}</div>`;
+    const linzi_transcription = (() => {
+        const transcription_arr = word.translations.filter(t => t.title === "漢字転写");
+        if (transcription_arr.length == 0) { return ""; }
+        if (transcription_arr.length > 1) { alert("Warning: multiple hanzi transcription entries found in the word " + JSON.stringify(word.entry) +" . Only the first one will be converted.") }
+        const [ tr ] = transcription_arr;
+        
+        const ans = [];
+        for (const form of tr.forms) {
+            // convert all the chars to linzi
+            const all_converted = Array.prototype.map.call(
+                form, 
+                (l) => image_getter(l, ["SY", "jv", "jv touch panel", "SY pua2 man1", "noborder", "border"], 30, false, "http://jurliyuuri.com/lin-marn")
+            );
+
+            let res = "";
+            for (const linzi_html of all_converted) {
+                if (typeof linzi_html !== "string") {
+                    return "";
+                } else {
+                    res += linzi_html;
+                }
+            }
+            ans.push(res);
+        }
+        return `<p class="word_info"><span class="bordered_info">燐字表記</span>${ans.join("、")}</p>`;
+    })();
+
+    const audio_linzi_and_translations = `<div class="word_infos">${audio + linzi_transcription + translations}</div>`;
 
     const contents = word.contents.map(({title, text}) => '<div class="word_infos"><p class="word_info"><span class="nonbordered_info">'+title+'</span>'+text+'</p></div>').join("");
 
-    return `<div class="word">${word_form + audio_and_translations + contents}</div>`;
+    return `<div class="word">${word_form + audio_linzi_and_translations + contents}</div>`;
 }
 
 const encode_syllable = (str: string) => {
@@ -125,7 +152,7 @@ const encode_syllable = (str: string) => {
 
 const encode_word = (str: string) => str.split(" ").map(syl => encode_syllable(syl)).join(" ");
 
-const render = (dictionary: Dictionary) => {
+const render = (dictionary: Dictionary, image_getter: (l: string, precedence: string[], size: number, flag: boolean, path: string) => unknown) => {
     const urlParams = new URLSearchParams(window.location.search);
     const sortBy = urlParams.get('sortBy')?.toLowerCase();
 
@@ -151,5 +178,5 @@ const render = (dictionary: Dictionary) => {
             return encode_word(w_a.entry.form) === encode_word(w_b.entry.form) ? 0 : encode_word(w_a.entry.form) > encode_word(w_b.entry.form) ? 1 : -1;
         });
     }
-    document.getElementById("outer")!.innerHTML = ids.map(id => get_word(dictionary, id)).join("");
+    document.getElementById("outer")!.innerHTML = ids.map(id => get_word(dictionary, id, image_getter)).join("");
 }

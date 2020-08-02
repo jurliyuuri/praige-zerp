@@ -25,18 +25,46 @@ var get_audio_names = function (word) {
         }
     });
 };
-var get_word = function (dictionary, id) {
+var get_word = function (dictionary, id, image_getter) {
     var _a;
     var word = dictionary.words.filter(function (a) { return a.entry.id === id; })[0];
     var word_form = "<div><div class=\"word_form\">" + word.entry.form + "</div><div class=\"tags\">" + word.tags.map(function (a) { return '<span class="bordered_info">' + a + '</span>'; }).join("") + "</div></div>";
     var translations = word.translations.map(function (t) { return '<p class="word_info"><span class="bordered_info">' + t.title + '</span>' + t.forms.join(", ") + '</p>'; }).join("");
     var audio = (_a = get_audio_names(word)) === null || _a === void 0 ? void 0 : _a.map(function (name) { return "<p class=\"word_info\"><span class=\"bordered_info\">\u97F3\u58F0</span><audio controls><source src=\"../audio/" + name + ".mp3\" type=\"audio/mpeg\">\n    Your browser does not support the audio element.\n    </audio></p>"; }).join("");
-    var audio_and_translations = "<div class=\"word_infos\">" + (audio + translations) + "</div>";
+    var linzi_transcription = (function () {
+        var transcription_arr = word.translations.filter(function (t) { return t.title === "漢字転写"; });
+        if (transcription_arr.length == 0) {
+            return "";
+        }
+        if (transcription_arr.length > 1) {
+            alert("Warning: multiple hanzi transcription entries found in the word " + JSON.stringify(word.entry) + " . Only the first one will be converted.");
+        }
+        var tr = transcription_arr[0];
+        var ans = [];
+        for (var _i = 0, _a = tr.forms; _i < _a.length; _i++) {
+            var form = _a[_i];
+            // convert all the chars to linzi
+            var all_converted = Array.prototype.map.call(form, function (l) { return image_getter(l, ["SY", "jv", "jv touch panel", "SY pua2 man1", "noborder", "border"], 30, false, "http://jurliyuuri.com/lin-marn"); });
+            var res = "";
+            for (var _b = 0, all_converted_1 = all_converted; _b < all_converted_1.length; _b++) {
+                var linzi_html = all_converted_1[_b];
+                if (typeof linzi_html !== "string") {
+                    return "";
+                }
+                else {
+                    res += linzi_html;
+                }
+            }
+            ans.push(res);
+        }
+        return "<p class=\"word_info\"><span class=\"bordered_info\">\u71D0\u5B57\u8868\u8A18</span>" + ans.join("、") + "</p>";
+    })();
+    var audio_linzi_and_translations = "<div class=\"word_infos\">" + (audio + linzi_transcription + translations) + "</div>";
     var contents = word.contents.map(function (_a) {
         var title = _a.title, text = _a.text;
         return '<div class="word_infos"><p class="word_info"><span class="nonbordered_info">' + title + '</span>' + text + '</p></div>';
     }).join("");
-    return "<div class=\"word\">" + (word_form + audio_and_translations + contents) + "</div>";
+    return "<div class=\"word\">" + (word_form + audio_linzi_and_translations + contents) + "</div>";
 };
 var encode_syllable = function (str) {
     var match = str.match(/^([pbmcsxztdnlkgh]?)([aeiouy]+)([ptkmn]?)([12]?)$/);
@@ -81,7 +109,7 @@ var encode_syllable = function (str) {
     }[tone];
 };
 var encode_word = function (str) { return str.split(" ").map(function (syl) { return encode_syllable(syl); }).join(" "); };
-var render = function (dictionary) {
+var render = function (dictionary, image_getter) {
     var _a;
     var _b;
     var urlParams = new URLSearchParams(window.location.search);
@@ -110,5 +138,5 @@ var render = function (dictionary) {
             return encode_word(w_a.entry.form) === encode_word(w_b.entry.form) ? 0 : encode_word(w_a.entry.form) > encode_word(w_b.entry.form) ? 1 : -1;
         });
     }
-    document.getElementById("outer").innerHTML = ids.map(function (id) { return get_word(dictionary, id); }).join("");
+    document.getElementById("outer").innerHTML = ids.map(function (id) { return get_word(dictionary, id, image_getter); }).join("");
 };
