@@ -10680,6 +10680,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 536,
+      "form" : "cai1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "嗅" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
