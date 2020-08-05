@@ -10607,6 +10607,25 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 532,
+      "form" : "tei1 kaun1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "叮車" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "バス" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "teri.li の借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
