@@ -10642,6 +10642,25 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 534,
+      "form" : "tu2 gau2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "遊刀" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "おもちゃ", "玩具" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "リパライン語keluxylに「玩具、おもちゃ、(自分に対して効力を為さない武器)」とあるのと関係があるかもしれない。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
