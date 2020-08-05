@@ -10626,6 +10626,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 533,
+      "form" : "tei1 muo1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "叮止" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "バス停", "バス停留所" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
