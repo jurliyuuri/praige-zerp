@@ -10495,6 +10495,86 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 525,
+      "form" : "hok1 su1 hue"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "寝銭処" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "ホテル", "宿泊施設" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 526,
+      "form" : "iam1 su1 hue"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "口銭処" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "レストラン", "飯屋" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 527,
+      "form" : "y1 nui2 hue"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "官学処" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "公立学校" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 528,
+      "form" : "lok1 lia1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "笛琴" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "音楽" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 529,
+      "form" : "lo1 bum1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "煙鼓" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "通信" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
