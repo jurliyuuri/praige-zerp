@@ -10575,6 +10575,38 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 530,
+      "form" : "su1 la1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "銭軸" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "会社", "企業" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 531,
+      "form" : "su1 li1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "銭倉" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "銀行" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
