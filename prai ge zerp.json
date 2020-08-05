@@ -10661,6 +10661,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 535,
+      "form" : "zep1 ak1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "言集" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "辞書" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "言語名を前に取るときは、例えば pek2 zep1 zep1 ak1 でもよいが pek2 zep1 dat2 ak1 も言う。 pek2 zep1 dat2 ak1 のほうが総合的な記述がされる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
