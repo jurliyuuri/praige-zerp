@@ -10693,6 +10693,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 537,
+      "form" : "am zie1 su1 la1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "御広銭軸" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "広告代理店" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
