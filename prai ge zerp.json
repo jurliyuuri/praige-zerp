@@ -10731,6 +10731,35 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 539,
+      "form" : "ba2 ba2"
+    },
+    "translations" : [ {
+      "title" : "概念",
+      "forms" : [ "犬の鳴き声" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 540,
+      "form" : "ne2 ne2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "猫猫" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "猫の鳴き声" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
