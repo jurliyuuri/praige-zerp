@@ -4324,6 +4324,9 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "ngui2.ar"
+    }, {
+      "title" : "例文",
+      "text" : "ka1 kak mua2 mok1 ua mua2 guk2 mun1 gui2. （いま立ち去らないとタダではおかないぞ）"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -10707,6 +10710,25 @@
     } ],
     "tags" : [ ],
     "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 538,
+      "form" : "giau1 zuo1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "門片" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "ビザ", "査証" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "mok1 giau1 nin1 zuo1 の略。"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
