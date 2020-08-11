@@ -54,7 +54,7 @@ engine:
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba;
-  initials: zyxwvutsqponmlkjihgfedcba
+  initials: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
   algebra:
 
