@@ -21,6 +21,9 @@
     }, {
       "title" : "用法",
       "text" : "弱化してeに近くなることもある。"
+    }, {
+      "title" : "同根語",
+      "text" : "há.bt, á.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -82,7 +85,7 @@
       "text" : "pai2 aim2 a.　（私は居る。）"
     }, {
       "title" : "同根語",
-      "text" : "aima.ar, hemúḷ.bt"
+      "text" : "aima.ar, hemúḷ.bt, hem.bt"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -153,7 +156,7 @@
       "text" : "y1 ian1 iak1.　（政府は法律を作る。）\npai2 ian1 ta zui1.　（私は意見を出した。）"
     }, {
       "title" : "同根語",
-      "text" : "jani.ar, janúḷ.bt"
+      "text" : "jani.ar, janúḷ.bt, janáúḷ.bt"
     }, {
       "title" : "表記揺れ",
       "text" : "漢字転写「出」とも"
@@ -218,7 +221,7 @@
       "text" : "am zap2 am zep1.（偉大なる彼が仰せになった）"
     }, {
       "title" : "同根語",
-      "text" : "ami.ar"
+      "text" : "ami.ar, amúḷ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -392,7 +395,7 @@
       "text" : "huep2 hia1 dat2　（土地の心の集まり＝文化省）"
     }, {
       "title" : "同根語",
-      "text" : "dado.ar, dhárad.bt"
+      "text" : "dado.ar, dhárad.bt, dháradúḷ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -507,7 +510,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "raikqt.ln>aika.ar\nkád.bt"
+      "text" : "raikqt.ln>aika.ar\nkád.bt\nek.bt\nkádúḷ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -535,7 +538,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "phed.ln, bhát.bt, phedu.ar"
+      "text" : "phed.ln, bhát.bt, phedu.ar, bhátúḷ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -594,7 +597,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "srakkq.ln, cákíkúḷ.bt, sakika.ar, rakkúḷ.bt, sáka.bt, sakká.bt"
+      "text" : "srakkq.ln, cákíkúḷ.bt, sakika.ar, rakkúḷ.bt, sáka.bt, sakká.bt, cákíkaúḷ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -745,7 +748,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "ceyuu.ar, cajúḷ.bt"
+      "text" : "ceyuu.ar, cajúḷ.bt, cai.bt"
     }, {
       "title" : "表記揺れ",
       "text" : "「周」の異体字である「近」を使うこともある。なお、アイル語ではceyuu「周囲の；周辺の」に「周」を使い、ceixei「近い；近接した」に「近」を使う。\n"
@@ -798,7 +801,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "asuka.ar"
+      "text" : "asuka.ar, ásúka.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -918,7 +921,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "aimu.ar, ema.bt"
+      "text" : "aimu.ar, ema.bt, -aim.bt, -waim.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -975,7 +978,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "ngongau.ar"
+      "text" : "ngongau.ar, ghau.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -997,7 +1000,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "nguwa.ar"
+      "text" : "nguwa.ar, ghá.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1098,7 +1101,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "ohi.ar"
+      "text" : "ohi.ar, ohi.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1123,7 +1126,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "hiya2.ar, heyáúḷ.bt, híja.bt"
+      "text" : "hiya2.ar, heyáúḷ.bt, híja.bt, ha.bt, rijúḷ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1164,7 +1167,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "phobo.ar, bhoma.bt"
+      "text" : "phobo.ar, bhoma.bt, bhomúḷ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1183,7 +1186,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "falaa.ar"
+      "text" : "falaa.ar, wáḷa.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1549,7 +1552,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "kani.ar, gháni.bt"
+      "text" : "kani.ar, gháni.bt, ghánúḷ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1606,7 +1609,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "uki.ar"
+      "text" : "uki.ar, kí.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1679,7 +1682,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "kotu.ar"
+      "text" : "kotu.ar, koṭ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1698,7 +1701,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "uku.ar, ku.ar"
+      "text" : "uku.ar, ku.ar, k.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1802,7 +1805,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "leka.ar, legha.bt"
+      "text" : "leka.ar, legha.bt, leghúḷ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1859,7 +1862,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "amama.ar, amáma.bt"
+      "text" : "amama.ar, amáma.bt, amúḷ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2060,7 +2063,10 @@
       "forms" : [ "七" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ṣíka.bt"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2078,7 +2084,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "ninu.ar"
+      "text" : "ninu.ar, nín.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2092,7 +2098,10 @@
       "forms" : [ "八" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ṣánom.bt"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2110,7 +2119,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "nonu1.ar"
+      "text" : "nonu1.ar, non.bt, nonú.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2161,7 +2170,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "umi.ar"
+      "text" : "umi.ar, lom.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2214,7 +2223,7 @@
       "text" : "pua2 pek1 a.（風が強い。）"
     }, {
       "title" : "同根語",
-      "text" : "pura.ar, bhára.bt"
+      "text" : "pura.ar, bhára.bt, bháro.bt, bhárúḷ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2242,7 +2251,7 @@
       "text" : "et2 pui1 ka1 hia1.（最も大切なのは思うことだ。）"
     }, {
       "title" : "同根語",
-      "text" : "pwojei.ar"
+      "text" : "pwojei.ar, bhai.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2405,7 +2414,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "siusa.ar"
+      "text" : "siusa.ar, ṣúsa.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2465,7 +2474,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "asiu.ar"
+      "text" : "asiu.ar, asíjaúḷ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2582,7 +2591,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "taupwo.ar"
+      "text" : "taupwo.ar, daupha.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2618,7 +2627,10 @@
       "forms" : [ "自身" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "dína.bt"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2784,7 +2796,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "ewai.ar"
+      "text" : "ewai.ar, eyáúḷ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2798,7 +2810,10 @@
       "forms" : [ "五" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ṣán.bt"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2825,7 +2840,7 @@
       "text" : "ut2 kakで「未来」の意味になる。"
     }, {
       "title" : "同根語",
-      "text" : "utu.ar"
+      "text" : "utu.ar, rúṣ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3099,7 +3114,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "maka.ar"
+      "text" : "maka.ar, bágha.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3203,7 +3218,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "name.ar"
+      "text" : "name.ar, námúḷ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3522,7 +3537,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "kaika.ar"
+      "text" : "kaika.ar, kaikúḷ.bt, nauṇaghúḷ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3661,7 +3676,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "kitu.ar"
+      "text" : "kitu.ar, kit.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3692,7 +3707,7 @@
       "text" : "ka1 tua1 pok.（この果物は鮮やかだ。）\npai2 pok lek1 kok1.（私は絵を赤く塗った。）"
     }, {
       "title" : "同根語",
-      "text" : "pogo.ar"
+      "text" : "pogo.ar, bhog.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3717,7 +3732,7 @@
       "text" : "5ズーはおよそ8レジュで40円程度である。"
     }, {
       "title" : "同根語",
-      "text" : "su.ar, su.bt"
+      "text" : "su.ar, su.bt, suúḷ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3802,7 +3817,7 @@
       "text" : "固有名詞的に「アイル」のことを指すこともある。"
     }, {
       "title" : "同根語",
-      "text" : "airy.ln,aihei.ar"
+      "text" : "airy.ln, aihei.ar, ehai.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3821,7 +3836,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "bowa.ar"
+      "text" : "bowa.ar, bhoúḷ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3928,7 +3943,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "xoudo.ar"
+      "text" : "xoudo.ar, ṣot.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -4108,7 +4123,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "aipa.ar"
+      "text" : "aipa.ar, ephaúḷ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -4149,7 +4164,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "aumi.ar"
+      "text" : "aumi.ar, ammúḷ.bt, aumúḷ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -4447,7 +4462,10 @@
       "forms" : [ "通常" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "úrajúḷ.bt"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -4553,7 +4571,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "yuh^aa.ar"
+      "text" : "yuh^aa.ar, joraúḷ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -4591,7 +4609,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "akai.ar"
+      "text" : "akai.ar, ághi.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -4825,7 +4843,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "maqui.ar"
+      "text" : "maqui.ar, bákúḷ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5258,7 +5276,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "tata.ar"
+      "text" : "tata.ar, dat.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5432,7 +5450,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "xauau.ar"
+      "text" : "xauau.ar, ṣahúḷ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5479,7 +5497,7 @@
     "tags" : [ "机戦" ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "xiyu.ar"
+      "text" : "xiyu.ar, ṣíyáúḷ.bt"
     }, {
       "title" : "用法",
       "text" : "xy1 pia2で「部屋を片付ける」\nxy1 B bap Cで「BをCとみなす」"
@@ -5504,7 +5522,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "chade.ar"
+      "text" : "chade.ar, zádeúḷ.bt"
     }, {
       "title" : "発音",
       "text" : "tsat1, tɕat1"
@@ -5617,7 +5635,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "wuo.ar"
+      "text" : "wuo.ar, ho.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -6542,7 +6560,10 @@
       "forms" : [ "塩" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ghíyo.bt"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -6589,6 +6610,9 @@
     "contents" : [ {
       "title" : "表記揺れ",
       "text" : "tai1\ntai2"
+    }, {
+      "title" : "同根語",
+      "text" : "deja.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -6884,7 +6908,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "lodu.ar"
+      "text" : "lodu.ar, rodúḷ.bt"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -7410,7 +7434,10 @@
       "forms" : [ "武器" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ghau ja ghá.bt"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
