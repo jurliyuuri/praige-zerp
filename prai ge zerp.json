@@ -391,9 +391,6 @@
     } ],
     "tags" : [ "机戦" ],
     "contents" : [ {
-      "title" : "例文",
-      "text" : "huep2 hia1 dat2　（土地の心の集まり＝文化省）"
-    }, {
       "title" : "同根語",
       "text" : "dado.ar, dhárad.bt, dháradúḷ.bt"
     } ],
@@ -10819,6 +10816,87 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 546,
+      "form" : "huep2 hia1 dat2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "地心集" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "文化省" ]
+    } ],
+    "tags" : [ "省庁" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "アイル共和国の省庁の一つ。文化・教育・言語にまつわることをする。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 544,
+        "form" : "iak1 dat2"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 544,
+      "form" : "iak1 dat2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "律集" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "法律省" ]
+    } ],
+    "tags" : [ "省庁" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "アイル共和国の省庁の一つで、xy1 dat2（司法省）と対立する概念。立法と行政をする。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 546,
+        "form" : "huep2 hia1 dat2"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 545,
+        "form" : "kaik mok1 dat2"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 545,
+      "form" : "kaik mok1 dat2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "戦行集" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "兵部省" ]
+    } ],
+    "tags" : [ "省庁" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "アイル共和国の省庁の一つ。軍事行動・消防・自然災害対策などに関わる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 544,
+        "form" : "iak1 dat2"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
