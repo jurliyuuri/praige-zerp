@@ -10897,6 +10897,25 @@
         "form" : "iak1 dat2"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 543,
+      "form" : "kut2 bum1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "撃鼓" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "クッブーム詩" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "Oを母音終わり、Cを子音終わりとしたとき、\n\nO--C--C\nC--O--C\nO--C--C\nC--O--C\n\nか\n\nC--O--C\nO--C--C\nC--O--C\nO--C--C\n\nの形になる詩。アイル共和国国歌「冠光」などがこれ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
