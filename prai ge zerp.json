@@ -10916,6 +10916,44 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 547,
+      "form" : "let1 su1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "雪銭" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "レジュ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "ユエスレオネの通貨"
+    }, {
+      "title" : "同根語",
+      "text" : "ledz.li"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 548,
+      "form" : "syt2 tun2 sau2 nui2 hue"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "天神上学処" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "マカティ大学", "ズュットゥン大学", "天神大学" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
