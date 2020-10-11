@@ -78,7 +78,7 @@ const get_word = (dictionary: Dictionary, id: number, image_getter: (l: string, 
             // convert all the chars to linzi
             const all_converted = Array.prototype.map.call(
                 form, 
-                (l) => image_getter(l, ["SY", "jv", "jv touch panel", "SY pua2 man1", "noborder", "border"], 30, false, "http://jurliyuuri.com/lin-marn")
+                (l) => image_getter(l, ["SY", "meloviliju", "jv", "jv touch panel", "SY pua2 man1", "noborder", "border"], 30, false, "http://jurliyuuri.com/lin-marn")
             );
 
             let res = "";

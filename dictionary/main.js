@@ -44,7 +44,7 @@ var get_word = function (dictionary, id, image_getter) {
         for (var _i = 0, _a = tr.forms; _i < _a.length; _i++) {
             var form = _a[_i];
             // convert all the chars to linzi
-            var all_converted = Array.prototype.map.call(form, function (l) { return image_getter(l, ["SY", "jv", "jv touch panel", "SY pua2 man1", "noborder", "border"], 30, false, "http://jurliyuuri.com/lin-marn"); });
+            var all_converted = Array.prototype.map.call(form, function (l) { return image_getter(l, ["SY", "meloviliju", "jv", "jv touch panel", "SY pua2 man1", "noborder", "border"], 30, false, "http://jurliyuuri.com/lin-marn"); });
             var res = "";
             for (var _b = 0, all_converted_1 = all_converted; _b < all_converted_1.length; _b++) {
                 var linzi_html = all_converted_1[_b];
