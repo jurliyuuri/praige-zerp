@@ -11,7 +11,8 @@
 <body onload="fetch('http://jurliyuuri.com/praige-zerp/prai%20ge%20zerp.json').then(function(r){ return r.json() }, function(rej){alert('cannot obtain the dictionary: ' + rej)}).then(function(dictionnaire){render(dictionnaire, getImage_)})">
     <div class="outermost" >
         <div style="text-align: center; padding: 0 0 40px 0">
-            <img src="dictionary3.png" width="400">
+            <img src="dictionary3.png" width="400"><br>
+            <a href="index.html">標準的ソート</a> <a href="index.html?sortBy=ascii">ASCII順ソート</a> <a href="index.html?sortBy=id">ID順ソート</a>
         </div>
         <div class="outer" id="outer">
             ロード中………<br>
