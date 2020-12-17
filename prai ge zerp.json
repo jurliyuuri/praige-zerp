@@ -391,9 +391,6 @@
     } ],
     "tags" : [ "机戦" ],
     "contents" : [ {
-      "title" : "例文",
-      "text" : "huep2 hia1 dat2　（土地の心の集まり＝文化省）"
-    }, {
       "title" : "同根語",
       "text" : "dado.ar, dhárad.bt, dháradúḷ.bt"
     } ],
@@ -10798,6 +10795,160 @@
     }, {
       "title" : "概念",
       "forms" : [ "コップ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 542,
+      "form" : "siet1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "檸" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "リパライン語siertの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 546,
+      "form" : "huep2 hia1 dat2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "地心集" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "文化省" ]
+    } ],
+    "tags" : [ "省庁" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "アイル共和国の省庁の一つ。文化・教育・言語にまつわることをする。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 544,
+        "form" : "iak1 dat2"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 544,
+      "form" : "iak1 dat2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "律集" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "法律省" ]
+    } ],
+    "tags" : [ "省庁" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "アイル共和国の省庁の一つで、xy1 dat2（司法省）と対立する概念。立法と行政をする。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 546,
+        "form" : "huep2 hia1 dat2"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 545,
+        "form" : "kaik mok1 dat2"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 545,
+      "form" : "kaik mok1 dat2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "戦行集" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "兵部省" ]
+    } ],
+    "tags" : [ "省庁" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "アイル共和国の省庁の一つ。軍事行動・消防・自然災害対策などに関わる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 544,
+        "form" : "iak1 dat2"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 543,
+      "form" : "kut2 bum1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "撃鼓" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "クッブーム詩" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "Oを母音終わり、Cを子音終わりとしたとき、\n\nO--C--C\nC--O--C\nO--C--C\nC--O--C\n\nか\n\nC--O--C\nO--C--C\nC--O--C\nO--C--C\n\nの形になる詩。アイル共和国国歌「冠光」などがこれ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 547,
+      "form" : "let1 su1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "雪銭" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "レジュ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "ユエスレオネの通貨"
+    }, {
+      "title" : "同根語",
+      "text" : "ledz.li"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 548,
+      "form" : "syt2 tun2 sau2 nui2 hue"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "天神上学処" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "マカティ大学", "ズュットゥン大学", "天神大学" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
