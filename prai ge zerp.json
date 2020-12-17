@@ -10954,6 +10954,47 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 549,
+      "form" : "ap1 a tak1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "四之布" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "四之布", "アパータ", "アープアターク" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "ラネーメやヴェフィスの伝統的な衣服の一つ。袖のあるものを四之衣、ないものを二之衣と呼ぶ。その名の通り四之衣は四枚の布を繋ぎ、二之衣は二枚の布を繋いで作られる。素材は綿や麻が多い。"
+    }, {
+      "title" : "同根語",
+      "text" : "apart.li"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 550,
+      "form" : "ik2 a tak1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "二之衣" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "二之衣" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "ラネーメやヴェフィスの伝統的な衣服の一つ。袖のあるものを四之衣、ないものを二之衣と呼ぶ。その名の通り四之衣は四枚の布を繋ぎ、二之衣は二枚の布を繋いで作られる。素材は綿や麻が多い。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
