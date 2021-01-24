@@ -28,7 +28,8 @@ var get_audio_names = function (word) {
 var get_word = function (dictionary, id, image_getter) {
     var _a;
     var word = dictionary.words.filter(function (a) { return a.entry.id === id; })[0];
-    var word_form = "<div><div class=\"word_form\">" + word.entry.form + "</div><div class=\"tags\">" + word.tags.map(function (a) { return '<span class="bordered_info">' + a + '</span>'; }).join("") + "</div><a href=\"#id" + id + "_" + word.entry.form.split(" ").join("_") + "\" class=\"permalink\">\u00B6</a></div>";
+    var html_element_id = "id" + id + "_" + word.entry.form.split(" ").join("_");
+    var word_form = "<div><div class=\"word_form\">" + word.entry.form + "</div><div class=\"tags\">" + word.tags.map(function (a) { return '<span class="bordered_info">' + a + '</span>'; }).join("") + "</div><a id=\"permalink_" + html_element_id + "\" href=\"#" + html_element_id + "\" class=\"permalink\">\u00B6</a></div>";
     var translations = word.translations.map(function (t) { return '<p class="word_info"><span class="bordered_info">' + t.title + '</span>' + t.forms.join(", ") + '</p>'; }).join("");
     var audio = (_a = get_audio_names(word)) === null || _a === void 0 ? void 0 : _a.map(function (name) { return "<p class=\"word_info\"><span class=\"bordered_info\">\u97F3\u58F0</span><audio controls><source src=\"../audio/" + name + ".mp3\" type=\"audio/mpeg\">\n    Your browser does not support the audio element.\n    </audio></p>"; }).join("");
     var linzi_transcription = (function () {
@@ -64,7 +65,7 @@ var get_word = function (dictionary, id, image_getter) {
         var title = _a.title, text = _a.text;
         return '<div class="word_infos"><p class="word_info"><span class="nonbordered_info">' + title + '</span>' + text + '</p></div>';
     }).join("");
-    return "<div class=\"word\">" + (word_form + audio_linzi_and_translations + contents) + "</div>";
+    return "<div class=\"word\" id=\"" + html_element_id + "\" onmouseover=\"document.getElementById('permalink_" + html_element_id + "').style.visibility = 'visible'\" onmouseout=\"document.getElementById('permalink_" + html_element_id + "').style.visibility = 'hidden'\">" + (word_form + audio_linzi_and_translations + contents) + "</div>";
 };
 var encode_syllable = function (str) {
     var match = str.match(/^([pbmcsxztdnlkgh]?)([aeiouy]+)([ptkmn]?)([12]?)$/);

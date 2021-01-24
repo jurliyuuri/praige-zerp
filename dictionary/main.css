@@ -87,6 +87,7 @@ body {
   border-radius: 0.25em;
   background-color: #488d9e;
   text-decoration: none;
+  visibility: hidden;
 }
 
 /*# sourceMappingURL=main.css.map */

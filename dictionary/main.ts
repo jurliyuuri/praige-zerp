@@ -26,9 +26,9 @@ type Dictionary = {
     readonly snoj: string
 }
 
-const get_audio_names =  (word: {
-    entry: {id: number, form: string},
-    contents: {title: string, text: string}[]
+const get_audio_names = (word: {
+    entry: { id: number, form: string },
+    contents: { title: string, text: string }[]
 }) => {
     if (word.entry.form.indexOf(" ") !== -1) {
         return []; // no pronunciation info will be given
@@ -36,14 +36,14 @@ const get_audio_names =  (word: {
         return [word.entry.form];
     }
 
-    const pronunciation_info = word.contents.filter(({title}) => title === "発音");
+    const pronunciation_info = word.contents.filter(({ title }) => title === "発音");
     if (pronunciation_info.length === 0) {
         return [word.entry.form + "_tx"]; // defaults to tx
-    } 
-    
+    }
+
     return pronunciation_info[0].text.split(", ").map(pronunciation => {
         if (pronunciation.slice(0, 2) === "ts") {
-            return word.entry.form + "_tc"; 
+            return word.entry.form + "_tc";
         } else if (pronunciation.slice(0, 2) === "tɕ") {
             return word.entry.form + "_tx";
         } else {
@@ -55,9 +55,10 @@ const get_audio_names =  (word: {
 const get_word = (dictionary: Dictionary, id: number, image_getter: (l: string, precedence: string[], size: number, flag: boolean, path: string) => unknown) => {
     const [word] = dictionary.words.filter(a => a.entry.id === id);
 
-    const word_form = `<div><div class="word_form">${word.entry.form}</div><div class="tags">${
-        word.tags.map(a => '<span class="bordered_info">' + a + '</span>').join("")
-    }</div><a href="#id${id}_${word.entry.form.split(" ").join("_")}" class="permalink">¶</a></div>`;
+    const html_element_id = `id${id}_${word.entry.form.split(" ").join("_")}`;
+
+    const word_form = `<div><div class="word_form">${word.entry.form}</div><div class="tags">${word.tags.map(a => '<span class="bordered_info">' + a + '</span>').join("")
+        }</div><a id="permalink_${html_element_id}" href="#${html_element_id}" class="permalink">¶</a></div>`;
 
     const translations = word.translations.map(t => '<p class="word_info"><span class="bordered_info">' + t.title + '</span>' + t.forms.join(", ") + '</p>').join("");
 
@@ -70,14 +71,14 @@ const get_word = (dictionary: Dictionary, id: number, image_getter: (l: string, 
     const linzi_transcription = (() => {
         const transcription_arr = word.translations.filter(t => t.title === "漢字転写");
         if (transcription_arr.length == 0) { return ""; }
-        if (transcription_arr.length > 1) { alert("Warning: multiple hanzi transcription entries found in the word " + JSON.stringify(word.entry) +" . Only the first one will be converted.") }
-        const [ tr ] = transcription_arr;
-        
+        if (transcription_arr.length > 1) { alert("Warning: multiple hanzi transcription entries found in the word " + JSON.stringify(word.entry) + " . Only the first one will be converted.") }
+        const [tr] = transcription_arr;
+
         const ans = [];
         for (const form of tr.forms) {
             // convert all the chars to linzi
             const all_converted = Array.prototype.map.call(
-                form, 
+                form,
                 (l) => image_getter(l, ["SY", "meloviliju", "jv", "jv touch panel", "SY pua2 man1", "noborder", "border"], 30, false, "http://jurliyuuri.com/lin-marn")
             );
 
@@ -96,56 +97,56 @@ const get_word = (dictionary: Dictionary, id: number, image_getter: (l: string, 
 
     const audio_linzi_and_translations = `<div class="word_infos">${audio + linzi_transcription + translations}</div>`;
 
-    const contents = word.contents.map(({title, text}) => '<div class="word_infos"><p class="word_info"><span class="nonbordered_info">'+title+'</span>'+text+'</p></div>').join("");
+    const contents = word.contents.map(({ title, text }) => '<div class="word_infos"><p class="word_info"><span class="nonbordered_info">' + title + '</span>' + text + '</p></div>').join("");
 
-    return `<div class="word">${word_form + audio_linzi_and_translations + contents}</div>`;
+    return `<div class="word" id="${html_element_id}" onmouseover="document.getElementById('permalink_${html_element_id}').style.visibility = 'visible'" onmouseout="document.getElementById('permalink_${html_element_id}').style.visibility = 'hidden'">${word_form + audio_linzi_and_translations + contents}</div>`;
 }
 
 const encode_syllable = (str: string) => {
     const match = str.match(/^([pbmcsxztdnlkgh]?)([aeiouy]+)([ptkmn]?)([12]?)$/);
     if (match === null) {
-        alert("Warning: unexpected syllable `" + str +"` was encountered while sorting.");
+        alert("Warning: unexpected syllable `" + str + "` was encountered while sorting.");
         return "";
     }
     const [whole, init, vowel, coda, tone] = match;
 
-    const encoded_vowel = 
+    const encoded_vowel =
         vowel === "a" ? "00" :
-        vowel === "ia" ? "01" :
-        vowel === "ua" ? "02" :
-        vowel === "ai" ? "03" :
-        vowel === "uai" ? "04" :
-        vowel === "au" ? "05" :
-        vowel === "iau" ? "06" :
-        vowel === "uau" ? "07" :
-        vowel === "e" ? "10" :
-        vowel === "ie" ? "11" :
-        vowel === "ue" ? "12" :
-        vowel === "ei" ? "13" :
-        vowel === "iei" ? "14" :
-        vowel === "o" ? "15" :
-        vowel === "io" ? "16" :
-        vowel === "uo" ? "17" :
-        vowel === "i" ? "20" :
-        vowel === "ui" ? "21" :
-        vowel === "u" ? "30" :
-        vowel === "y" ? "31" : (() => {
-            alert("Warning: unexpected vowel `" + vowel + "` was encountered in the word `" + str + "` while sorting.");
-            return "99"
-        })();
+            vowel === "ia" ? "01" :
+                vowel === "ua" ? "02" :
+                    vowel === "ai" ? "03" :
+                        vowel === "uai" ? "04" :
+                            vowel === "au" ? "05" :
+                                vowel === "iau" ? "06" :
+                                    vowel === "uau" ? "07" :
+                                        vowel === "e" ? "10" :
+                                            vowel === "ie" ? "11" :
+                                                vowel === "ue" ? "12" :
+                                                    vowel === "ei" ? "13" :
+                                                        vowel === "iei" ? "14" :
+                                                            vowel === "o" ? "15" :
+                                                                vowel === "io" ? "16" :
+                                                                    vowel === "uo" ? "17" :
+                                                                        vowel === "i" ? "20" :
+                                                                            vowel === "ui" ? "21" :
+                                                                                vowel === "u" ? "30" :
+                                                                                    vowel === "y" ? "31" : (() => {
+                                                                                        alert("Warning: unexpected vowel `" + vowel + "` was encountered in the word `" + str + "` while sorting.");
+                                                                                        return "99"
+                                                                                    })();
 
     return {
         p: "00", b: "01", m: "02",
         c: "10", s: "11", x: "12", z: "13",
         t: "20", d: "21", n: "22", l: "23",
         k: "30", g: "31", h: "32", "": "33"
-    }[init as "p" | "b" | "m" 
-    | "c" | "s" | "x" | "z" 
+    }[init as "p" | "b" | "m"
+    | "c" | "s" | "x" | "z"
     | "t" | "d" | "n" | "l"
     | "k" | "g" | "h" | ""] + encoded_vowel + {
         "": "0", p: "1", t: "2",
         k: "3", m: "4", n: "5"
-    }[coda as "p" | "t" | "k" | "m" | "n" ] + {
+    }[coda as "p" | "t" | "k" | "m" | "n"] + {
         "": "0", "1": "1", "2": "2"
     }[tone as "" | "1" | "2"]
 }
