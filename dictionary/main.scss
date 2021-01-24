@@ -1,6 +1,7 @@
 $color1: adjust-hue(#b3804d, 170);
 $color2: adjust-hue(#f2e9e1, 170);
 $color3: adjust-hue(rgba(179,128,77,0.3), 170);
+$color4: #488d9e;
 
 .word:first-child {
     border-top: 1px $color1 solid;
@@ -75,4 +76,19 @@ body {
     width: calc(100% - 30px * 2);
     margin: 60px 30px 60px 30px;
     padding: 0px;
+}
+
+/* stolen from https://rust-lang.github.io/rust-clippy/master/index.html */
+.permalink {
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: center;
+    border-radius: .25em;
+    background-color: $color4;
+    text-decoration: none;
 }

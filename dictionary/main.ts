@@ -57,7 +57,7 @@ const get_word = (dictionary: Dictionary, id: number, image_getter: (l: string, 
 
     const word_form = `<div><div class="word_form">${word.entry.form}</div><div class="tags">${
         word.tags.map(a => '<span class="bordered_info">' + a + '</span>').join("")
-    }</div></div>`;
+    }</div><a href="#id${id}_${word.entry.form.split(" ").join("_")}" class="permalink">¶</a></div>`;
 
     const translations = word.translations.map(t => '<p class="word_info"><span class="bordered_info">' + t.title + '</span>' + t.forms.join(", ") + '</p>').join("");
 

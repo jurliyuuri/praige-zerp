@@ -74,4 +74,19 @@ body {
   padding: 0px;
 }
 
+/* stolen from https://rust-lang.github.io/rust-clippy/master/index.html */
+.permalink {
+  padding: 0.2em 0.6em 0.3em;
+  font-size: 75%;
+  font-weight: 700;
+  line-height: 1;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: center;
+  border-radius: 0.25em;
+  background-color: #488d9e;
+  text-decoration: none;
+}
+
 /*# sourceMappingURL=main.css.map */
