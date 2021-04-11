@@ -10995,6 +10995,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 551,
+      "form" : "puak1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "叫" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
