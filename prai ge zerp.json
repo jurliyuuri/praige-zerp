@@ -11008,6 +11008,25 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 552,
+      "form" : "mi2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "引" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "引っ張る" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "引く" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
