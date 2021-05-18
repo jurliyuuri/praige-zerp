@@ -1,10 +1,10 @@
 １　安裝法　How to install　インストール方法　
 
-下載「中州韻輸入法引擎」于 http://rime.im。安裝之，而複製三 .yaml 檔案（paige.schema、paige.dict、default.custom）於資料夾。
+下載「中州韻輸入法引擎」于 http://rime.im。安裝之，而複製二 .yaml 檔案（paige.schema.yaml、paige.dict.yaml）於資料夾。然后适当地将schema: paige添加到default.custom.yaml中。
 
-Download “Rime IME” from http://rime.im. Install it, then copy three .yaml files (paige.schema, paige.dict, default.custom) to the settings folder.
+Download “Rime IME” from http://rime.im. Install it, then copy two .yaml files (paige.schema.yaml, paige.dict.yaml) to the settings folder. Then add schema: paige to default.custom.yaml as appropriate.
 
-「中州韻輸入法引擎」を http://rime.im からダウンロードしてインストールしたのち，設定フォルダへ３つの .yaml ファイル（paige.schema、paige.dict、default.custom）をコピーしてください。
+「中州韻輸入法引擎」を http://rime.im からダウンロードしてインストールしたのち，設定フォルダへ２つの .yaml ファイル（paige.schema、paige.dict）をコピーしてください。そうしたら適宜 default.custom.yaml に schema: paige と書き足してください。
 
 *資料夾在　settings folder is at　設定フォルダの場所は
 (Mac) ~/Library/Rime
@@ -33,5 +33,9 @@ paiv→シフトキー＋エンターキー→pai²
 
 声調は，音節を入力したのち，「f」キーで平声，「v」キーで変声となります。
 
+４　逆引き
+
+qキーで，漢語拼音からの逆引きをおこなうことができます。
+設定次第で，他の入力方式からの逆引きも可能です。
 
 

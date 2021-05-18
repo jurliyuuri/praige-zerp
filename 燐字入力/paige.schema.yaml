@@ -4,7 +4,7 @@
 schema:
   schema_id: paige
   name: 牌語
-  version: “2020.02.07”
+  version: “2021.05.19”
   author:
     - sosobotpi <@sosobotpi.twitter.com>
 
@@ -58,8 +58,8 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcba;
-  initials: zyxwvutsqponmlkjihgfedcba
+  alphabet: zyxwvutsrponmlkjihgfedcba;
+  initials: zyxwvutsponmlkjihgfedcba
   delimiter: " '"
   algebra:
 
@@ -73,3 +73,21 @@ recognizer:
   import_preset: default
   patterns:
     reverse_lookup: "`[a-z]*'?$"
+
+reverse_lookup:
+  dictionary: luna_pinyin
+  prefix: "q"
+  suffix: "'"
+  tips: 〔汉语拼音〕
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+  comment_format:
+    - xform f ¹
+    - xform v ²
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "q[a-z]*'?$"

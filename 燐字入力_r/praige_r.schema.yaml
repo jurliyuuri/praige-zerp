@@ -4,7 +4,7 @@
 schema:
   schema_id: praige_r
   name: 牌語r
-  version: “2020.07.12”
+  version: “2021.05.19”
   author:
     - sosobotpi <@sosobotpi.twitter.com>
 
@@ -53,8 +53,8 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcba;
-  initials: zyxwvutsrqponmlkjihgfedcba
+  alphabet: zyxwvutsrponmlkjihgfedcba;
+  initials: zyxwvutsrponmlkjihgfedcba
   delimiter: " '"
   algebra:
 
@@ -64,7 +64,17 @@ punctuator:
 key_binder:
   import_preset: default
 
+reverse_lookup:
+  dictionary: luna_pinyin
+  prefix: "q"
+  suffix: "'"
+  tips: 〔汉语拼音〕
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+
 recognizer:
   import_preset: default
   patterns:
-    reverse_lookup: "`[a-z]*'?$"
+    reverse_lookup: "q[a-z]*'?$"
