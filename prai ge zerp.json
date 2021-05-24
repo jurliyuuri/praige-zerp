@@ -11027,6 +11027,41 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 553,
+      "form" : "kua2 su1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "筆銭" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "簿記" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 554,
+      "form" : "liok1 aik2 sy2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "白光石" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "ダイアモンド", "ダイヤモンド", "金剛石" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "flanukafio.li < flan lut kafi'a の翻訳借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
