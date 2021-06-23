@@ -178,7 +178,7 @@ const encode_syllable_traditional2 = (str: string) => {
     }[init as "p" | "b" | "m"
     | "c" | "s" | "x" | "z"
     | "t" | "d" | "n" | "l"
-    | "k" | "g" | "h" | ""] + encoded_vowel_and_coda + {
+    | "k" | "g" | "h" | ""] + `${100 + encoded_vowel_and_coda}` + {
         "": "0", "1": "1", "2": "2"
     }[tone as "" | "1" | "2"]
 }
