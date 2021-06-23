@@ -109,7 +109,33 @@ var encode_syllable = function (str) {
         "": "0", "1": "1", "2": "2"
     }[tone];
 };
+var encode_syllable_traditional2 = function (str) {
+    var match = str.match(/^([pbmcsxztdnlkgh]?)([aeiouy]+[ptkmn]?)([12]?)$/);
+    if (match === null) {
+        alert("Warning: unexpected syllable `" + str + "` was encountered while sorting.");
+        return "";
+    }
+    var whole = match[0], init = match[1], vowel_and_coda = match[2], tone = match[3];
+    var encoded_vowel_and_coda = ["a", "ia", "ua", "ai", "uai", "au", "iau", "uau",
+        "e", "ie", "ue", "ei", "iei", "o", "io", "uo", "i", "ui", "u", "y", "ap", "iap",
+        "uap", "aip", "uaip", "aup", "ep", "iep", "uep", "op", "iop", "uop", "ip", "uip",
+        "up", "yp", "at", "iat", "uat", "ait", "uait", "aut", "et", "iet", "uet", "ot",
+        "iot", "uot", "it", "uit", "ut", "yt", "ak", "iak", "uak", "aik", "uaik", "auk",
+        "ek", "iek", "uek", "ok", "iok", "uok", "ik", "uik", "uk", "yk", "am", "iam",
+        "uam", "aim", "aum", "em", "iem", "uem", "om", "iom", "im", "um", "ym", "an",
+        "ian", "uan", "ain", "aun", "en", "ien", "uen", "on", "ion", "in", "un", "yn"
+    ].indexOf(vowel_and_coda);
+    return {
+        p: "00", b: "01", m: "02",
+        c: "10", s: "11", x: "12", z: "13",
+        t: "20", d: "21", n: "22", l: "23",
+        k: "30", g: "31", h: "32", "": "33"
+    }[init] + ("" + (100 + encoded_vowel_and_coda)) + {
+        "": "0", "1": "1", "2": "2"
+    }[tone];
+};
 var encode_word = function (str) { return str.split(" ").map(function (syl) { return encode_syllable(syl); }).join(" "); };
+var encode_word_traditional2 = function (str) { return str.split(" ").map(function (syl) { return encode_syllable_traditional2(syl); }).join(" "); };
 var render = function (dictionary, image_getter) {
     var _a;
     var _b;
@@ -130,6 +156,13 @@ var render = function (dictionary, image_getter) {
             var w_a = dictionary.words.filter(function (k) { return k.entry.id === a; })[0];
             var w_b = dictionary.words.filter(function (k) { return k.entry.id === b; })[0];
             return w_a.entry.form === w_b.entry.form ? 0 : w_a.entry.form > w_b.entry.form ? 1 : -1;
+        });
+    }
+    else if (sortBy === "traditional2") {
+        ids = ids.sort(function (a, b) {
+            var w_a = dictionary.words.filter(function (k) { return k.entry.id === a; })[0];
+            var w_b = dictionary.words.filter(function (k) { return k.entry.id === b; })[0];
+            return encode_word_traditional2(w_a.entry.form) === encode_word_traditional2(w_b.entry.form) ? 0 : encode_word_traditional2(w_a.entry.form) > encode_word_traditional2(w_b.entry.form) ? 1 : -1;
         });
     }
     else {

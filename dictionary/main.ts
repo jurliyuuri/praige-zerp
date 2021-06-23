@@ -151,7 +151,40 @@ const encode_syllable = (str: string) => {
     }[tone as "" | "1" | "2"]
 }
 
+const encode_syllable_traditional2 = (str: string) => {
+    const match = str.match(/^([pbmcsxztdnlkgh]?)([aeiouy]+[ptkmn]?)([12]?)$/);
+    if (match === null) {
+        alert("Warning: unexpected syllable `" + str + "` was encountered while sorting.");
+        return "";
+    }
+    const [whole, init, vowel_and_coda, tone] = match;
+
+    const encoded_vowel_and_coda = ["a", "ia", "ua", "ai", "uai", "au", "iau", "uau",
+        "e", "ie", "ue", "ei", "iei", "o", "io", "uo", "i", "ui", "u", "y", "ap", "iap",
+        "uap", "aip", "uaip", "aup", "ep", "iep", "uep", "op", "iop", "uop", "ip", "uip",
+        "up", "yp", "at", "iat", "uat", "ait", "uait", "aut", "et", "iet", "uet", "ot",
+        "iot", "uot", "it", "uit", "ut", "yt", "ak", "iak", "uak", "aik", "uaik", "auk",
+        "ek", "iek", "uek", "ok", "iok", "uok", "ik", "uik", "uk", "yk", "am", "iam",
+        "uam", "aim", "aum", "em", "iem", "uem", "om", "iom", "im", "um", "ym", "an",
+        "ian", "uan", "ain", "aun", "en", "ien", "uen", "on", "ion", "in", "un", "yn"
+    ].indexOf(vowel_and_coda);
+
+
+    return {
+        p: "00", b: "01", m: "02",
+        c: "10", s: "11", x: "12", z: "13",
+        t: "20", d: "21", n: "22", l: "23",
+        k: "30", g: "31", h: "32", "": "33"
+    }[init as "p" | "b" | "m"
+    | "c" | "s" | "x" | "z"
+    | "t" | "d" | "n" | "l"
+    | "k" | "g" | "h" | ""] + `${100 + encoded_vowel_and_coda}` + {
+        "": "0", "1": "1", "2": "2"
+    }[tone as "" | "1" | "2"]
+}
+
 const encode_word = (str: string) => str.split(" ").map(syl => encode_syllable(syl)).join(" ");
+const encode_word_traditional2 = (str: string) => str.split(" ").map(syl => encode_syllable_traditional2(syl)).join(" ");
 
 const render = (dictionary: Dictionary, image_getter: (l: string, precedence: string[], size: number, flag: boolean, path: string) => unknown) => {
     const urlParams = new URLSearchParams(window.location.search);
@@ -172,6 +205,12 @@ const render = (dictionary: Dictionary, image_getter: (l: string, precedence: st
             const [w_b] = dictionary.words.filter(k => k.entry.id === b);
             return w_a.entry.form === w_b.entry.form ? 0 : w_a.entry.form > w_b.entry.form ? 1 : -1;
         })
+    } else if (sortBy === "traditional2") {
+        ids = ids.sort((a, b) => {
+            const [w_a] = dictionary.words.filter(k => k.entry.id === a);
+            const [w_b] = dictionary.words.filter(k => k.entry.id === b);
+            return encode_word_traditional2(w_a.entry.form) === encode_word_traditional2(w_b.entry.form) ? 0 : encode_word_traditional2(w_a.entry.form) > encode_word_traditional2(w_b.entry.form) ? 1 : -1;
+        });
     } else {
         ids = ids.sort((a, b) => {
             const [w_a] = dictionary.words.filter(k => k.entry.id === a);
