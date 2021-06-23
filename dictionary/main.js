@@ -130,7 +130,7 @@ var encode_syllable_traditional2 = function (str) {
         c: "10", s: "11", x: "12", z: "13",
         t: "20", d: "21", n: "22", l: "23",
         k: "30", g: "31", h: "32", "": "33"
-    }[init] + encoded_vowel_and_coda + {
+    }[init] + ("" + (100 + encoded_vowel_and_coda)) + {
         "": "0", "1": "1", "2": "2"
     }[tone];
 };
