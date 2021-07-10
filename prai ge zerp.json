@@ -10761,6 +10761,9 @@
       "form" : "ba2 ba2"
     },
     "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "汪汪" ]
+    }, {
       "title" : "概念",
       "forms" : [ "犬の鳴き声" ]
     } ],
