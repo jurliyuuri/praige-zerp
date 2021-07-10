@@ -217,7 +217,8 @@ use_preset_vocabulary: true
 散	cof
 席	cyv
 深	dautf
-門	giauf
+門	giauf	99%
+門	giau	1%
 傷	guiv
 認	hiof
 棚	hyv
@@ -369,3 +370,5 @@ use_preset_vocabulary: true
 叫	puakf
 決	huapf
 引	miv
+訴	uf
+訴門	uf giau

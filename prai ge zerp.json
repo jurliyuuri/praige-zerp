@@ -11062,6 +11062,44 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 555,
+      "form" : "u1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "訴" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "文句を言う", "説き伏せる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 556,
+      "form" : "u1 giau"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "訴門" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "あまりにも～すぎる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "形容詞の後に用いる。giau1ではなくgiauと読むことに注意。"
+    }, {
+      "title" : "例文",
+      "text" : "ka1 ak1 pek1 u1 giau.　（この本は難しすぎる。）\nka1 ak1 pek1 ie pai2 u1 giau.　（この本は私には難しすぎる。）"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",

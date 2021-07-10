@@ -220,7 +220,8 @@ use_preset_vocabulary: true
 散	cor
 席	cry
 深	darut
-門	giaru
+門	giaru	99%
+門	giau	1%
 傷	grui
 認	hior
 棚	hry
@@ -374,3 +375,5 @@ use_preset_vocabulary: true
 叫	puark
 決	huarp
 引	mri
+訴	ur
+訴門	ur giau
