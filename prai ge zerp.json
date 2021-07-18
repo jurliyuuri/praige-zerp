@@ -11103,6 +11103,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 557,
+      "form" : "o"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "哦" ]
+    }, {
+      "title" : "叫詞",
+      "forms" : [ "感動を伴う驚き" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "間投詞 [oː] の発音は【平】[ou˥] と異なる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
