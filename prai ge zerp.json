@@ -11122,6 +11122,31 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 558,
+      "form" : "baik"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "遅" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "進みののろいこと。" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "遅い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "例文",
+      "text" : "止まっている人や一定速度で動いている人から見て、非常に素早く動くものは時間が遅れ長さが縮んでいく。\ncan2 sak2 muo1 cuk2 at ie ket bap sam1 mak2 mok1 a cuk2 hem kit kit sam1 mok1 a ku a kak baik mok1 at ua ka1 ku a auk2 mak2 ni1 mok1.\n[[識来V[[止人N]加NP-CONJ[於常同急値行之人N]NP]VP]即VP-CONJ[極極急行之物之時NP][遅行VP]加而CONJ[此物之長値NP][小行VP]VP]\n識来(止人 加 於(常同 急値)-行-之-人) 即 [極極-急行-之-物-之-時] 遅行 加而 [此-物-之-長値] 小行。"
+    }, {
+      "title" : "同根語",
+      "text" : "baihaiu.ar, bháheúḷ.bt"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
