@@ -11147,6 +11147,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 559,
+      "form" : "xek1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "榎" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "木の名前の一" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "木の名前の一" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",

@@ -10,7 +10,7 @@
 
 ---
 name: praige_r
-version: “2021.08.02”
+version: “2021.08.16”
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -380,3 +380,4 @@ use_preset_vocabulary: true
 汪	bra
 哦	o
 遅	baik
+榎	xerk
