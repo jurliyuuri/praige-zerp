@@ -10,7 +10,7 @@
 
 ---
 name: paige
-version: “2021.08.16”
+version: “2021.08.22”
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -296,7 +296,6 @@ use_preset_vocabulary: true
 函	buf
 輝	aikv
 累	xomf
-岩	syv
 禦	am
 立	lo
 麗	hemf

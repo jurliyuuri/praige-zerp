@@ -10,7 +10,7 @@
 
 ---
 name: praige_r
-version: “2021.08.16”
+version: “2021.08.22”
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -301,7 +301,6 @@ use_preset_vocabulary: true
 函	bur
 輝	raik
 累	xorm
-岩	sry
 禦	am
 立	lo
 麗	herm
