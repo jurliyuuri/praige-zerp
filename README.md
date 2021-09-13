@@ -8,5 +8,5 @@
 - [<span lang="ja">「パイグ語・古パイグ・燐字などについて考察する」</span>](http://jurliyuuri.com/praige-zerp/siar_prek.html)
 - [<span lang="ja">「パイグ語豆覆方言考察ログ」</span>](http://jurliyuuri.com/praige-zerp/kuort_kor.html)
 - [<span lang="ja">自動で最新になる辞書</span>](http://jurliyuuri.com/praige-zerp/dictionary/)
-- [Spoonfed Pekzep / <span lang="zh-CN">填鸭式牌语</span>](http://jurliyuuri.com/spoonfed_pekzep/index.html) - <span lang="ja">英語と中国語対訳付きパイグ語教材（例文集）</span>
+- [Spoonfed Pekzep / <span lang="zh-CN">轻松牌语</span>](http://jurliyuuri.com/spoonfed_pekzep/index.html) - <span lang="ja">英語と中国語対訳付きパイグ語教材（例文集）</span>
 - [<span lang="ja">燐字とパイグ語の単語帳 2020年12月5日更新</span>](http://jurliyuuri.com/praige-zerp/anki/cuop2_at_man1_2020_12_05.apkg)
