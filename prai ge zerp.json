@@ -11169,6 +11169,25 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 560,
+      "form" : "puak1 ik2 man1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "叫二字" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "叫二字（パイグ語の発音現象）" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "声調のない語の後に1声が後続し、声調のない語が1声の語に対し優位性を持つような二字の句が単独で発話された時に現れる、あたかも声調が逆転したように「高い0声のあとに低い1声」として発音される現象。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
