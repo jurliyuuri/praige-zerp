@@ -7165,6 +7165,9 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
+      "title" : "例文",
+      "text" : "ie pai2 non1 pua2 aim2.　(私は風邪を引いている。)\nguk2 non1 pua2　(風邪を引く)\ntui2 non1 pua2　(風邪をうつす)"
+    }, {
       "title" : "同根語",
       "text" : "bháro.bt"
     } ],
@@ -11186,6 +11189,102 @@
       "title" : "用法",
       "text" : "声調のない語の後に1声が後続し、声調のない語が1声の語に対し優位性を持つような二字の句が単独で発話された時に現れる、あたかも声調が逆転したように「高い0声のあとに低い1声」として発音される現象。"
     } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 561,
+      "form" : "iam1 uo1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "口件" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "食事・飲食・食べるという行動" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 562,
+      "form" : "iam1 ku"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "口物" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "食事・食物・食料" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 563,
+      "form" : "iam1 sit1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "口術" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "食べ方・食事マナー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 564,
+      "form" : "iam1 po1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "口道" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "食習慣" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 565,
+      "form" : "niek1 hia1 nin1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "連心紙" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "手紙" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 566,
+      "form" : "niek1 hia1 ak1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "連心書" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "手紙" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
