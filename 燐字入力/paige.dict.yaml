@@ -10,7 +10,7 @@
 
 ---
 name: paige
-version: “2021.08.22”
+version: “2022.02.16”
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -376,3 +376,6 @@ use_preset_vocabulary: true
 遅	baik
 榎	xekf
 玄	huokv
+巻	zev
+針	tipf
+釘	kypf

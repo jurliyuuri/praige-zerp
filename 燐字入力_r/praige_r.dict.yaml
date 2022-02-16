@@ -10,7 +10,7 @@
 
 ---
 name: praige_r
-version: “2021.08.22”
+version: “2022.02.16”
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -381,3 +381,6 @@ use_preset_vocabulary: true
 遅	baik
 榎	xerk
 玄	hruok
+巻	zre
+針	tirp
+釘	kyrp

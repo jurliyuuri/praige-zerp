@@ -11287,6 +11287,72 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 567,
+      "form" : "ze2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "巻" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "巻物、巻かれたもの" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "巻く、回す、ねじる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "例文",
+      "text" : "ze2 cei2　（回転）"
+    }, {
+      "title" : "用法",
+      "text" : "「周囲を回る」cei2に対して、ze2は「その場での回転」を表す。"
+    }, {
+      "title" : "同根語",
+      "text" : "アイル語　cee.ar\nバート語　zeúḷ.bt"
+    }, {
+      "title" : "発音",
+      "text" : "tse2"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 568,
+      "form" : "tip1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "針" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "針" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 569,
+      "form" : "kyp1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "釘" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "釘" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "kut2+tip1 > kuip1 >"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
