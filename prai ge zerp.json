@@ -8177,7 +8177,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "latacet < pmcp"
+      "text" : "latacet.pmcp"
     }, {
       "title" : "文化",
       "text" : "dat2には政府の省のような公的性の高いものを表すニュアンスがあるため、民間性の高い団体を表す表現として東島通商語から翻訳借用されてきた表現。"
@@ -11350,6 +11350,38 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "kut2+tip1 > kuip1 >"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 570,
+      "form" : "mun1 huai2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "妙" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 571,
+      "form" : "xon1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "妙" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "mun1 huai2 を置き換える形で定着し始めている。"
+    }, {
+      "title" : "同根語",
+      "text" : "xon.pmcp"
     } ],
     "variations" : [ ],
     "relations" : [ ]
