@@ -10,7 +10,7 @@
 
 ---
 name: paige
-version: “2022.02.16”
+version: “2022.08.19”
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -380,3 +380,4 @@ use_preset_vocabulary: true
 針	tipf
 釘	kypf
 妙	xonf
+癒	sepv

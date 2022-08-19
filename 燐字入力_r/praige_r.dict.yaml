@@ -10,7 +10,7 @@
 
 ---
 name: praige_r
-version: “2022.02.16”
+version: “2022.08.19”
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -385,3 +385,4 @@ use_preset_vocabulary: true
 針	tirp
 釘	kyrp
 妙	xorn
+癒	srep
