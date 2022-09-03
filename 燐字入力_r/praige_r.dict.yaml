@@ -10,7 +10,7 @@
 
 ---
 name: praige_r
-version: “2022.08.19”
+version: “2022.09.03”
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -386,3 +386,6 @@ use_preset_vocabulary: true
 釘	kyrp
 妙	xorn
 癒	srep
+嗚	a
+順	puir
+順	puri

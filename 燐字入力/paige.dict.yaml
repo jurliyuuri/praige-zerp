@@ -10,7 +10,7 @@
 
 ---
 name: paige
-version: “2022.08.19”
+version: “2022.09.03”
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -381,3 +381,5 @@ use_preset_vocabulary: true
 釘	kypf
 妙	xonf
 癒	sepv
+順	puif
+嗚	a
