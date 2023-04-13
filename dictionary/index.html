@@ -7,6 +7,23 @@
     <script src="http://jurliyuuri.com/lin-marn/image_table/get_image.js"></script>
     <script src="main.js"></script>
     <link href="main.css" type="text/css" rel="stylesheet">
+    <script>
+        function updateURLSearchParamsFromForm() {
+            let filter = document.getElementById("filter").value;
+            let query_text = document.getElementById("query_text").value;
+            let criterion = document.getElementById("criterion").value;
+            let parts_of_speech = Array.from(document.querySelectorAll("input[type='checkbox']"), a => a.id);
+
+            const params1 = new URLSearchParams([
+                ["filter", filter],
+                ["query_text", query_text],
+                ["criterion", criterion],
+                ["parts_of_speech", parts_of_speech.join()]
+            ]);
+
+            document.location.search = params1.toString();
+        }
+    </script>
 </head>
 <body onload="fetch('http:/'+'/jurliyuuri.com/praige-zerp/prai%20ge%20zerp.json').then(function(r){ return r.json() }, function(rej){alert('cannot obtain the dictionary: ' + rej)}).then(function(dictionnaire){render(dictionnaire, getImage_)})">
     <div class="outermost" >
@@ -21,14 +38,14 @@
         <div style="text-align: center; padding: 0 0 20px 0">困ったときは<a href="http://jurliyuuri.github.io/spoonfed_pekzep/index.html">Spoonfed Pekzep</a>の<a href="https://github.com/jurliyuuri/spoonfed_pekzep/blob/master/docs/raw.tsv">raw.tsv</a>も検索しましょう。</div>
         <div id="credit" style="font-size: 9px; width: 100%; max-width: 800px; margin: 0px auto; padding: 10px">このサイトのスタイルシートは<a href="http://twitter.com/ziphil">Ziphil</a>さんの<a href="http://zpdic.ziphil.com/">ZpDIC Online</a>を大いに参考にしており、その旨は<a href="https://twitter.com/Ziphil/status/1368348211119722497">本人からの明示的許可</a>をいただいております。</div>
         <div style="width: 100%; max-width: 800px; margin: 0px auto 10px auto; padding: 10px; border-radius: 10px; background-color: #bbe1f1">
-            <ul>
+            <ul style="margin-block-start: 0.3em">
                 <li>
                     <select id="filter" style="font-family: inherit; font-size: inherit;">
                         <option value="transcription">漢字転写が</option>
                         <option value="word">単語が</option>
                         <option value="translation">訳語が</option>
                         <option value="explanation">補足説明が</option>
-                      </select> <input type="text" style="font-family: inherit; font-size: inherit;"><select id="criterion" style="font-family: inherit; font-size: inherit;">
+                      </select><input id="query_text" type="text" style="font-family: inherit; font-size: inherit;"><select id="criterion" style="font-family: inherit; font-size: inherit;">
                           <option value="contains">を含む</option>
                           <option value="matches">という正規表現にマッチする</option>
                         </select>
@@ -44,7 +61,7 @@
                     のどれか
                 </li>
             </ul>
-            <button style="font-family: inherit; font-size: inherit;">絞り込む</button>
+            <button style="font-family: inherit; font-size: inherit;" onclick="updateURLSearchParamsFromForm()">絞り込む</button>
         </div>
         <div class="outer" id="outer">
             ロード中………<br>
