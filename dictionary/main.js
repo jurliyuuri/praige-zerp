@@ -163,6 +163,7 @@ const render = (dictionary, image_getter, filter) => {
             return encode_word(w_a.entry.form) === encode_word(w_b.entry.form) ? 0 : encode_word(w_a.entry.form) > encode_word(w_b.entry.form) ? 1 : -1;
         });
     }
+    document.getElementById("counting").innerHTML = ids.length ? `${ids.length} 件見つかりました。` : `条件を満たすものがありません。`;
     document.getElementById("outer").innerHTML = ids.map(id => get_word(dictionary, id, image_getter)).join("");
 };
 function getFilterFuncFromForm() {
@@ -200,6 +201,7 @@ function getFilterFuncFromForm() {
         }
         throw new Error("Internal error: Cannot handle " + JSON.stringify({ filter_kind, query_text, criterion }));
     };
+    const POS_is_specified = document.getElementById("POS_specified").checked;
     const query_POS = Array.from(document.querySelectorAll("ul#parts_of_speech input[type='checkbox']"))
         .filter(a => a.checked).map(a => a.id);
     console.log({ query_POS });
@@ -224,5 +226,12 @@ function getFilterFuncFromForm() {
         });
         return query_POS.some(pos => word_POS_list.includes(pos));
     };
-    return (word) => test_querytext_condition(word) && test_POS_condition(word);
+    return (word) => {
+        if (!test_querytext_condition(word))
+            return false;
+        if (POS_is_specified) {
+            return test_POS_condition(word);
+        }
+        return true;
+    };
 }

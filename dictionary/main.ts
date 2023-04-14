@@ -220,6 +220,7 @@ const render = (dictionary: Dictionary, image_getter: (l: string, precedence: st
             return encode_word(w_a.entry.form) === encode_word(w_b.entry.form) ? 0 : encode_word(w_a.entry.form) > encode_word(w_b.entry.form) ? 1 : -1;
         });
     }
+    document.getElementById("counting")!.innerHTML = ids.length ? `${ids.length} 件見つかりました。` : `条件を満たすものがありません。`;
     document.getElementById("outer")!.innerHTML = ids.map(id => get_word(dictionary, id, image_getter)).join("");
 }
 
@@ -254,6 +255,7 @@ function getFilterFuncFromForm(): (word: Word) => boolean {
         throw new Error("Internal error: Cannot handle " + JSON.stringify({ filter_kind, query_text, criterion }));
     }
 
+    const POS_is_specified = (document.getElementById("POS_specified") as HTMLInputElement).checked;
     const query_POS = Array.from(document.querySelectorAll("ul#parts_of_speech input[type='checkbox']"))
         .filter(a => (a as HTMLInputElement).checked).map(a => a.id) as ("noun" | "verb" | "prenominal" | "interjection" | "conjunction")[];
     console.log({ query_POS });
@@ -269,5 +271,9 @@ function getFilterFuncFromForm(): (word: Word) => boolean {
         });
         return query_POS.some(pos => word_POS_list.includes(pos));
     }
-    return (word: Word) => test_querytext_condition(word) && test_POS_condition(word);
+    return (word: Word) => {
+        if (!test_querytext_condition(word)) return false;
+        if (POS_is_specified) { return test_POS_condition(word); }
+        return true;
+    };
 }

@@ -40,19 +40,27 @@
                           <option value="matches">という正規表現に部分マッチする</option>
                         </select>
                 </li>
-                <li>品詞が
-                    <ul id="parts_of_speech">
-                        <li><input checked type="checkbox" id="noun"><label for="noun">名詞</label></li>
-                        <li><input checked type="checkbox" id="verb"><label for="verb">動詞</label></li>
-                        <li><input checked type="checkbox" id="prenominal"><label for="prenominal">定詞</label></li>
-                        <li><input checked type="checkbox" id="interjection"><label for="interjection">叫詞</label></li>
-                        <li><input checked type="checkbox" id="conjunction"><label for="conjunction">約詞</label></li>
+                <li>品詞
+                    <ul>
+                        <li>
+                            <input type="radio" name="whether_POS" id="POS_unspecified" checked><label for="POS_unspecified">指定なし</label>
+                        </li>
+                        <li>
+                            <input type="radio" name="whether_POS" id="POS_specified"><label for="POS_specified">指定あり</label>
+                            <ul id="parts_of_speech">
+                                <li><input checked type="checkbox" id="noun"><label for="noun">名詞</label></li>
+                                <li><input checked type="checkbox" id="verb"><label for="verb">動詞</label></li>
+                                <li><input checked type="checkbox" id="prenominal"><label for="prenominal">定詞</label></li>
+                                <li><input checked type="checkbox" id="interjection"><label for="interjection">叫詞</label></li>
+                                <li><input checked type="checkbox" id="conjunction"><label for="conjunction">約詞</label></li>
+                            </ul>
+                        </li>
                     </ul>
-                    のどれか
                 </li>
             </ul>
             <button style="font-family: inherit; font-size: inherit;" onclick="rerender(); ">絞り込む</button>
         </div>
+        <div id="counting" style="width: 100%; max-width: 800px; margin: 0px auto 10px auto; padding: 10px;"></div>
         <div class="outer" id="outer">
             ロード中………<br>
             <span style="font-size: 80%;">（いつまでもこの表示が切り替わらない場合、http://jurliyuuri.com/praige-zerp/prai%20ge%20zerp.json に何らかの理由でアクセスができないかなんか。）（fetchでJSON読んでるからCORSの関係でローカルでは動かない、と思ったが動く。）</span>
