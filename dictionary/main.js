@@ -129,10 +129,10 @@ const encode_syllable_traditional2 = (str) => {
 };
 const encode_word = (str) => str.split(" ").map(syl => encode_syllable(syl)).join(" ");
 const encode_word_traditional2 = (str) => str.split(" ").map(syl => encode_syllable_traditional2(syl)).join(" ");
-const render = (dictionary, image_getter) => {
+const render = (dictionary, image_getter, filter) => {
     const urlParams = new URLSearchParams(window.location.search);
     const sortBy = urlParams.get('sortBy')?.toLowerCase();
-    let ids = dictionary.words.map(a => a.entry.id);
+    let ids = dictionary.words.filter(word => filter(word)).map(a => a.entry.id);
     if (sortBy === "random") {
         for (let i = ids.length - 1; i > 0; i--) {
             const j = Math.floor(Math.random() * (i + 1));
@@ -165,3 +165,64 @@ const render = (dictionary, image_getter) => {
     }
     document.getElementById("outer").innerHTML = ids.map(id => get_word(dictionary, id, image_getter)).join("");
 };
+function getFilterFuncFromForm() {
+    const filter_kind = document.getElementById("filter").value;
+    const query_text = document.getElementById("query_text").value;
+    const criterion = document.getElementById("criterion").value;
+    const test_criterion = (form) => {
+        if (criterion === "contains") {
+            return form.includes(query_text);
+        }
+        else if (criterion === "matches") {
+            return new RegExp(query_text).test(form);
+        }
+        throw new Error("Internal error: Cannot handle " + JSON.stringify({ criterion }));
+    };
+    const test_querytext_condition = (word) => {
+        if (filter_kind === "hanzi_transcription") {
+            if (query_text.trim() === "") {
+                return true;
+            }
+            const hanzi_transcriptions = word.translations.filter(t => t.title === "漢字転写");
+            if (hanzi_transcriptions.length === 0) {
+                return false;
+            }
+            return hanzi_transcriptions[0].forms.some(test_criterion);
+        }
+        else if (filter_kind === "word") {
+            return test_criterion(word.entry.form);
+        }
+        else if (filter_kind === "translation") {
+            return word.translations.filter(t => t.title !== "漢字転写").flatMap(t => t.forms).some(test_criterion);
+        }
+        else if (filter_kind === "explanation") {
+            return word.contents.map(c => c.text).some(test_criterion);
+        }
+        throw new Error("Internal error: Cannot handle " + JSON.stringify({ filter_kind, query_text, criterion }));
+    };
+    const query_POS = Array.from(document.querySelectorAll("ul#parts_of_speech input[type='checkbox']"))
+        .filter(a => a.checked).map(a => a.id);
+    console.log({ query_POS });
+    const test_POS_condition = (word) => {
+        const word_POS_list = word.translations.map(t => {
+            if (t.title === "名詞") {
+                return "noun";
+            }
+            if (t.title === "動詞") {
+                return "verb";
+            }
+            if (t.title === "定詞") {
+                return "prenominal";
+            }
+            if (t.title === "叫詞") {
+                return "interjection";
+            }
+            if (t.title === "約詞") {
+                return "conjunction";
+            }
+            return "";
+        });
+        return query_POS.some(pos => word_POS_list.includes(pos));
+    };
+    return (word) => test_querytext_condition(word) && test_POS_condition(word);
+}

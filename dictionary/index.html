@@ -8,24 +8,14 @@
     <script src="main.js"></script>
     <link href="main.css" type="text/css" rel="stylesheet">
     <script>
-        function updateURLSearchParamsFromForm() {
-            let filter = document.getElementById("filter").value;
-            let query_text = document.getElementById("query_text").value;
-            let criterion = document.getElementById("criterion").value;
-            let parts_of_speech = Array.from(document.querySelectorAll("input[type='checkbox']"), a => a.id);
+        let DICTIONNAIRE;
 
-            const params1 = new URLSearchParams([
-                ["filter", filter],
-                ["query_text", query_text],
-                ["criterion", criterion],
-                ["parts_of_speech", parts_of_speech.join()]
-            ]);
-
-            document.location.search = params1.toString();
+        function rerender() {
+            render(DICTIONNAIRE, getImage_, getFilterFuncFromForm())
         }
     </script>
 </head>
-<body onload="fetch('http:/'+'/jurliyuuri.com/praige-zerp/prai%20ge%20zerp.json').then(function(r){ return r.json() }, function(rej){alert('cannot obtain the dictionary: ' + rej)}).then(function(dictionnaire){render(dictionnaire, getImage_)})">
+<body onload="fetch('http:/'+'/jurliyuuri.com/praige-zerp/prai%20ge%20zerp.json').then(function(r){ return r.json() }, function(rej){alert('cannot obtain the dictionary: ' + rej)}).then(function(dictionnaire){DICTIONNAIRE = dictionnaire; render(dictionnaire, getImage_, word => true)})">
     <div class="outermost" >
         <div style="text-align: center; padding: 0 0 20px 0">
             <img src="dictionary3.png" width="400"><br>
@@ -41,17 +31,17 @@
             <ul style="margin-block-start: 0.3em">
                 <li>
                     <select id="filter" style="font-family: inherit; font-size: inherit;">
-                        <option value="transcription">漢字転写が</option>
+                        <option value="hanzi_transcription">漢字転写が</option>
                         <option value="word">単語が</option>
                         <option value="translation">訳語が</option>
                         <option value="explanation">補足説明が</option>
                       </select><input id="query_text" type="text" style="font-family: inherit; font-size: inherit;"><select id="criterion" style="font-family: inherit; font-size: inherit;">
                           <option value="contains">を含む</option>
-                          <option value="matches">という正規表現にマッチする</option>
+                          <option value="matches">という正規表現に部分マッチする</option>
                         </select>
                 </li>
                 <li>品詞が
-                    <ul>
+                    <ul id="parts_of_speech">
                         <li><input checked type="checkbox" id="noun"><label for="noun">名詞</label></li>
                         <li><input checked type="checkbox" id="verb"><label for="verb">動詞</label></li>
                         <li><input checked type="checkbox" id="prenominal"><label for="prenominal">定詞</label></li>
@@ -61,7 +51,7 @@
                     のどれか
                 </li>
             </ul>
-            <button style="font-family: inherit; font-size: inherit;" onclick="updateURLSearchParamsFromForm()">絞り込む</button>
+            <button style="font-family: inherit; font-size: inherit;" onclick="rerender(); ">絞り込む</button>
         </div>
         <div class="outer" id="outer">
             ロード中………<br>

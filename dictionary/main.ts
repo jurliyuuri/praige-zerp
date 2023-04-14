@@ -1,27 +1,29 @@
-type Dictionary = {
-    readonly words: {
+type Word = {
+    readonly entry: {
+        readonly id: number,
+        readonly form: string
+    },
+    readonly translations: {
+        readonly title: string,
+        readonly forms: string[]
+    }[],
+    readonly tags: string[],
+    readonly contents: {
+        readonly title: string,
+        readonly text: string
+    }[],
+    readonly variations: unknown[],
+    readonly relations: {
+        readonly title: string,
         readonly entry: {
             readonly id: number,
             readonly form: string
-        },
-        readonly translations: {
-            readonly title: string,
-            readonly forms: string[]
-        }[],
-        readonly tags: string[],
-        readonly contents: {
-            readonly title: string,
-            readonly text: string
-        }[],
-        readonly variations: unknown[],
-        readonly relations: {
-            readonly title: string,
-            readonly entry: {
-                readonly id: number,
-                readonly form: string
-            }
-        }[]
-    }[],
+        }
+    }[]
+};
+
+type Dictionary = {
+    readonly words: Word[],
     readonly zpdic: unknown,
     readonly snoj: string
 }
@@ -186,11 +188,11 @@ const encode_syllable_traditional2 = (str: string) => {
 const encode_word = (str: string) => str.split(" ").map(syl => encode_syllable(syl)).join(" ");
 const encode_word_traditional2 = (str: string) => str.split(" ").map(syl => encode_syllable_traditional2(syl)).join(" ");
 
-const render = (dictionary: Dictionary, image_getter: (l: string, precedence: string[], size: number, flag: boolean, path: string) => unknown) => {
+const render = (dictionary: Dictionary, image_getter: (l: string, precedence: string[], size: number, flag: boolean, path: string) => unknown, filter: (word: Word) => boolean) => {
     const urlParams = new URLSearchParams(window.location.search);
     const sortBy = urlParams.get('sortBy')?.toLowerCase();
 
-    let ids = dictionary.words.map(a => a.entry.id);
+    let ids = dictionary.words.filter(word => filter(word)).map(a => a.entry.id);
 
     if (sortBy === "random") {
         for (let i = ids.length - 1; i > 0; i--) {
@@ -219,4 +221,53 @@ const render = (dictionary: Dictionary, image_getter: (l: string, precedence: st
         });
     }
     document.getElementById("outer")!.innerHTML = ids.map(id => get_word(dictionary, id, image_getter)).join("");
+}
+
+function getFilterFuncFromForm(): (word: Word) => boolean {
+    const filter_kind = (document.getElementById("filter")! as HTMLSelectElement).value as ("hanzi_transcription" | "word" | "translation" | "explanation");
+    const query_text = (document.getElementById("query_text")! as HTMLInputElement).value;
+    const criterion = (document.getElementById("criterion")! as HTMLSelectElement).value as ("contains" | "matches");
+
+    const test_criterion = (form: string) => {
+        if (criterion === "contains") { return form.includes(query_text) }
+        else if (criterion === "matches") { return new RegExp(query_text).test(form) }
+        throw new Error("Internal error: Cannot handle " + JSON.stringify({ criterion }));
+    };
+
+    const test_querytext_condition = (word: Word) => {
+        if (filter_kind === "hanzi_transcription") {
+            if (query_text.trim() === "") {
+                return true;
+            }
+            const hanzi_transcriptions = word.translations.filter(t => t.title === "漢字転写");
+            if (hanzi_transcriptions.length === 0) {
+                return false;
+            }
+            return hanzi_transcriptions[0].forms.some(test_criterion);
+        } else if (filter_kind === "word") {
+            return test_criterion(word.entry.form)
+        } else if (filter_kind === "translation") {
+            return word.translations.filter(t => t.title !== "漢字転写").flatMap(t => t.forms).some(test_criterion);
+        } else if (filter_kind === "explanation") {
+            return word.contents.map(c => c.text).some(test_criterion);
+        }
+        throw new Error("Internal error: Cannot handle " + JSON.stringify({ filter_kind, query_text, criterion }));
+    }
+
+    const query_POS = Array.from(document.querySelectorAll("ul#parts_of_speech input[type='checkbox']"))
+        .filter(a => (a as HTMLInputElement).checked).map(a => a.id) as ("noun" | "verb" | "prenominal" | "interjection" | "conjunction")[];
+    console.log({ query_POS });
+
+    const test_POS_condition = (word: Word) => {
+        const word_POS_list = word.translations.map(t => {
+            if (t.title === "名詞") { return "noun"; }
+            if (t.title === "動詞") { return "verb"; }
+            if (t.title === "定詞") { return "prenominal"; }
+            if (t.title === "叫詞") { return "interjection"; }
+            if (t.title === "約詞") { return "conjunction"; }
+            return "";
+        });
+        return query_POS.some(pos => word_POS_list.includes(pos));
+    }
+    return (word: Word) => test_querytext_condition(word) && test_POS_condition(word);
 }
