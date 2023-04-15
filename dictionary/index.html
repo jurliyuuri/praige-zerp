@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <head>
     <meta charset="utf-8">
     <title>牌言集書</title>
@@ -14,20 +15,38 @@
             render(DICTIONNAIRE, getImage_, getFilterFuncFromForm())
         }
     </script>
+    <script>
+        function toggle_parts_of_speech_visibility() {
+            if (document.getElementById("POS_specified").checked) {
+                document.getElementById("parts_of_speech").style.display = "block"
+            }
+            else {
+                document.getElementById("parts_of_speech").style.display = "none"
+            }
+        }
+    </script>
 </head>
-<body onload="fetch('http:/'+'/jurliyuuri.com/praige-zerp/prai%20ge%20zerp.json').then(function(r){ return r.json() }, function(rej){alert('cannot obtain the dictionary: ' + rej)}).then(function(dictionnaire){DICTIONNAIRE = dictionnaire; render(dictionnaire, getImage_, word => true)})">
-    <div class="outermost" >
+
+<body
+    onload="fetch('http:/'+'/jurliyuuri.com/praige-zerp/prai%20ge%20zerp.json').then(function(r){ return r.json() }, function(rej){alert('cannot obtain the dictionary: ' + rej)}).then(function(dictionnaire){DICTIONNAIRE = dictionnaire; render(dictionnaire, getImage_, word => true)})">
+    <div class="outermost">
         <div style="text-align: center; padding: 0 0 20px 0">
             <img src="dictionary3.png" width="400"><br>
-            <a href="index.html">標準的ソート</a> 
-            <a href="index.html?sortBy=ascii">ASCII順ソート</a> 
-            <a href="index.html?sortBy=id">ID順ソート</a> 
-            <a href="index.html?sortBy=random">シャッフル</a> 
+            <a href="index.html">標準的ソート</a>
+            <a href="index.html?sortBy=ascii">ASCII順ソート</a>
+            <a href="index.html?sortBy=id">ID順ソート</a>
+            <a href="index.html?sortBy=random">シャッフル</a>
             <a href="index.html?sortBy=traditional2">伝統配列2</a>
         </div>
-        <div style="text-align: center; padding: 0 0 20px 0">困ったときは<a href="http://jurliyuuri.github.io/spoonfed_pekzep/index.html">Spoonfed Pekzep</a>の<a href="https://github.com/jurliyuuri/spoonfed_pekzep/blob/master/docs/raw.tsv">raw.tsv</a>も検索しましょう。</div>
-        <div id="credit" style="font-size: 9px; width: 100%; max-width: 800px; margin: 0px auto; padding: 10px">このサイトのスタイルシートは<a href="http://twitter.com/ziphil">Ziphil</a>さんの<a href="http://zpdic.ziphil.com/">ZpDIC Online</a>を大いに参考にしており、その旨は<a href="https://twitter.com/Ziphil/status/1368348211119722497">本人からの明示的許可</a>をいただいております。</div>
-        <div style="width: 100%; max-width: 800px; margin: 0px auto 10px auto; padding: 10px; border-radius: 10px; background-color: #bbe1f1">
+        <div style="text-align: center; padding: 0 0 20px 0">困ったときは<a
+                href="http://jurliyuuri.github.io/spoonfed_pekzep/index.html">Spoonfed Pekzep</a>の<a
+                href="https://github.com/jurliyuuri/spoonfed_pekzep/blob/master/docs/raw.tsv">raw.tsv</a>も検索しましょう。</div>
+        <div id="credit" style="font-size: 9px; width: 100%; max-width: 800px; margin: 0px auto; padding: 10px">
+            このサイトのスタイルシートは<a href="http://twitter.com/ziphil">Ziphil</a>さんの<a href="http://zpdic.ziphil.com/">ZpDIC
+                Online</a>を大いに参考にしており、その旨は<a
+                href="https://twitter.com/Ziphil/status/1368348211119722497">本人からの明示的許可</a>をいただいております。</div>
+        <div
+            style="width: 100%; max-width: 800px; margin: 0px auto 10px auto; padding: 10px; border-radius: 10px; background-color: #bbe1f1">
             <ul style="margin-block-start: 0.3em">
                 <li>
                     <select id="filter" style="font-family: inherit; font-size: inherit;">
@@ -35,24 +54,32 @@
                         <option value="word">単語が</option>
                         <option value="translation">訳語が</option>
                         <option value="explanation">補足説明が</option>
-                      </select><input id="query_text" type="text" style="font-family: inherit; font-size: inherit;"><select id="criterion" style="font-family: inherit; font-size: inherit;">
-                          <option value="contains">を含む</option>
-                          <option value="matches">という正規表現に部分マッチする</option>
-                        </select>
+                    </select><input id="query_text" type="text"
+                        style="font-family: inherit; font-size: inherit;"><select id="criterion"
+                        style="font-family: inherit; font-size: inherit;">
+                        <option value="contains">を含む</option>
+                        <option value="matches">という正規表現に部分マッチする</option>
+                    </select>
                 </li>
                 <li>品詞
                     <ul>
                         <li>
-                            <input type="radio" name="whether_POS" id="POS_unspecified" checked><label for="POS_unspecified">指定なし</label>
+                            <input type="radio" name="whether_POS" id="POS_unspecified"
+                                onchange="toggle_parts_of_speech_visibility()" checked><label
+                                for="POS_unspecified">指定なし</label>
                         </li>
                         <li>
-                            <input type="radio" name="whether_POS" id="POS_specified"><label for="POS_specified">指定あり</label>
-                            <ul id="parts_of_speech">
+                            <input type="radio" name="whether_POS" id="POS_specified"
+                                onchange="toggle_parts_of_speech_visibility()"><label for="POS_specified">指定あり</label>
+                            <ul id="parts_of_speech" style="display: none;">
                                 <li><input checked type="checkbox" id="noun"><label for="noun">名詞</label></li>
                                 <li><input checked type="checkbox" id="verb"><label for="verb">動詞</label></li>
-                                <li><input checked type="checkbox" id="prenominal"><label for="prenominal">定詞</label></li>
-                                <li><input checked type="checkbox" id="interjection"><label for="interjection">叫詞</label></li>
-                                <li><input checked type="checkbox" id="conjunction"><label for="conjunction">約詞</label></li>
+                                <li><input checked type="checkbox" id="prenominal"><label for="prenominal">定詞</label>
+                                </li>
+                                <li><input checked type="checkbox" id="interjection"><label
+                                        for="interjection">叫詞</label></li>
+                                <li><input checked type="checkbox" id="conjunction"><label for="conjunction">約詞</label>
+                                </li>
                             </ul>
                         </li>
                     </ul>
@@ -63,7 +90,8 @@
         <div id="counting" style="width: 100%; max-width: 800px; margin: 0px auto 10px auto; padding: 10px;"></div>
         <div class="outer" id="outer">
             ロード中………<br>
-            <span style="font-size: 80%;">（いつまでもこの表示が切り替わらない場合、http://jurliyuuri.com/praige-zerp/prai%20ge%20zerp.json に何らかの理由でアクセスができないかなんか。）（fetchでJSON読んでるからCORSの関係でローカルでは動かない、と思ったが動く。）</span>
+            <span style="font-size: 80%;">（いつまでもこの表示が切り替わらない場合、http://jurliyuuri.com/praige-zerp/prai%20ge%20zerp.json
+                に何らかの理由でアクセスができないかなんか。）（fetchでJSON読んでるからCORSの関係でローカルでは動かない、と思ったが動く。）</span>
         </div>
     </div>
 </body>
