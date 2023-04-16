@@ -28,7 +28,7 @@
 </head>
 
 <body
-    onload="fetch('http:/'+'/jurliyuuri.com/praige-zerp/prai%20ge%20zerp.json').then(function(r){ return r.json() }, function(rej){alert('cannot obtain the dictionary: ' + rej)}).then(function(dictionnaire){DICTIONNAIRE = dictionnaire; render(dictionnaire, getImage_, word => true)})">
+    onload="fetch('http:/'+'/jurliyuuri.com/praige-zerp/prai%20ge%20zerp.json').then(function(r){ return r.json() }, function(rej){alert('cannot obtain the dictionary: ' + rej)}).then(function(dictionnaire){DICTIONNAIRE = dictionnaire; render(dictionnaire, getImage_, word => true); toggle_parts_of_speech_visibility()})">
     <div class="outermost">
         <div style="text-align: center; padding: 0 0 20px 0">
             <img src="dictionary3.png" width="400"><br>
