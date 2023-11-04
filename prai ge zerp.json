@@ -11297,10 +11297,10 @@
       "forms" : [ "巻" ]
     }, {
       "title" : "名詞",
-      "forms" : [ "巻物、巻かれたもの" ]
+      "forms" : [ "巻物", "巻かれたもの" ]
     }, {
       "title" : "動詞",
-      "forms" : [ "巻く、回す、ねじる" ]
+      "forms" : [ "巻く", "回す", "ねじる" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -11314,7 +11314,7 @@
       "text" : "アイル語　cee.ar\nバート語　zeúḷ.bt"
     }, {
       "title" : "発音",
-      "text" : "tse2"
+      "text" : "tsə2"
     } ],
     "variations" : [ ],
     "relations" : [ ]
