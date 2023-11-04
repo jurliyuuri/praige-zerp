@@ -11398,6 +11398,38 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 573,
+      "form" : "san1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "顔" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "顔" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 574,
+      "form" : "san1 iam1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "顔口" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "口" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
