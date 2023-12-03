@@ -11430,6 +11430,60 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 575,
+      "form" : "cuat"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "斥" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "外に追い出す" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "外に追い出す" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 576,
+      "form" : "cuat zuo1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "斥片" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "捨て札", "捨て牌" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 576,
+      "form" : "cuat su1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "斥銭" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "割り引く" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "割引" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
