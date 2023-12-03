@@ -10,7 +10,7 @@
 
 ---
 name: paige
-version: “2022.09.03”
+version: “2023.12.03”
 sort: by_weight
 use_preset_vocabulary: true
 ...
