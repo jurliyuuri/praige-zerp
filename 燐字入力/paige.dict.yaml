@@ -10,7 +10,7 @@
 
 ---
 name: paige
-version: “2023.12.03”
+version: “2024.01.07”
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -88,7 +88,6 @@ use_preset_vocabulary: true
 高	suef
 始	hutv
 終	ta
-出	ianf
 生	ianf
 入	litf
 一	etv
@@ -351,7 +350,6 @@ use_preset_vocabulary: true
 振	pitf
 顫	pitf
 肉	gek
-后	yp
 笙	lokf
 種	det
 从	tiaf

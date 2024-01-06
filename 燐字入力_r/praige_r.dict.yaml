@@ -10,7 +10,7 @@
 
 ---
 name: praige_r
-version: “2023.12.03”
+version: “2024.01.07”
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -90,7 +90,6 @@ use_preset_vocabulary: true
 高	suer
 始	hrut
 終	ta
-出	iarn
 生	iarn
 入	lirt
 一	ret
@@ -356,7 +355,6 @@ use_preset_vocabulary: true
 振	pirt
 顫	pirt
 肉	gek
-后	yp
 笙	lork
 種	det
 从	tiar
