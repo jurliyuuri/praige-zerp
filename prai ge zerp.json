@@ -11484,6 +11484,25 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 578,
+      "form" : "puau1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "乾" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "乾く、乾燥する" ]
+    }, {
+      "title" : "定詞",
+      "forms" : [ "乾いている、水気がない" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
