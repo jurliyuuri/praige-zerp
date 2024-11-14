@@ -11503,7 +11503,23 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
-  } ],
+    }, {
+      "entry" : {
+        "id" : 579,
+        "form" : "hua2"
+      },
+      "translations" : [ {
+        "title" : "漢字転写",
+        "forms" : [ "橘" ]
+      }, {
+        "title" : "名詞",
+        "forms" : [ "オレンジ、柑橘類の一種" ]
+      } ],
+      "tags" : [ ],
+      "contents" : [ ],
+      "variations" : [ ],
+      "relations" : [ ]
+    } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
     "wordOrderType" : "CUSTOM",
