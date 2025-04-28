@@ -11503,23 +11503,61 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 579,
+      "form" : "hua2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "橘" ]
     }, {
-      "entry" : {
-        "id" : 579,
-        "form" : "hua2"
-      },
-      "translations" : [ {
-        "title" : "漢字転写",
-        "forms" : [ "橘" ]
-      }, {
-        "title" : "名詞",
-        "forms" : [ "オレンジ、柑橘類の一種" ]
-      } ],
-      "tags" : [ ],
-      "contents" : [ ],
-      "variations" : [ ],
-      "relations" : [ ]
+      "title" : "名詞",
+      "forms" : [ "オレンジ、柑橘類の一種" ]
     } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 580,
+      "form" : "iei2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "冶" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "卑金属", "道具用の金属" ]
+    }, {
+      "title" : "人名",
+      "forms" : [ "姓の一つ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "yeji.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 581,
+      "form" : "iei2 kin2"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "冶金" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "卑金属", "道具用の金属" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
     "wordOrderType" : "CUSTOM",
