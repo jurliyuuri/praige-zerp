@@ -11557,6 +11557,44 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 582,
+      "form" : "guak1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "眉" ]
+    }, {
+      "title" : "概念",
+      "forms" : [ "眉" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "眉" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "guaqa.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 583,
+      "form" : "bet2 guak1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "圧眉" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "後悔する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",
