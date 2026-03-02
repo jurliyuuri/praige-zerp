@@ -11595,6 +11595,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 584,
+      "form" : "ui1"
+    },
+    "translations" : [ {
+      "title" : "漢字転写",
+      "forms" : [ "皿" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "皿" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "pbmcsxztdnlkghaeoiuy",

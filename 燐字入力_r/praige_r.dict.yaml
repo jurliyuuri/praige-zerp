@@ -10,7 +10,7 @@
 
 ---
 name: praige_r
-version: “2025.05.28”
+version: “2026.03.02”
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -395,3 +395,5 @@ use_preset_vocabulary: true
 眉	guark
 侽	kir
 残	tuek
+皿	uir
+皿	uri
