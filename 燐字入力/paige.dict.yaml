@@ -10,7 +10,7 @@
 
 ---
 name: paige
-version: “2024.01.07”
+version: “2025.05.28”
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -388,3 +388,4 @@ use_preset_vocabulary: true
 怯	zatf
 眉	guakf
 侽	kif
+残	tuek
